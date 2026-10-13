@@ -1,0 +1,45 @@
+PASSAGGI
+ 
+STEP 1:
+	salvare le zone  nel fold dati	 C:\Users\giuli\Desktop\GDC Immobiliare\dati\pagine
+
+STEP 2:
+	lanciare lo script:  leggi_annunci.py  --> controllare annunci_vendita.csv e annunci_affitto.csv
+
+STEP 3:
+	lanciare lo script:  esporta_link.py  --> controllare link_schede.txt
+
+STEP 3:
+	lanciare lo script: estrai_condominio.py --> controllare numero di pagine salvate in C:\Users\giuli\Desktop\GDC Immobiliare\dati\pagine\pagina_ID
+
+STEP 4:
+	rilanciare lo script:    leggi_annunci.py --> controllare coordinate GEO e condominio
+
+STEP 6:
+	lancia_ python leggi_spese.py  --> agiunge rif open AI e CLAUDE già in cache
+
+STEP 7: 
+	Classifica con openAI gli annunci: set OPENAI_API_KEY=la_tua_chiave e poi -->  python classifica_openai.py --pausa 0
+
+STEP 8:
+	fare un controllo manuale ed eliminare le classificazioni che riportano a immobili errati e inserire le città-->salvare
+	come output_vendite.csv e output_affitti.csv in C:\Users\giuli\Desktop\GDC Immobiliare\analisi_modelli
+
+STEP 10:
+	lancia lo script python stanze_affitto_intero.py --> rivaluta prezzo della stanza per l'intero immobile
+
+STEP 11:
+	controlla 
+
+STEP 12: lancia i seguenti script:  
+	python analisi_prezzi.py
+	python grafico_combinato.py
+	python aggrega_output.py
+	python modello_aggregato.py
+	python classifica_rendimento.py
+	python grafici_report.py
+	python rendimento_mq.py
+
+STEP 13: lanciare script di GEOanalisi
+
+

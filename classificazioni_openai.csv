@@ -1,0 +1,1100 @@
+﻿id_annuncio;operazione;hash;categoria;rif;motivo;modello
+32870862;vendita;17a613beb0168bdfd298f9df1bfd56cd;multiproprieta_settimana;NO;Il prezzo riguarda una settimana in multiproprietà, normalmente la terza di luglio.;gpt-6-luna
+35613738;vendita;cb71282129f5704cc5b7e9742937823d;garage_box_posto_auto;NO;La descrizione specifica che l’oggetto in vendita è un garage di 30 mq.;gpt-6-luna
+36759960;vendita;522cb443c59513188359e0c61a8f81c0;immobile;SI;Titolo e dati identificano un monolocale di 20 mq al primo piano, venduto come intera abitazione.;gpt-6-luna
+35640595;vendita;d2962231895592f83216d66c30e8c478;altro;NO;È accatastato come magazzino e privo di abitabilità, quindi il prezzo non riguarda un’abitazione.;gpt-6-luna
+36669360;vendita;bcbeadba1ebe0335c69bdd60b4a21348;immobile;SI;Mansarda arredata di 20 mq, in buono stato e pronta da abitare, venduta come intera unità.;gpt-6-luna
+36436453;vendita;c7d5ff4330aebe6f1c675f12031bef73;immobile;SI;Il prezzo riguarda un monolocale abitativo venduto per intero, descritto come in vendita a Varese.;gpt-6-luna
+33537484;vendita;b0d03627223b6465532b0e63020ecb3b;immobile;SI;Prezzo riferito a un bilocale abitativo intero, proposto come investimento.;gpt-6-luna
+34306417;vendita;38e30bd16f3604375becc63c925eb92a;altro;NO;È un locale non abitativo, con sola possibilità di trasformazione in civile abitazione.;gpt-6-luna
+32863328;vendita;718d6e06b729125f1b609e0e94cba559;immobile;SI;Mansarda autonoma con zona notte e giorno, cucina e bagno, venduta come intera unità abitativa.;gpt-6-luna
+36737730;vendita;78b06756632f5670d8728bfd53e95fe4;immobile;SI;"Il prezzo riguarda la vendita dell’intero monolocale; la locazione turistica è indicata solo come possibile investimento.";gpt-6-luna
+29108465;vendita;dac6d5e0dfeed5061cee3853c2894b6c;immobile;SI;"Titolo e descrizione indicano un monolocale ristrutturato venduto per intero; non emergono riferimenti a garage o quote.";gpt-6-luna
+36290151;vendita;b838c7475e3edb31d67d9074e295df5e;altro;NO;Fabbricato accatastato D/10, descritto come magazzino e deposito di macchinari agricoli, non come abitazione.;gpt-6-luna
+30332088;vendita;ffca5ca88e4962411d5ee8761c74215d;nuda_proprieta_o_quota;NO;La descrizione specifica che viene venduta la nuda proprietà dell'appartamento.;gpt-6-luna
+35189391;vendita;c5b94674fb2da2173adf2061554d4ba9;immobile;SI;Il prezzo riguarda un monolocale abitativo completo, con ambiente unico, angolo cottura e bagno.;gpt-6-luna
+17169126;vendita;f4339c7f7437b2db855c4efdf8d2d884;immobile;SI;Il prezzo riguarda un monolocale completo, con bagno e zona cottura, venduto come intera abitazione.;gpt-6-luna
+35749623;vendita;ba08a4122dd6c3c5c96e2d4bc27a4213;immobile;SI;La descrizione propone una mansarda residenziale di 55 mq, apparentemente venduta come intera unità abitativa.;gpt-6-luna
+36384656;vendita;27bd23510f4e4561386e81a27cab8d60;immobile;SI;Prezzo riferito all’intero monolocale abitabile, venduto locato fino a settembre 2026.;gpt-6-luna
+36727334;vendita;5dd648f3d6362d7fe4bab6cf6dc3cc06;immobile;SI;"È descritto come un ampio monolocale di 52 mq in vendita; il prezzo si riferisce all’abitazione.";gpt-6-luna
+35457050;vendita;4a0ba31144b37915df9bc27c7a47af5d;altro;NO;La descrizione specifica che l’immobile è attualmente un negozio con vetrine, non un’abitazione.;gpt-6-luna
+34505946;vendita;ceb2a1f5b1e4737740083c9e3e61ed67;immobile;SI;Il prezzo riguarda la vendita dell’intero monolocale di circa 25 mq, descritto come abitazione.;gpt-6-luna
+31617096;vendita;b17826d7712bb098de0ad6121e78da52;nuda_proprieta_o_quota;NO;La descrizione specifica che il prezzo riguarda la vendita della nuda proprietà dell’appartamento.;gpt-6-luna
+36009624;vendita;0754728e84ef379d376d95872a4b4982;altro;NO;La descrizione indica che l’immobile è attualmente ad uso ufficio, benché trasformabile in appartamento.;gpt-6-luna
+26548557;vendita;d2258dc239a60ed3b3116022aee64ad7;altro;NO;È accatastato C3, quindi non risulta un’abitazione, nonostante sia descritto come monolocale.;gpt-6-luna
+34745011;vendita;40fe8278bfbeed974b6318726cd7af8b;immobile;SI;La descrizione propone in vendita un bilocale ristrutturato, con zona giorno e cucina, riferito all’intera abitazione.;gpt-6-luna
+33553219;vendita;7a4c58d29d4489fefeac4b88318493de;immobile;SI;"Porzione semindipendente venduta come abitazione completa; è attualmente affittata con regolare contratto.";gpt-6-luna
+32651713;vendita;fd94228353b7cf6c73030e2ee1d060ca;immobile;SI;Prezzo riferito a un intero bilocale abitativo, composto da soggiorno, camera, bagno e ripostiglio.;gpt-6-luna
+35957299;vendita;e829f65fb2eff65027f562cdb2dcbc60;immobile;SI;"Il prezzo riguarda un appartamento composto da soggiorno, cucina, due camere e bagno; il garage è accessorio.";gpt-6-luna
+35065008;vendita;7e0bbf9e4cfd1b269ce0512dcfeb4e85;immobile;SI;"Titolo e tipologia indicano un monolocale di 20 mq in vendita; non emergono elementi che suggeriscano altro.";gpt-6-luna
+35004241;vendita;cf54d72a4469eee0f0b0591ac9b58f5b;immobile;SI;"Il prezzo si riferisce al monolocale abitativo di 35 mq; box di proprietà e posto auto sono pertinenze.";gpt-6-luna
+36695452;vendita;ec0ac4985a820d7e2045461e04711315;immobile;SI;Il prezzo si riferisce a un bilocale arredato di 58 mq, descritto come abitazione ristrutturata e dotata di balconi.;gpt-6-luna
+34967559;vendita;5b2a3627b5a99dd657b481b7fe140bcd;immobile;SI;Il prezzo riguarda un monolocale abitativo di 38 mq, proposto in vendita come intera unità.;gpt-6-luna
+28158402;vendita;a455cb7fe3a0641995ed2d8e4c2cd58d;immobile;SI;Il prezzo riguarda un bilocale ristrutturato e abitabile, composto da sala con angolo cottura, camera e bagno.;gpt-6-luna
+35931541;vendita;a378dbf7bf71f83c81e919d39712b825;immobile;SI;"Il prezzo riguarda l’intero appartamento abitativo; la descrizione indica la vendita dell’unità, anche se il testo è troncato.";gpt-6-luna
+35709407;vendita;e5c9c5456df1deaba5462d321c3a1d0b;immobile;SI;La descrizione vende un monolocale ristrutturato, con impianti e terrazzo: si riferisce all’intera unità abitativa.;gpt-6-luna
+35488110;vendita;062d458fadb255093e39f8db81d029b9;altro;NO;La descrizione specifica che l’immobile di 47 mq è attualmente adibito a uso ufficio/studio.;gpt-6-luna
+33490867;vendita;4bee4df7d7ccec679b48a65d1495c38e;immobile;SI;Il prezzo riguarda un bilocale abitativo di 45 mq, descritto come unità completa in vendita.;gpt-6-luna
+35267062;vendita;895e896eeb184d104b860d57e51175f2;immobile;SI;Il prezzo riguarda un intero bilocale, venduto arredato e occupato da un inquilino.;gpt-6-luna
+34066042;vendita;88be8b9bf2442b4dcd4200fd506a8281;immobile;SI;Descrizione di un appartamento di 75 mq all’ultimo piano, proposto come abitazione.;gpt-6-luna
+36849698;vendita;32f8e4a22d823191a7fd9b0434ab2ded;immobile;SI;La descrizione presenta un attico ristrutturato e arredato, venduto come intera unità abitativa.;gpt-6-luna
+36564887;vendita;b54305de75f0f79b05a057cfc7ec731e;immobile;SI;Il prezzo riguarda un appartamento bilocale con ingresso indipendente e zona giorno con angolo cottura.;gpt-6-luna
+35190948;vendita;17f3932bc0672994b8a2fa11486592cd;immobile;SI;Il prezzo riguarda un appartamento trilocale di circa 60 mq, descritto come intera unità abitativa.;gpt-6-luna
+36401871;vendita;d1354dce2b9abc047a17c924cd0479fa;immobile;SI;Il prezzo riguarda un bilocale venduto per intero, descritto come abitazione libera su due livelli.;gpt-6-luna
+36151670;vendita;1d3ca48036f74738685c84ae7f29b29e;terreno_o_rudere;NO;Monolocale ancora in fase di realizzazione, quindi non ancora abitabile.;gpt-6-luna
+36898875;vendita;a31866825f958667c7e72b0507a6d81b;immobile;SI;Il prezzo riguarda la vendita dell’intero bilocale abitativo, descritto con zona giorno, camera e bagno.;gpt-6-luna
+36009544;vendita;9ec483aee9b4fd75805ee17ee9eb5431;altro;NO;La descrizione specifica che il prezzo riguarda un laboratorio artigianale, non un’abitazione.;gpt-6-luna
+34020295;vendita;3c508938e2f04d5731934f8b9f32484c;nuda_proprieta_o_quota;NO;La descrizione specifica che è in vendita la nuda proprietà dell’attico.;gpt-6-luna
+33559440;vendita;a0998a0f36fd63bb6e20f82a338a3e18;immobile;SI;Il prezzo riguarda un intero appartamento trilocale, attualmente locato.;gpt-6-luna
+36724273;vendita;ce4b5f1a822c386da4cafa1656b1eb63;immobile;SI;Titolo e dati descrivono un trilocale di 63 mq, senza indicazioni di vendita parziale o di un oggetto diverso.;gpt-6-luna
+36928355;vendita;6b24835d659c1b265b2a1b3f67edd3b2;immobile;SI;Monolocale di 28 mq descritto come abitazione in ordine, venduto come intera unità.;gpt-6-luna
+35861083;vendita;a8c9c3b38479065d7cc78df26081772f;immobile;SI;La descrizione propone in vendita un bilocale al piano rialzato, senza indicazioni di vendita parziale o uso diverso.;gpt-6-luna
+33510895;vendita;0d3ec2620a90fd71050fe9b2f08b8c16;immobile;SI;La descrizione propone in vendita un bilocale abitativo al piano rialzato, con ingresso e disimpegno.;gpt-6-luna
+36411391;vendita;e2944be6ef398d1a5f9dc5c532df82b2;immobile;SI;La descrizione indica la vendita di un appartamento bilocale, apparentemente un’intera unità abitativa.;gpt-6-luna
+35370652;vendita;fb4c503002bcf80e767dd1a7838c1ef9;immobile;SI;Il prezzo riguarda un bilocale abitativo descritto come appartamento, proposto per intero.;gpt-6-luna
+36310302;vendita;9b49f0b5348c2068013485ee32909a62;immobile;SI;Mansarda di 36 mq recentemente ristrutturata, descritta come abitazione venduta per intero.;gpt-6-luna
+35440565;vendita;5dcf185069540f1d3f0a9e20d15eeac4;immobile;SI;Il prezzo riguarda un monolocale di 25 mq, descritto come abitazione completamente ristrutturata.;gpt-6-luna
+36724103;vendita;caf7596db0d8d1c2801417f6061d4e01;immobile;SI;Il prezzo riguarda un trilocale di 70 mq venduto per intero, sebbene attualmente locato.;gpt-6-luna
+36423219;vendita;0d483cb990e9085cb5996b45758e5503;immobile;SI;La descrizione presenta un appartamento al piano terra, con soggiorno e cucina, venduto come intera abitazione.;gpt-6-luna
+32535979;vendita;8e4f3ea6225e4ab1b15b2a1dece003b3;immobile;SI;"La descrizione propone in vendita un appartamento al piano terra; il prezzo riguarda l’intera abitazione.";gpt-6-luna
+36858087;vendita;40e714c7fdf7860b7f6946fbd617590c;immobile;SI;"Annuncio di vendita di un monolocale abitativo; il prezzo si riferisce all’intera unità.";gpt-6-luna
+34806866;vendita;b76b6ed12e0e4d7e9c39e831d9b63d63;immobile;SI;"Il prezzo riguarda il monolocale abitativo di 37 mq; il posto auto è accessorio e compreso nella proprietà.";gpt-6-luna
+35963660;vendita;44d0f713ec14d2eb9ad23c3185b6e720;immobile;SI;La descrizione indica la vendita di un appartamento di 46 mq, senza riferimenti a quote o usi limitati.;gpt-6-luna
+35963618;vendita;30e76f60441004a5b435338a681f45e9;immobile;SI;La descrizione propone in vendita un bilocale al primo piano, quindi un’intera unità abitativa.;gpt-6-luna
+34086102;vendita;4155eea16c5860ca9cc4cb96ab380c6c;immobile;SI;"Monolocale venduto come intera abitazione; è attualmente affittato, ma il contratto è in scadenza.";gpt-6-luna
+36768369;vendita;7f427e246d525fc2e0e98f3df2064152;immobile;SI;La descrizione propone in vendita un intero monolocale abitabile arredato al settimo piano.;gpt-6-luna
+36999832;vendita;39f2b09b540cca738aba61574e1b0c77;immobile;SI;La descrizione propone un appartamento abitabile da subito, venduto come intera unità abitativa.;gpt-6-luna
+36099376;vendita;d2b8f60db27f05b8ca6c8dfd49498b33;immobile;SI;La descrizione propone in vendita un monolocale di 35 mq, un’intera unità abitativa.;gpt-6-luna
+36382892;vendita;8d41113781471e2685cf4c574659cb70;immobile;SI;Annuncio di un bilocale di 58 mq al primo piano, descritto come abitazione.;gpt-6-luna
+36585232;vendita;eb26174f7a1232a1863a9b227e706413;immobile;SI;Il prezzo si riferisce a un monolocale di 40 mq venduto come abitazione intera.;gpt-6-luna
+36376044;vendita;6dc13082f4e4bce2a628134a7761a1df;immobile;SI;La descrizione indica un appartamento bilocale libero e abitabile, venduto come intera unità abitativa.;gpt-6-luna
+34521449;vendita;b2c6cb29195ba1b773d780c49e217be8;immobile;SI;"Il prezzo riguarda il monolocale abitativo di 66 mq; il box è un accessorio incluso nella proposta.";gpt-6-luna
+35833400;vendita;a6e0650b4ce24bb732ba7cef366581f9;immobile;SI;Prezzo riferito a un intero bilocale abitativo, con soggiorno, cucina, camera e bagno.;gpt-6-luna
+34346738;vendita;e94564e5369f0941a1c27981afefee31;immobile;SI;Il prezzo riguarda un monolocale di 66 mq in condominio, venduto come abitazione.;gpt-6-luna
+36245292;vendita;3edc73281410bd3998030509c596c653;immobile;SI;Il prezzo riguarda un monolocale di 37 mq al primo piano, descritto come unità abitativa.;gpt-6-luna
+35066030;vendita;61400870a3a7df093af4b0af3373321a;immobile;SI;Il prezzo riguarda il monolocale intero, descritto come abitazione restaurata e arredata, attualmente a reddito.;gpt-6-luna
+35564939;vendita;9081b09f3284900d6e669891ac26c0d3;immobile;SI;Il prezzo riguarda un appartamento bilocale di circa 60 mq, descritto come unità abitativa completa.;gpt-6-luna
+35950929;vendita;b8b16c222729803edcf33ee85da09bf3;immobile;SI;"La descrizione presenta una mansarda in buono stato come soluzione abitativa; il prezzo riguarda l’intera unità.";gpt-6-luna
+29098297;vendita;90cf4fb07487b34de7deee21c5e3f31d;nuda_proprieta_o_quota;NO;La descrizione specifica che viene venduta la nuda proprietà del bilocale.;gpt-6-luna
+36376736;vendita;915e44a2cbb6615f3076b0d583f7ad55;altro;NO;È descritto come magazzino accatastato C/2, quindi non è un’abitazione.;gpt-6-luna
+33369651;vendita;06e6e35723c0c11cf19fca178fffc2b2;immobile;SI;Il prezzo riguarda un trilocale mansardato, un’intera abitazione attualmente locata.;gpt-6-luna
+36328056;vendita;00139abc76cf8fcdd289a22719af6c8c;immobile;SI;La descrizione propone in vendita un bilocale di 40 mq, cioè un’intera unità abitativa.;gpt-6-luna
+34863779;vendita;45866e8fb5505f69df7cba47be76ce7c;immobile;SI;Il prezzo riguarda un monolocale abitabile venduto per intero, con zona giorno/notte, cucinotto e bagno.;gpt-6-luna
+36046493;vendita;538d3978291fbc7335f9b950aa5374d1;immobile;SI;La descrizione indica la vendita dell’intero appartamento bilocale, già locato, come investimento.;gpt-6-luna
+35949926;vendita;fbc81975333f0514e5d03699f26e977c;nuda_proprieta_o_quota;NO;La descrizione specifica che viene venduta la nuda proprietà del terratetto.;gpt-6-luna
+33700336;vendita;d685ecd2b1f9e408d67b84f307a20cff;immobile;SI;Il prezzo riguarda l'intero trilocale abitativo di 75 mq, con cantina accessoria.;gpt-6-luna
+31634216;vendita;331d24eefb03e3dfd63cafffab790cf2;immobile;SI;Il prezzo riguarda un appartamento di 64 mq, descritto come bilocale in vendita.;gpt-6-luna
+33988867;vendita;d9e3044f9fb3cbddda7cba298b5f9d77;immobile;SI;Descrizione di un attico venduto come abitazione, con soggiorno, camera, cucina e bagno.;gpt-6-luna
+35402068;vendita;6df0a074562e990354c4454658c766bd;immobile;SI;"Il prezzo riguarda un monolocale abitativo venduto per intero; il posto auto è accessorio.";gpt-6-luna
+11720315;vendita;8aae15425326ba2368a2adc865af6fd5;immobile;SI;"Il prezzo riguarda il monolocale abitativo di 40 mq; il garage è un accessorio incluso.";gpt-6-luna
+36677854;vendita;cc7c73c161b5d1ef01a09d69988370d4;immobile;SI;Il prezzo si riferisce a una casa indipendente abitativa, libera su tre lati.;gpt-6-luna
+36664118;vendita;c80499901a5d5913e2be2961dd9d0934;immobile;SI;Il prezzo riguarda un bilocale abitativo in vendita, descritto come intera unità di 44 mq.;gpt-6-luna
+36899275;vendita;fa2df4e7e5ef585ebc5e7707caed7a1d;immobile;SI;La descrizione propone in vendita un monolocale abitativo, apparentemente come unità intera.;gpt-6-luna
+35946281;vendita;4117371ca96b2134dc1d232d278e0fae;immobile;SI;La descrizione propone in vendita un bilocale arredato, pronto da abitare, composto da ingresso e soggiorno.;gpt-6-luna
+35389159;vendita;941749b7a99a2e0424de4aae7bc15cc2;immobile;SI;La descrizione indica la vendita dell’intero appartamento di 68 mq, adatto a uso abitativo.;gpt-6-luna
+36671134;vendita;35f1be536776f7b9c1f946abc4cde948;altro;NO;"È descritto come accatastato C2, quindi locale deposito e non abitazione; il posto auto è accessorio.";gpt-6-luna
+36196461;vendita;34caa61da18fdcd8b2e2b7556376749c;altro;NO;La descrizione specifica che l’immobile è accatastato A/10, quindi ad uso ufficio e non abitativo.;gpt-6-luna
+36097223;vendita;f3d5b7bddb5ec30bcea63418a5bb6e81;immobile;SI;"La descrizione propone in vendita un appartamento arredato; il garage è accessorio all’abitazione.";gpt-6-luna
+36230287;vendita;92b424089dffdd93e003cac9bd300725;immobile;SI;"Il prezzo riguarda il monolocale abitabile venduto per intero; il box è opzionale e ha un prezzo separato.";gpt-6-luna
+35074375;vendita;c05bff8702f1f7985746a116deb59161;incerto;NO;La descrizione è incompleta e inizia con un annuncio di ricerca personale, quindi non chiarisce a cosa si riferisca il prezzo.;gpt-6-luna
+35747426;vendita;281a729b9acf0b93ce0869a0402f798b;immobile;SI;Il prezzo riguarda un intero monolocale abitativo, venduto locato.;gpt-6-luna
+35596852;vendita;3a4b68d6b8c412482791f6e866462e49;immobile;SI;Il prezzo si riferisce alla vendita dell’intero monolocale abitativo di 35 mq.;gpt-6-luna
+36859291;vendita;d505e735d800bc7b66e2737711c16144;immobile;SI;Il prezzo riguarda la vendita dell’intero monolocale abitabile, composto da zona giorno/notte, cucinotto e balcone.;gpt-6-luna
+36285130;vendita;556c2895761b0b3c36f2511928145c9b;immobile;SI;Il prezzo riguarda un appartamento intero di 91 mq, descritto come quadrilocale in vendita.;gpt-6-luna
+33490449;vendita;c91856c4b1fbd30e187f4c1471fad6e5;immobile;SI;Il prezzo riguarda un appartamento completo di 90 mq, con due camere, cucina-soggiorno e bagno.;gpt-6-luna
+33571170;vendita;e7fe583cf514234c7e8317bb66660804;altro;NO;"È accatastato come ufficio; il cambio di destinazione d’uso è solo possibile, non attuale.";gpt-6-luna
+36251605;vendita;3d8b318279b8397cb00faba96e7f4396;immobile;SI;Il prezzo riguarda un intero bilocale ristrutturato con ingresso indipendente, attualmente adibito a B&B.;gpt-6-luna
+34563011;vendita;df22d16147553067c3c37d567780e246;immobile;SI;Il prezzo riguarda un appartamento monolocale di 41 mq, descritto come abitazione in ottime condizioni.;gpt-6-luna
+36999050;vendita;5119362a4eeb80bc0b5b5ef1de31b266;immobile;SI;Titolo e descrizione indicano un bilocale mansardato di 36 mq venduto come abitazione.;gpt-6-luna
+34957922;vendita;5f8da3791c3712423d77688a74fdb080;immobile;SI;Il prezzo riguarda un trilocale abitativo di 65 mq, descritto come in vendita.;gpt-6-luna
+36419567;vendita;728a54886334290fda205c60905763ed;immobile;SI;Il prezzo riguarda un monolocale in vendita, descritto come intera abitazione al terzo piano.;gpt-6-luna
+34999412;vendita;bf93a199656d9b8cb189cdc459ed39d5;immobile;SI;Il prezzo riguarda un monolocale intero, arredato e con ingresso indipendente, attualmente locato.;gpt-6-luna
+33830827;vendita;3baa59cd422dbec255b71d67feb3fc42;immobile;SI;La descrizione indica un appartamento al secondo piano con terrazzo, venduto come intera abitazione.;gpt-6-luna
+31869897;vendita;b51f3e7fc63272ad6efc03534007db46;immobile;SI;Bilocale indipendente descritto come soluzione abitativa completa, arredata e di recente ristrutturazione.;gpt-6-luna
+34285026;vendita;4b58510cb021cd03267f7ed8fe60fda6;immobile;SI;Il prezzo riguarda un bilocale ristrutturato, descritto come appartamento completo e utilizzabile come abitazione.;gpt-6-luna
+36664053;vendita;67b9ac44dc349a3cd09bba34f73e6c1b;immobile;SI;Il prezzo riguarda un bilocale ristrutturato venduto per intero, adatto come abitazione o investimento.;gpt-6-luna
+33787862;vendita;a7b51bb6b31964eed5b4cd81ffc337fb;immobile;SI;Il prezzo riguarda un bilocale in vendita, descritto come appartamento con soggiorno, cucina a vista e camera matrimoniale.;gpt-6-luna
+36738290;vendita;0e62e2847818ac977db5777f5ef7e27b;immobile;SI;"Monolocale di 45 mq arredato e restaurato, venduto come intera abitazione; pronto per essere affittato.";gpt-6-luna
+36432248;vendita;fa864588e4b7f40dba445b32455c0597;immobile;SI;Il prezzo riguarda un appartamento bilocale descritto come unità abitativa in vendita.;gpt-6-luna
+35610641;vendita;90661cece125d09eb3a8b164aaee2983;nuda_proprieta_o_quota;NO;La descrizione specifica che è in vendita la nuda proprietà, con usufruttuario di 80 anni.;gpt-6-luna
+32228713;vendita;7261faf9c9a5ef073af97395281a7a13;immobile;SI;Il prezzo riguarda un trilocale di 90 mq venduto come intero appartamento ristrutturato con ingresso indipendente.;gpt-6-luna
+36207008;vendita;2f50d57f5d884360a4707ae1c887ba7d;immobile;SI;La descrizione propone in vendita un intero appartamento quadrilocale, adatto a uso abitativo.;gpt-6-luna
+36016876;vendita;456d3d0498bef62c38ea6ea226404e88;immobile;SI;La descrizione propone in vendita un appartamento di 57 mq, indicato come trilocale.;gpt-6-luna
+36056565;vendita;55b673c8fff0e1b1ca957ce9d89b51a2;immobile;SI;Il prezzo riguarda l’intero mini appartamento, attualmente affittato a un inquilino.;gpt-6-luna
+34387481;vendita;e7c81c597bad86a7b2da644146107a4e;immobile;SI;Il prezzo si riferisce a un bilocale ristrutturato, descritto come appartamento al quarto piano.;gpt-6-luna
+36801891;vendita;2c3959b25a5d0dc7e8a23b5fba584e55;immobile;SI;La descrizione propone in vendita un bilocale, senza indicazioni di quote, periodi o oggetti diversi dall’abitazione.;gpt-6-luna
+36103026;vendita;55f523eaa092c94f0180d5f7446e80b6;immobile;SI;Il prezzo riguarda un appartamento di 26 mq venduto con formula rent to buy.;gpt-6-luna
+22743078;vendita;b6c59e03f1efcd84a6c1b1657a9e4ffd;immobile;SI;"Il prezzo riguarda un monolocale intero, arredato e dotato di cucina e bagno; è attualmente locato a reddito.";gpt-6-luna
+36987756;vendita;875ab3f5717b6b420f1f459d1a6f5540;immobile;SI;Il prezzo riguarda un bilocale ristrutturato e arredato, descritto come intera abitazione.;gpt-6-luna
+34380285;vendita;39b66b6006b9eb3c827e7f5c01a1ca21;immobile;SI;La descrizione propone in vendita un bilocale di 60 mq, senza indicazioni di quote o usi diversi.;gpt-6-luna
+32566963;vendita;1b374b1e0ef9f125764ac8b84f3fa560;immobile;SI;Il prezzo riguarda un intero monolocale abitativo di 33 mq, proposto in vendita.;gpt-6-luna
+34853120;vendita;bcb4a50fddbb56acf55a79ae4ee9abb4;incerto;NO;"La descrizione è incompleta e inizia con una richiesta di personale; non chiarisce a cosa si riferisca il prezzo.";gpt-6-luna
+36215743;vendita;785d149de554819c1dba713efd7c69ce;immobile;SI;"Il prezzo riguarda l’intero bilocale arredato; è attualmente affittato, ma resta un’abitazione venduta per intero.";gpt-6-luna
+35123650;vendita;d8c5a1549fbbfca9908f33e3ac3db846;immobile;SI;Il prezzo riguarda un monolocale abitativo di 35 mq venduto per intero.;gpt-6-luna
+34356825;vendita;6bf8bacc78104c67a7ad425dcc8e6322;altro;NO;La descrizione specifica che si vende un ufficio di 20 mq, non un’abitazione.;gpt-6-luna
+35918352;vendita;7556dfdea17018e738862633840d3aa3;immobile;SI;"La descrizione propone in vendita l’intero monolocale abitativo di 42 mq; garage e cantina sono accessori.";gpt-6-luna
+36892571;vendita;6963471484383d9b7ca379f91947973b;immobile;SI;La descrizione propone in vendita una mansarda abitativa di circa 45 mq all’ultimo piano.;gpt-6-luna
+36634273;vendita;e5aea4730adfa6f793bf43ed0dd3ba03;immobile;SI;La descrizione propone un bilocale completo, composto da zona giorno/notte, cucina e bagno, venduto come abitazione.;gpt-6-luna
+35222349;vendita;fef74dc8222b3360d7c666b96d0a37ca;immobile;SI;Annuncio di vendita di un bilocale abitativo di 38 mq, descritto come appartamento adatto a single o coppie.;gpt-6-luna
+36789278;vendita;2254df776151b9bf0c8f0c80d564541d;immobile;SI;Il prezzo si riferisce a un monolocale di 64 mq al secondo piano in un contesto residenziale.;gpt-6-luna
+36439214;vendita;3e5e75481fc4652e67155a5c2c66f282;immobile;SI;La descrizione propone in vendita una palazzina composta da quattro appartamenti residenziali.;gpt-6-luna
+33858831;vendita;108dee2da5c063aebe2eaf86d0d4d891;nuda_proprieta_o_quota;NO;La descrizione specifica che l’attico è venduto in nuda proprietà.;gpt-6-luna
+36357594;vendita;b1cf539e9b56b92c03b1d9389406917f;immobile;SI;Il prezzo riguarda un appartamento trilocale di 62 mq, descritto come unità abitativa con ingresso indipendente.;gpt-6-luna
+35749702;vendita;391e24e8fb3a4e2813f357d9182878de;immobile;SI;Il prezzo riguarda un monolocale abitativo di 40 mq, descritto come unità autonoma con bagno.;gpt-6-luna
+35498927;vendita;a22bfdc6596d74f03988590f0f6e5ab4;immobile;SI;Il prezzo riguarda un monolocale di 43 mq, in ristrutturazione, venduto come intera abitazione.;gpt-6-luna
+33074932;vendita;e02f189726e99e3da7ac79dea1c621c9;immobile;SI;Titolo e descrizione indicano un appartamento di 81 mq venduto come intera unità abitativa.;gpt-6-luna
+35502805;vendita;008d91317741c2efb78a68fbb65fa916;immobile;SI;La descrizione indica un appartamento arredato completo, con soggiorno, cucina, bagno e camera da letto.;gpt-6-luna
+36275861;vendita;9943a5bcdb2857975f0aab2ad9f0b52c;immobile;SI;Il prezzo riguarda un appartamento ristrutturato e arredato di 43 mq, venduto come intera abitazione.;gpt-6-luna
+36683838;vendita;2272972148ef484d855a03a8dbb2c3c3;immobile;SI;Il prezzo riguarda un appartamento di circa 100 mq, descritto come abitazione in vendita per intero.;gpt-6-luna
+35404097;vendita;7c90b1d598a96114b925c3e1e22b0adf;immobile;SI;Il prezzo riguarda un appartamento di 75 mq in vendita, descritto come abitazione al primo piano mansardato.;gpt-6-luna
+28584052;vendita;4a0d7a52137461e2184c77f9baed17d9;immobile;SI;Titolo e dati descrivono un bilocale di 45 mq al secondo piano, venduto come abitazione.;gpt-6-luna
+36337445;vendita;1563181df7755d3c7315e4b2ffbbe6a6;immobile;SI;Prezzo riferito all’intero bilocale, abitazione da ristrutturare attualmente locata.;gpt-6-luna
+35747539;vendita;cba5750c7b0f2573bed930bb47d859c1;immobile;SI;"È in vendita l’intero monolocale ristrutturato; il fatto che sia locato non cambia la natura dell’immobile.";gpt-6-luna
+33983484;vendita;1aed26cac4e12027a2054d498b526679;immobile;SI;Annuncio riferito a un bilocale di 42 mq, al primo piano, descritto come appartamento.;gpt-6-luna
+36708016;vendita;ce34d17a202fb08e83396fe86793a0b4;immobile;SI;Prezzo riferito a un monolocale abitativo di 35 mq, descritto come in buone condizioni e venduto per intero.;gpt-6-luna
+36218053;vendita;47bdd0b8d852ec9b768047c676e0157e;immobile;SI;Il prezzo riguarda una mansarda abitativa ristrutturata venduta come intera unità, composta da cucina, soggiorno, zona notte e bagno.;gpt-6-luna
+36347248;vendita;248d3e4098e62ddd55ec216030ec4f08;immobile;SI;Il prezzo riguarda un monolocale di 35 mq descritto come appartamento ristrutturato e venduto per intero.;gpt-6-luna
+33799163;vendita;0fe2be6ee54031e925bcedf579c67152;altro;NO;La descrizione specifica un locale ad uso direzionale/ufficio, non un’abitazione.;gpt-6-luna
+34366215;vendita;5a9e36662a6ab787b004ec1375a95813;immobile;SI;La descrizione propone in vendita l’intera mansarda ristrutturata, adibita ad abitazione.;gpt-6-luna
+35545629;vendita;f1cae2581a45575170bde3553d30d7ea;immobile;SI;Il prezzo riguarda l’intero appartamento, attualmente locato con contratto residenziale.;gpt-6-luna
+34585368;vendita;d2a4b2aebe5bec75423c65d4f7448594;immobile;SI;Il prezzo si riferisce a un appartamento bilocale di 60 mq venduto come intera unità abitativa.;gpt-6-luna
+35709418;vendita;a4c674ef1928283327fc53ed7c52a826;immobile;SI;Il prezzo si riferisce alla vendita di un appartamento di circa 100 mq.;gpt-6-luna
+35108964;vendita;fc51f41418ba6eb7259ec822f1fc77b0;immobile;SI;Il prezzo riguarda un monolocale ristrutturato di 35 mq, descritto come intera unità abitativa in vendita.;gpt-6-luna
+37004092;vendita;98bbdbf4fe78c80aaf27e2519f96a463;immobile;SI;Il prezzo riguarda un appartamento arredato di circa 92 mq, proposto in vendita come intera abitazione.;gpt-6-luna
+35996666;vendita;d08d0ae1e4e830e046f1ab818319555e;immobile;SI;Il prezzo si riferisce a un bilocale di 50 mq in vendita come intera abitazione.;gpt-6-luna
+36323356;vendita;4f071e8915ec4c3e6d8f5e4f8ff94b64;immobile;SI;La descrizione propone un bilocale abitativo completo, pronto da vivere, e il prezzo riguarda l’intero appartamento.;gpt-6-luna
+31830002;vendita;e1382ca907fa03c49788105163cd3be9;immobile;SI;Il prezzo riguarda un appartamento intero di 45 mq, descritto come libero e composto da cucina, soggiorno/letto e bagno.;gpt-6-luna
+36804750;vendita;c288470c05536f7dd79d1a3960562fec;immobile;SI;Il prezzo riguarda un bilocale di 55 mq al primo piano, descritto come abitazione in vendita.;gpt-6-luna
+35997027;vendita;eb865cc5b77de5ef1bf0460ebcce138d;immobile;SI;Bilocale di 50 mq al secondo piano, descritto come appartamento in vendita per uso abitativo o investimento.;gpt-6-luna
+36088371;vendita;0516ef85cdaf7e83ff01fe7eac07707b;immobile;SI;"Annuncio di monolocale abitativo di 39 mq; il prezzo è riferito a un’unità abitativa intera.";gpt-6-luna
+36830777;vendita;73bc46bc4f722a17186b971390f461cc;immobile;SI;La descrizione propone in vendita un appartamento di 40 mq al primo piano.;gpt-6-luna
+36996975;vendita;588f8751e43a9c029e0643f8f4ee51da;immobile;SI;Il prezzo riguarda un bilocale abitativo di 45 mq, descritto come in vendita con ingresso indipendente.;gpt-6-luna
+35552614;vendita;143d36ca656d49d836aa8c3ffffe4e9e;immobile;SI;Il prezzo riguarda un intero bilocale abitativo di 40 m², venduto affittato.;gpt-6-luna
+36915646;vendita;8dccde838f2e6570722034ebcfd5c00a;immobile;SI;"Il prezzo riguarda un monolocale ristrutturato venduto come intera abitazione; cantina e soffitta sono accessori.";gpt-6-luna
+35327475;vendita;a1935b22d841b9959281d35e3d7a2eb5;immobile;SI;Il prezzo riguarda un appartamento in vendita di 50 m², descritto con ingresso, angolo cottura e soggiorno.;gpt-6-luna
+36310856;vendita;978a11aabaf741580f417e785bee65fd;immobile;SI;Il prezzo si riferisce all’intero mini appartamento abitativo, restaurato e composto da soggiorno, camera e bagno.;gpt-6-luna
+35234643;vendita;752a85b8d125e7e763c5dfcf0476a2d2;immobile;SI;"Il prezzo indicato riguarda il monolocale abitativo; cantina e box sono accessori, con il box proposto separatamente.";gpt-6-luna
+33587834;vendita;074d7d7cfdefa3a124196554afff8fc5;immobile;SI;Il prezzo riguarda un monolocale abitativo di 45 mq, descritto come intera unità.;gpt-6-luna
+33781015;vendita;9c8e9c1235b53daba89a006f5ad46847;immobile;SI;Prezzo riferito alla vendita dell’intero monolocale abitativo di 35 mq.;gpt-6-luna
+36443209;vendita;cda2e5ffd48a56ce63cc1c1546de4066;immobile;SI;Il prezzo si riferisce all’intero appartamento al piano terra, descritto con cucina, camera matrimoniale, terrazzo e bagni.;gpt-6-luna
+26285088;vendita;6dbc98ad1436f0983b52effff877834a;immobile;SI;"Il prezzo riguarda l’intero bilocale abitabile; il garage è un elemento accessorio incluso.";gpt-6-luna
+36247190;vendita;db2f844bf421f78b19e343640530efec;immobile;SI;Il prezzo riguarda un intero monolocale abitativo, arredato, con bagno e balcone.;gpt-6-luna
+36975784;vendita;5f0e8850f167fcfe4c34d2800e981a2e;immobile;SI;La descrizione presenta un appartamento bilocale al terzo piano, venduto come intera unità abitativa.;gpt-6-luna
+36817145;vendita;b8ab08f5969aba50af474e55f67b3323;immobile;SI;Il prezzo riguarda un monolocale intero, descritto come appartamento arredato, libero e dotato di balcone e bagno.;gpt-6-luna
+34843417;vendita;c004c5310c6afcc5fc362e57fc885a94;immobile;SI;La descrizione propone in vendita un appartamento di 29 mq, apparentemente come intera unità abitativa.;gpt-6-luna
+36704702;vendita;2a6e3bf03fe3d2d8af5f471864da88b3;immobile;SI;Il prezzo riguarda l'intero appartamento, attualmente locato fino a giugno 2030.;gpt-6-luna
+35872773;vendita;b772f30fa7f0929cdc1ce93026185f78;immobile;SI;Il prezzo riguarda un intero bilocale abitativo, venduto a reddito con contratto di locazione.;gpt-6-luna
+36732454;vendita;ea1bd074abc9c8dbd8f7389deb06e8db;immobile;SI;Il prezzo riguarda un intero monolocale abitabile, arredato e descritto con ingresso, soggiorno, zona notte e bagno.;gpt-6-luna
+35961931;vendita;61a0dba89d22e1c3d9bd10cccae15802;immobile;SI;"Il prezzo riguarda un trilocale completo di soggiorno, cucina, due camere e bagno; la cantina è accessoria.";gpt-6-luna
+24654927;vendita;ab1706a3450539e8b810cd35b93c32a2;immobile;SI;La descrizione indica un appartamento di 95 mq con salone, cucina, due camere e terrazzo.;gpt-6-luna
+36636850;vendita;d925730ac7232292b1fb815f929e4583;immobile;SI;Il prezzo si riferisce a un bilocale arredato di 60 mq, descritto come abitazione con zona giorno, cucina e zona notte.;gpt-6-luna
+36290624;vendita;c45fa0fa96d92a863bb0beaa37504dbe;immobile;SI;"Il prezzo riguarda un bilocale completo e abitabile; cantina e posto auto sono indicati come optional.";gpt-6-luna
+35931004;vendita;9061d3d90e1c111235404a8693985ecc;immobile;SI;La descrizione presenta un appartamento bilocale come soluzione abitativa, senza indicazioni di quote o usi limitati.;gpt-6-luna
+36374820;vendita;1456b64f51ebf90f604cd463a789856a;immobile;SI;Il prezzo si riferisce a un bilocale di 45 mq, descritto come appartamento abitativo.;gpt-6-luna
+35583359;vendita;22f12036052782a3940887e1484883ea;immobile;SI;La descrizione riguarda un bilocale di 61 mq al terzo piano, venduto come intera abitazione.;gpt-6-luna
+36914904;vendita;fc1f73a84ad751676cb8c9d7fc9f0445;immobile;SI;Porzione indipendente terra-cielo con soggiorno, cucina, camera e bagno, venduta come abitazione.;gpt-6-luna
+36999905;vendita;9a7854c556f76a033c5d2410be347fdd;immobile;SI;Il prezzo riguarda un intero bilocale abitativo arredato, con terrazzo e cantina.;gpt-6-luna
+35348220;vendita;378e88d2868d41749ead0b8e456622ce;immobile;SI;Il prezzo riguarda un monolocale di 37 mq, ristrutturato e arredato, venduto come intera abitazione.;gpt-6-luna
+36633503;vendita;226151a9157621bc9abfbcf06ccb4613;immobile;SI;La descrizione propone in vendita un trilocale ristrutturato, chiaramente riferito all’intero appartamento.;gpt-6-luna
+33894567;vendita;1b25d5a741d22fcfad97c4818ad57b2a;immobile;SI;Il prezzo riguarda un trilocale intero, già locato e proposto come investimento abitativo.;gpt-6-luna
+36819476;vendita;18987791710566b11c011b30d9186aba;immobile;SI;La descrizione propone in vendita un bilocale di 60 mq, apparentemente un’intera unità abitativa.;gpt-6-luna
+36337470;vendita;68f8418b0829bf79cc882c49c00a822f;immobile;SI;"Il prezzo riguarda l’intero appartamento, attualmente locato; cantina e soffitta sono pertinenze.";gpt-6-luna
+36251984;vendita;a0f1962a8e7ae21915fff2ec3741c9cc;immobile;SI;Il prezzo riguarda la vendita dell’intero monolocale abitativo di 40 mq, con balcone e cantina.;gpt-6-luna
+35309623;vendita;1db1a446b0db40fb058fdc3ff486daf2;immobile;SI;La descrizione propone in vendita un trilocale con due camere e zona giorno.;gpt-6-luna
+34714532;vendita;0c79b3211a01a8af9af754ae85889f56;immobile;SI;Il prezzo riguarda l’intero monolocale abitativo, attualmente locato.;gpt-6-luna
+36229925;vendita;53430026b3e7a086d3c22a43c14141f9;immobile;SI;Prezzo riferito all’intero appartamento, descritto con zona living, bagno e camera da letto soppalcata.;gpt-6-luna
+31499793;vendita;ef272847cacbf3a2d2795cccf72fa64f;immobile;SI;Il prezzo riguarda un monolocale intero, descritto come appartamento al primo piano con camera, cucina e balconcino.;gpt-6-luna
+36114644;vendita;8212e01eb42e28d977ba6ce20703991c;immobile;SI;Il prezzo riguarda un trilocale di 90 mq descritto come abitazione completa, con soggiorno, cucina e terrazzo.;gpt-6-luna
+37016135;vendita;19b7125ff1ac9bc82fe48657774577e4;immobile;SI;La descrizione presenta un bilocale ristrutturato di 50 mq, venduto come intero appartamento.;gpt-6-luna
+32704969;vendita;058050a3b30776526c5cd6925b105054;immobile;SI;Il prezzo riguarda l’intero monolocale abitativo di 38 mq, attualmente locato.;gpt-6-luna
+31918073;vendita;c7cdaac926a025f2ca05ae7d532577a9;immobile;SI;"Il prezzo riguarda il monolocale intero, descritto come abitazione arredata; il contratto transitorio non modifica la tipologia.";gpt-6-luna
+34939742;vendita;e8a0edbe48c123b86545a28021c1afe9;immobile;SI;Il prezzo riguarda un monolocale intero, arredato e abitativo, attualmente locato con contratto transitorio.;gpt-6-luna
+36147266;vendita;22d0e88338d843e194e20a46452b3b9a;immobile;SI;Annuncio di un bilocale di 38 mq al terzo piano, senza indicazioni di quote o uso limitato.;gpt-6-luna
+36140441;vendita;4e5e74578a4f3cbee82650dcc5ec0e2f;immobile;SI;Il prezzo riguarda un appartamento bilocale di 61 mq, descritto come abitazione al secondo piano e in buone condizioni.;gpt-6-luna
+35219058;vendita;19dcf0dca51d8e57e3d5683f4d6a7916;altro;NO;È descritto come monolocale accatastato a uso ufficio, quindi il prezzo riguarda un immobile non abitativo.;gpt-6-luna
+36829225;vendita;77d5d1c5a718bc086a4e1a256e3df567;immobile;SI;La descrizione propone in vendita un bilocale di 56 mq come intera abitazione.;gpt-6-luna
+37028355;vendita;9ec38f877274bc88f4d5d3717aa0cde9;immobile;SI;Il prezzo riguarda un bilocale completo, descritto con cucina, soggiorno, camera, bagno e balcone.;gpt-6-luna
+36648027;vendita;3149084237869299b687f10abd00c43d;immobile;SI;Descritta come intera unità arredata e organizzata come appartamento, già utilizzata come B&B.;gpt-6-luna
+35886609;vendita;d56a437160a9bbfb688bc394173ab4d5;immobile;SI;Il prezzo riguarda un appartamento bilocale al piano terra con ingresso indipendente.;gpt-6-luna
+36132616;vendita;a78b144e94bb18536fdcf986966e271b;immobile;SI;Il prezzo riguarda la vendita dell’intero bilocale, descritto con cucina, soggiorno, camera e bagno.;gpt-6-luna
+32730508;vendita;6dde7344fcb23c926f052844caf77a37;immobile;SI;La descrizione propone in vendita l’intero appartamento di 83 mq, al quarto e ultimo piano.;gpt-6-luna
+36618653;vendita;097758a8c76aa0b7d8ec4862d852fa51;immobile;SI;"Bilocale di 56 mq descritto come ultimo piano pronto da abitare; il prezzo riguarda l’abitazione.";gpt-6-luna
+36949486;vendita;effe109c6127c36f9408bd2673f839b5;immobile;SI;Il prezzo riguarda un appartamento bilocale ristrutturato, descritto come pronto da abitare.;gpt-6-luna
+8364665;vendita;e5eda46babc96a5a735ebdbfcf000f84;altro;NO;È accatastato C/2 come magazzino, non come abitazione.;gpt-6-luna
+35776988;vendita;3abaa54a6ea70967adddcdd21153fe6d;immobile;SI;La descrizione indica un appartamento monolocale arredato, venduto come unità abitativa.;gpt-6-luna
+32811831;vendita;0dc6a0a4a178660742b54840317e40e5;immobile;SI;Il prezzo riguarda un monolocale abitativo intero, descritto come appartamento al quarto piano.;gpt-6-luna
+36876209;vendita;430766053fa18a20d5b049d0e55a1a60;immobile;SI;"Il prezzo riguarda il trilocale abitativo; box e cantina sono accessori inclusi.";gpt-6-luna
+15391129;vendita;ce0b57ab8c3abb5d1affe3b4993a7e45;immobile;SI;"Il prezzo riguarda l’intero appartamento abitativo, attualmente locato; la cantina è accessoria.";gpt-6-luna
+36410862;vendita;460cd6c11f1f7c4a1d603ed2d1f10313;immobile;SI;"Bilocale ristrutturato di 63 mq con terrazzi; il prezzo riguarda chiaramente l’intera abitazione.";gpt-6-luna
+36222566;vendita;d1ed00eedd67af3e8b6e022b0a6571a2;immobile;SI;Il prezzo si riferisce a un bilocale in vendita, descritto come unità abitativa al primo piano.;gpt-6-luna
+36728403;vendita;661cd4b31cc4cc3ce317a2b69aca6e29;immobile;SI;Annuncio di un trilocale di 60 mq proposto come prima casa in condominio.;gpt-6-luna
+33799503;vendita;54827312d0e920556bc77e8890272539;immobile;SI;Il prezzo si riferisce a un appartamento bilocale di 50 m², descritto come ristrutturato e in vendita.;gpt-6-luna
+31959284;vendita;d23ee6810f6f6ede668dbc3013df4b4b;immobile;SI;Il prezzo si riferisce a un bilocale di 65 mq, descritto come appartamento ristrutturato in vendita.;gpt-6-luna
+34769962;vendita;457eeb8332985ee33f689fdad14c8347;immobile;SI;"La descrizione propone un bilocale di nuova realizzazione, utilizzabile come abitazione; il prezzo si riferisce all’intera unità.";gpt-6-luna
+37025078;vendita;ef198cfbdfc29f9fee4ac81d2fc2ff24;immobile;SI;La descrizione indica un appartamento indipendente al primo e ultimo piano, proposto come abitazione.;gpt-6-luna
+36734305;vendita;e2b9e941fbae637585043a10ab598975;immobile;SI;"La descrizione indica la vendita di un appartamento con ingresso indipendente; il prezzo riguarda l’abitazione.";gpt-6-luna
+36858998;vendita;3b9dfa5fbc3a34707866fe97b8c507ad;immobile;SI;La descrizione presenta un appartamento di 55 mq in vendita, senza indicazioni di quote o diritti limitati.;gpt-6-luna
+35973823;vendita;71e43ae233c4869d109b0bd2211cd8a4;immobile;SI;Il prezzo si riferisce a un appartamento mansardato di 70 mq, descritto come pronto da vivere.;gpt-6-luna
+35127132;vendita;19b85579e84dfbdf333c30f470c36424;immobile;SI;"Il prezzo riguarda il trilocale abitativo completo; box auto e cantina sono accessori annessi.";gpt-6-luna
+36335515;vendita;ed404792b9adb44c074f83ea092e6652;immobile;SI;"La descrizione propone in vendita un appartamento trilocale di 108 mq; box e cantina sono accessori.";gpt-6-luna
+36763827;vendita;fa956fc94ce6024db6c3fe7b200fba08;immobile;SI;Il prezzo riguarda un appartamento bilocale completo, descritto con soggiorno, cucina, camera, bagno e terrazzi.;gpt-6-luna
+33894680;vendita;5f8276aa1fe5b534b3a90347ca81ce98;immobile;SI;Il prezzo si riferisce a un trilocale di 74 mq, descritto come abitazione in condizioni ottimali.;gpt-6-luna
+35684261;vendita;70b6af61219736d1256818e0b886ec7e;immobile;SI;Il prezzo riguarda un intero attico mansardato di 82 mq, presentato come abitazione in vendita.;gpt-6-luna
+29182903;vendita;66f876e5520cfa66313aac8576fffba6;immobile;SI;La descrizione indica un appartamento al primo piano, apparentemente venduto come intera abitazione.;gpt-6-luna
+36726889;vendita;13cdabd1acc560e88304999c97961045;nuda_proprieta_o_quota;NO;"Il prezzo riguarda la nuda proprietà; l’attuale proprietario continuerà ad abitare nell’appartamento per tutta la vita.";gpt-6-luna
+36999841;vendita;90d355b89208591c0d4e2dd7aa73c691;nuda_proprieta_o_quota;NO;La vendita riguarda esplicitamente la nuda proprietà, con usufruttuaria di 71 anni.;gpt-6-luna
+36836593;vendita;e60b0c32df64912cfda7f4935b4622c2;immobile;SI;Il prezzo riguarda un monolocale ristrutturato con terrazza, descritto come abitazione venduta per intero.;gpt-6-luna
+36158158;vendita;878736c3fc8e61a62c79d68baccee9d7;immobile;SI;"Il prezzo riguarda il monolocale descritto come abitazione completa; il posto auto è accessorio.";gpt-6-luna
+35931665;vendita;8913b88ace6f4381e0e81ad866b96512;immobile;SI;"Il prezzo riguarda l’intero monolocale abitativo, ristrutturato e dotato di terrazza; l’uso come casa vacanze è solo attuale.";gpt-6-luna
+35832439;vendita;d92fd2ca8a4daa3f9fe1cd458751c94c;immobile;SI;"Si vende l’intero monolocale abitativo; l’uso come casa vacanze descrive l’attività attuale, non un diritto turistico a periodi.";gpt-6-luna
+31194811;vendita;aee69f78904149be23fe6496c29a2725;immobile;SI;"È in vendita l’intero monolocale; l’uso come alloggio turistico descrive la sua destinazione attuale.";gpt-6-luna
+35932453;vendita;8684ad5d0a6f5a034b660d740104d6dd;immobile;SI;Il prezzo si riferisce all’intero appartamento trilocale, descritto con soggiorno, camera, bagno e balcone.;gpt-6-luna
+34541097;vendita;de7e0bf1d915ac59b860d4146c7984b7;immobile;SI;La descrizione presenta un appartamento di 60 mq in vendita, con soggiorno e camera da letto.;gpt-6-luna
+26803587;vendita;2d3c8824abd09e583dc0c91eabf76efd;immobile;SI;"La descrizione propone in vendita un intero trilocale; il fatto che sia già a reddito non indica una quota o un uso temporaneo.";gpt-6-luna
+33476283;vendita;d6d14d33b9419bed29bc4546f6dd9f50;immobile;SI;"Il prezzo riguarda un monolocale arredato di 50 mq; il box auto è incluso nella vendita.";gpt-6-luna
+25872827;vendita;716448e114b2fee62c8df29de9046adf;immobile;SI;Il prezzo si riferisce a un appartamento di 115 mq con salone, cucina, tre camere, due bagni e terrazzo.;gpt-6-luna
+35312877;vendita;1d86be5e3c68629fad61287e131ec7ba;immobile;SI;Annuncio di vendita di un trilocale al secondo piano, descritto come abitazione in un condominio residenziale.;gpt-6-luna
+27727938;vendita;3f12961327f94a252efef96aef8804df;altro;NO;La descrizione specifica che si vende un magazzino, non un’abitazione.;gpt-6-luna
+29205480;vendita;d0d498143b290daedf1935bc5bbe66fb;immobile;SI;La descrizione propone in vendita un appartamento bilocale arredato, con terrazza, come intera abitazione.;gpt-6-luna
+33797321;vendita;3496fcde6b4ff5f8ad9845e151ecd697;immobile;SI;Il prezzo riguarda un appartamento bilocale di 42 mq, venduto come intera unità abitativa.;gpt-6-luna
+36847621;vendita;4f142ddf2658c66f42f61df8041c6527;immobile;SI;Il prezzo riguarda un bilocale indipendente ad uso abitativo, arredato e venduto come intera unità.;gpt-6-luna
+36686392;vendita;b12b82981fa7b6eb7e2cedd005bd081f;immobile;SI;La descrizione propone in vendita un monolocale arredato al primo piano, quindi un’intera unità abitativa.;gpt-6-luna
+36219286;vendita;20b6eb56a5ac79403874cbe6ffd204bc;immobile;SI;La descrizione propone in vendita un appartamento arredato, pronto per essere abitato o utilizzato come investimento.;gpt-6-luna
+35022762;vendita;9a19de9e81a74dad3f96b0327a35613c;immobile;SI;Il prezzo riguarda un alloggio bilocale di 45 mq, venduto per intero, attualmente locato.;gpt-6-luna
+36411537;vendita;cd36b664932a3562de480c1811073e65;nuda_proprieta_o_quota;NO;La descrizione specifica che viene venduta la nuda proprietà dell’appartamento.;gpt-6-luna
+32456816;vendita;1ac7a3eadb02d0d737fbf8cbc7a31c4a;nuda_proprieta_o_quota;NO;La descrizione specifica che il prezzo è riferito alla vendita della nuda proprietà del trilocale.;gpt-6-luna
+35638352;vendita;173afb714cf6b6d082fa67f93cf7efad;nuda_proprieta_o_quota;NO;La descrizione specifica che il prezzo riguarda la nuda proprietà dell’appartamento.;gpt-6-luna
+36958127;vendita;eb946f9c3689502be856f7d9882dba24;immobile;SI;Il prezzo riguarda un appartamento bilocale di 53 mq venduto per intero, sebbene attualmente locato.;gpt-6-luna
+36006389;vendita;e31b09fd3c499b8b535134ad852c671d;immobile;SI;Prezzo riferito a un appartamento monolocale di circa 45 mq, venduto per intero anche se già locato.;gpt-6-luna
+36898600;affitto;2ec15bcaada6cb7eccb9827354ea7ab3;immobile;SI;"La descrizione indica un monolocale arredato affittato come intera abitazione; non sono menzionati periodi brevi o condivisioni.";gpt-6-luna
+22369866;affitto;ab67593026a6612e9b9daa019f1f70c2;stanza_o_posto_letto;NO;La descrizione offre una camera singola in appartamento condiviso, non l’intera abitazione.;gpt-6-luna
+36625821;affitto;11b8e6809a2558ad77ae70ae125b8bb8;stanza_o_posto_letto;NO;La descrizione specifica l’affitto di due camere singole in una casa condivisa.;gpt-6-luna
+36762770;affitto;aa4ae8f83404f193e855da3343a67e22;stanza_o_posto_letto;NO;"Il canone indicato è di 250 euro a camera; l’appartamento è affittato a studenti per stanze.";gpt-6-luna
+12172629;affitto;141a173dbb50f692fa552e5bbe70563a;stanza_o_posto_letto;NO;La descrizione specifica l’affitto di una camera matrimoniale a sole studentesse, non dell’intero appartamento.;gpt-6-luna
+37037154;affitto;cecc7cd94ec4d2d9f6c32bf6c654fd22;immobile;SI;La descrizione presenta un appartamento arredato completo, affittabile a un massimo di tre persone.;gpt-6-luna
+36397797;affitto;873c2eb04ded00174a20f9f93d48bc9f;stanza_o_posto_letto;NO;La descrizione specifica che si affittano camere singole per studenti, non l’intero appartamento.;gpt-6-luna
+27803511;affitto;9d2fcbbd58d0f2772c1928ac71febf1d;stanza_o_posto_letto;NO;Il prezzo si riferisce a una stanza in appartamento condiviso, proposta a uso singola per studentessa.;gpt-6-luna
+29157674;affitto;ef3aeee79da16c986581b06a202938b4;stanza_o_posto_letto;NO;La descrizione specifica che si affitta solo un posto letto, non l’intero monolocale.;gpt-6-luna
+28017678;affitto;8dc62c138f29070684fe9bbdd91e70ec;incerto;NO;La descrizione presenta un appartamento intero, ma non chiarisce se i 350 euro siano il canone totale o il prezzo di una stanza.;gpt-6-luna
+36322716;affitto;cdc40ec339add474536428a0acf5f75e;stanza_o_posto_letto;NO;La descrizione specifica l’affitto di una camera singola a uno studente, non dell’intero bilocale.;gpt-6-luna
+11747063;affitto;602a8bba8515d1fc35d8a7e92d0f124f;stanza_o_posto_letto;NO;La descrizione specifica l’affitto di una stanza per studentesse, non dell’intero quadrilocale.;gpt-6-luna
+35867243;affitto;62bd6ab4533642f725e11ee7c96b0e07;stanza_o_posto_letto;NO;Il prezzo di 350 euro riguarda una camera matrimoniale ad uso singola, non l’intero appartamento.;gpt-6-luna
+36967551;affitto;322dd549698f2439b74114a14f1c019b;immobile;SI;"Il prezzo riguarda l’affitto dell’intero monolocale abitativo di 30 mq; non sono indicati periodi turistici o condivisioni.";gpt-6-luna
+19595633;affitto;bb997c2f488a392168ca9cdd63b209a4;stanza_o_posto_letto;NO;"La descrizione offre due camere singole in un appartamento condiviso; il prezzo riguarda una stanza.";gpt-6-luna
+36888779;affitto;f8167f3484d662fedc4c451d5f50df40;immobile;SI;La descrizione riguarda un appartamento intero di 45 mq, con cucinotto, soggiorno, camera e servizi.;gpt-6-luna
+29271608;affitto;9588a8ee7e2612e51c99badb3fcee111;immobile;SI;La descrizione presenta un bilocale arredato e ristrutturato, affittato come intera abitazione.;gpt-6-luna
+36828381;affitto;ab6357547d6ecab7dd1ab4299aafaec3;stanza_o_posto_letto;NO;La descrizione specifica che è disponibile una camera matrimoniale per studente o specializzando, non l’intero appartamento.;gpt-6-luna
+15349556;affitto;759029e6b92a2e667d9906e7b19fda7d;immobile;SI;Il canone riguarda l’intero bilocale arredato, descritto con cucina, camera, bagno e cantina.;gpt-6-luna
+31469312;affitto;a5fef9f7a4c65ecc81f2419c338d8622;immobile;SI;Monolocale arredato affittato interamente a studenti, con canone mensile ordinario di 450 euro.;gpt-6-luna
+37010199;affitto;819ca4443b8124d93b5ee93748345bc8;immobile;SI;Mansarda abitativa di 45 mq offerta con contratto annuale, riferita all’intera unità.;gpt-6-luna
+36814673;affitto;68481089aa1c14c1d5b62d87a8fed585;immobile;SI;La descrizione presenta un appartamento arredato in affitto con ingresso indipendente, senza indicazioni di stanza o locazione turistica.;gpt-6-luna
+36909695;affitto;791b949822a43159590a64ce9b3c1735;incerto;NO;La descrizione presenta un appartamento con cinque camere, ma non chiarisce se i 450 euro siano per l’intera unità o per una stanza.;gpt-6-luna
+36835113;affitto;2a92288d99ced9718577cf4834c6d32b;incerto;NO;La descrizione è incompleta e non chiarisce se i 450 euro siano il canone dell’intero appartamento o di una stanza.;gpt-6-luna
+36413289;affitto;57db89cadd549a3d8a0f80e041bdec54;incerto;NO;Descrive un appartamento con due camere, ma non chiarisce se i 460 euro siano il canone dell’intero alloggio o per camera.;gpt-6-luna
+37014739;affitto;ba3c956f94d90002787004ad61daa7ed;incerto;NO;La descrizione è troncata e non chiarisce se i 460 euro siano il canone dell’intero appartamento o di una stanza.;gpt-6-luna
+26883581;affitto;a8c3184b15b7af57df7b49a2ed84d663;immobile;SI;La descrizione indica un mini appartamento arredato affittato come unità abitativa, non una stanza.;gpt-6-luna
+33176372;affitto;1eba631c5d3cb89409352702011baf85;immobile;SI;"Il prezzo riguarda la mansarda abitativa; il posto auto è un’aggiunta separata a pagamento.";gpt-6-luna
+36951147;affitto;ebc240d791a32a7b11c56c7316ef6618;immobile;SI;Il prezzo riguarda un monolocale arredato di 40 mq affittato come abitazione.;gpt-6-luna
+12027761;affitto;8d7dea37e664876fc42d6e782a372414;immobile;SI;"Descrive l’intero appartamento arredato, affittato a due studenti; non indica la locazione separata delle camere.";gpt-6-luna
+36856751;affitto;5f8a7481b76d87ce9bd7b5c12c02ac13;immobile;SI;La descrizione propone in affitto l’intero trilocale arredato di 71 mq.;gpt-6-luna
+37007056;affitto;400b8fa13e5dd587c3d74e0b0acd18a2;immobile;SI;"La descrizione indica l’affitto dell’intero bilocale di 60 mq; il garage è un accessorio.";gpt-6-luna
+36997850;affitto;9341dd38eb57c898e2bd61b444cb7fc1;immobile;SI;Annuncio di un bilocale intero di 60 mq in affitto, con soggiorno, cucina, camera e balcone.;gpt-6-luna
+36248780;affitto;416ea6e6362dcc3cb933605325525f15;immobile;SI;Canone mensile per un appartamento arredato, affittato interamente con contratto transitorio di un anno.;gpt-6-luna
+36618841;affitto;787273b6b044a1a3f8d886f8342dc30b;immobile;SI;Annuncio di un bilocale di 50 mq, senza indicazioni di affitto per stanza o uso turistico.;gpt-6-luna
+37039419;affitto;5cb240fd8271e342bd620e4cdb5e6d7d;affitto_stagionale_turistico;NO;Monolocale attrezzato in residence sul mare, descritto come alloggio turistico per soggiorni brevi.;gpt-6-luna
+28135223;affitto;f89f4f67df378f05dbf480a513865c15;immobile;SI;"Monolocale di 40 m² descritto come appartamento in affitto; il prezzo riguarda l’intera abitazione.";gpt-6-luna
+37036953;affitto;6147558e1cbb40fa69fc40dde1df1e63;stanza_o_posto_letto;NO;Il prezzo riguarda una stanza arredata in un appartamento condiviso, con cucina e bagno in comune.;gpt-6-luna
+29767691;affitto;81a32282f5e9b0f55335dd7abb288a89;immobile;SI;"Annuncio per un bilocale di 55 mq; non indica stanze separate né affitto turistico.";gpt-6-luna
+36951177;affitto;9ceac55e7dcda0fc0ca1626dec868df8;immobile;SI;Annuncio per un bilocale arredato di 58 mq, affittato come intera abitazione.;gpt-6-luna
+36919917;affitto;29bed47a9529e2119ee8b1a7319f59eb;immobile;SI;Si affitta l’intero appartamento con contratto registrato, non una singola stanza.;gpt-6-luna
+37002373;affitto;bfb47edc34938b9520ac75073fc5599d;immobile;SI;"Il prezzo riguarda un bilocale arredato in affitto; il posto auto è un accessorio.";gpt-6-luna
+36942050;affitto;c075ded67657f1b869365497989d37e9;immobile;SI;"La descrizione propone in locazione l’intero appartamento arredato; non indica affitto turistico o condivisione.";gpt-6-luna
+31245828;affitto;475c407a9b7a44e26047e543debc6bd5;immobile;SI;La descrizione indica l’affitto dell’intero appartamento bilocale arredato, con ingresso indipendente.;gpt-6-luna
+36913642;affitto;ea11c3fa1ad30e0e1589b4cb85e16957;immobile;SI;"Monolocale arredato offerto in affitto come abitazione autonoma; la descrizione non indica uso turistico o condivisione.";gpt-6-luna
+36397488;affitto;b9f5948a19ee74d646b521f6c6698dd4;immobile;SI;La descrizione indica una villetta bilocale arredata di 60 mq affittata come intera abitazione.;gpt-6-luna
+36897640;affitto;8a67146d46c8b1f035e2e36eb588d23f;immobile;SI;Locazione di un bilocale arredato su due livelli, descritto come abitazione completa.;gpt-6-luna
+36893152;affitto;de7a1d6e5667bcd765883a797f8ff263;immobile;SI;"Monolocale affittato come intera abitazione a una sola persona; non è indicato un affitto turistico o per periodi brevi.";gpt-6-luna
+29136465;affitto;229b7cd3559af4df73e542feae6a2a04;immobile;SI;"Monolocale arredato descritto come unità abitativa completa; il prezzo riguarda l’intero alloggio.";gpt-6-luna
+27928549;affitto;0d39c874291c03b15faa80fc4757cd56;immobile;SI;"Bilocale di 60 mq al quarto piano, descritto come abitazione in contesto residenziale; il canone è mensile.";gpt-6-luna
+35061867;affitto;ddc02e6bf47efc2e37aca0a438cf9f4b;immobile;SI;"Il prezzo riguarda l’intero trilocale, descritto con cucina, due camere e bagno; è libero da ottobre.";gpt-6-luna
+36996949;affitto;95b27e27999f36182deb3c1a332e8f1a;stanza_o_posto_letto;NO;La descrizione specifica che vengono affittate le stanze dell’appartamento a studenti universitari.;gpt-6-luna
+36983866;affitto;dbadd5ff979f3804978e2588c508d10a;immobile;SI;Bilocale arredato descritto come intera abitazione in affitto, con ingresso, zona cottura, camera e bagno.;gpt-6-luna
+36961421;affitto;f9f8858e69cc0778fccecf07570d7ab4;immobile;SI;"La descrizione indica l’affitto dell’intero bilocale arredato; la piscina estiva è un servizio, non prova un affitto turistico.";gpt-6-luna
+30166186;affitto;34ee02c6365da7a4c4ee6835b69b55af;immobile;SI;"Descrizione riferita all’intero monolocale arredato; non sono indicati affitto turistico o periodi brevi.";gpt-6-luna
+37024911;affitto;74c29c62f93999141beefd8e5af13b99;immobile;SI;"Monolocale arredato di 35 mq affittato come intera abitazione; non emergono indicazioni di locazione turistica o per periodi brevi.";gpt-6-luna
+36147297;affitto;1b40314eb7b7e6db8c48602402d37534;immobile;SI;"Monolocale arredato di 35 mq affittato come intera abitazione; non emergono indicazioni di stanza o uso turistico.";gpt-6-luna
+36896693;affitto;c3fa25833b3c6b3f9fbfde5136e9ac02;immobile;SI;Bilocale arredato di 55 mq, descritto come unità abitativa in affitto.;gpt-6-luna
+36909832;affitto;d95b224c5866ebeddf95588830525d02;immobile;SI;La descrizione propone in affitto l’intero appartamento arredato, composto da due camere, cucina abitabile e bagno.;gpt-6-luna
+37031848;affitto;b5b44d131792cd819c98e85b92d47e63;immobile;SI;"La descrizione propone in locazione un appartamento bilocale arredato; il box è accessorio.";gpt-6-luna
+30670694;affitto;8309be74842b79d347eb881b33402910;immobile;SI;Il prezzo si riferisce a un monolocale arredato in locazione, apparentemente affittato per intero.;gpt-6-luna
+33218476;affitto;80d620fe97a68376c7ae870d78b4c259;immobile;SI;"Monolocale di 40 mq offerto con contratto annuale; il prezzo riguarda l’intera abitazione.";gpt-6-luna
+36891234;affitto;58e4f3e538f0241da2d2eb99ec9fcf5f;immobile;SI;"Descrizione di un bilocale arredato e ristrutturato, offerto come intera abitazione; nessun riferimento a stanze o affitto turistico.";gpt-6-luna
+17918009;affitto;4a88fffbe3c027681e2cc6a5f3cbcaa8;immobile;SI;"La descrizione presenta un appartamento completo con soggiorno, cucina, camera e bagno; non indica una stanza in condivisione.";gpt-6-luna
+24730742;affitto;ea4a08d8b76393d01e825811c2284885;immobile;SI;Descrizione di un appartamento di 85 mq con soggiorno, cucina, due camere e bagno, affittato come intera abitazione.;gpt-6-luna
+36248757;affitto;c2815a8ac733e4af48f1f90a90a37577;immobile;SI;Il prezzo è il canone mensile per l’intero trilocale arredato, con contratto transitorio annuale.;gpt-6-luna
+36844525;affitto;e615552cda723e107d3fee96ed92896f;immobile;SI;La descrizione riguarda un appartamento completo di 100 mq, con soggiorno, cucina, due camere e bagno.;gpt-6-luna
+36618860;affitto;8e5ab424b74a37e6d675ea1caf0f0d11;immobile;SI;Titolo e dati indicano un bilocale autonomo di 50 mq, senza riferimenti a stanze o affitto turistico.;gpt-6-luna
+5782252;affitto;cd24d87fd9a0205a7620a359623b205f;immobile;SI;"La descrizione propone un bilocale arredato in affitto; il prezzo si riferisce all’intera abitazione.";gpt-6-luna
+36178343;affitto;5620a3b27fee969e3e19c9c991c6332d;immobile;SI;"Bilocale di 60 m² descritto come appartamento ad uso abitativo; il prezzo riguarda l’intera unità.";gpt-6-luna
+32083419;affitto;fbac8ab7650cf58f74040be4780490ff;immobile;SI;Monolocale arredato descritto come unità abitativa completa, senza indicazioni di affitto turistico o per periodi brevi.;gpt-6-luna
+36913102;affitto;5e478dbecfafe26a33b5add3c242eca8;immobile;SI;Descrizione di un monolocale arredato di 40 mq, affittato come intera unità abitativa.;gpt-6-luna
+36991651;affitto;84036e5f7b897aca6bed4360288b4205;immobile;SI;La descrizione presenta un appartamento arredato di 85 mq con tre camere e due bagni, senza indicare affitto di stanze o periodi brevi.;gpt-6-luna
+19104787;affitto;354ea6a9efd966f2dc0a6b90d44ad103;immobile;SI;La descrizione offre in affitto l’intero monolocale abitabile, composto da cucina-soggiorno, bagno e camera soppalcata.;gpt-6-luna
+36344266;affitto;c3833d661a301f418941593519cbe1af;immobile;SI;La descrizione presenta un appartamento di 70 mq in affitto per studenti, senza indicare stanze singole.;gpt-6-luna
+37010362;affitto;43cf4788f1d49803c2812d4440a57bbe;immobile;SI;"È descritto un trilocale arredato con due camere; non è indicato un affitto per stanza.";gpt-6-luna
+20090152;affitto;205786ce1d5118e66e95bdb83ef9cdae;immobile;SI;"Descrizione di un trilocale arredato affittato come intera abitazione; non è indicata una formula turistica o per periodi brevi.";gpt-6-luna
+36825237;affitto;f8ef0f09bd29d852d81b41139bfa5ac4;immobile;SI;La descrizione propone in affitto un appartamento intero di circa 60 mq, non una stanza o un uso turistico.;gpt-6-luna
+36666671;affitto;a2fecde93bab01f1f097d61fbb05855e;immobile;SI;La descrizione propone in locazione l’intero bilocale arredato di 55 mq.;gpt-6-luna
+36656086;affitto;00de9c185ec09bbddc3b628f2c4b772e;immobile;SI;"Bilocale arredato di 50 mq descritto come abitazione; il prezzo si riferisce all’intero appartamento.";gpt-6-luna
+35898794;affitto;39c38a3f7ae262f468f9c8fe7d748c84;immobile;SI;La descrizione indica un monolocale arredato affittato come intera abitazione, non una stanza o un affitto turistico.;gpt-6-luna
+36910473;affitto;9fed69fde4ab1ed6362ebec039fa9b35;immobile;SI;"La descrizione propone un bilocale abitativo intero; il prezzo è riferito all’affitto dell’appartamento.";gpt-6-luna
+27878395;affitto;6310ed42b5102292036fc7b32f96a5e0;immobile;SI;"La descrizione indica un appartamento arredato di 75 mq; il posto auto è una dotazione accessoria.";gpt-6-luna
+27489590;affitto;7f06ac06156303b6bb828fc7ee1ef94b;immobile;SI;Si affitta l’intero appartamento di 90 mq con canone mensile, disponibile da settembre 2026.;gpt-6-luna
+22072155;affitto;18f7336d8d44627c98988140ca2faac7;immobile;SI;"Bilocale completo, arredato e descritto come unità abitativa autonoma; non sono indicati affitto turistico o periodi brevi.";gpt-6-luna
+35836296;affitto;ddd94560efca74699b3e9f88c0bcbda0;immobile;SI;"Appartamento intero di 95 mq, affittato con contratto annuale rinnovabile; non è indicata una locazione turistica o per stanza.";gpt-6-luna
+36546090;affitto;d427e326f0e2ef4890d73b31e46ed4e5;immobile;SI;"Descrive un trilocale completo in affitto a studenti; non indica locazione di singole stanze.";gpt-6-luna
+36166618;affitto;fcdf17b573677d4247e045be176058f1;immobile;SI;La descrizione presenta un quadrilocale arredato con cucina, due camere, soggiorno e bagno, affittato come intera abitazione.;gpt-6-luna
+36779698;affitto;2201cb7b5355e2ccffa24bd674fc7e86;immobile;SI;Il canone mensile riguarda l’intero bilocale ristrutturato e arredato, non una stanza o un uso temporaneo.;gpt-6-luna
+36975556;affitto;751f33281037275f454f97436313df4b;immobile;SI;"Il prezzo riguarda l’affitto dell’intero bilocale; il garage è un accessorio incluso.";gpt-6-luna
+36418691;affitto;22d6a61ff41ee6e884608969979c7da3;immobile;SI;"Bilocale di 58 mq affittato interamente con contratto transitorio; il prezzo è riferito all’abitazione.";gpt-6-luna
+18598298;affitto;82ec89fd0b9f5693d829723eefec5032;immobile;SI;"Annuncio per un monolocale arredato di 30 mq; il canone indicato riguarda l’intera abitazione.";gpt-6-luna
+36983530;affitto;995969d9314b2a77da275e51d6ba78f6;immobile;SI;Bilocale arredato di 50 mq affittato come intera abitazione, con canone mensile ordinario.;gpt-6-luna
+37039718;affitto;c2911095900ba8238965503355b1c31a;immobile;SI;La descrizione indica un appartamento bilocale in affitto, apparentemente locato per intero.;gpt-6-luna
+36951745;affitto;56b4771bcc64c865dbcae83fe6ff3deb;immobile;SI;"Bilocale arredato di 45 mq descritto come appartamento intero; il prezzo riguarda l’abitazione.";gpt-6-luna
+37018497;affitto;7cff56106bc97e9c7c04cc98d1eeddbf;affitto_stagionale_turistico;NO;Locazione limitata al periodo da ottobre 2026 a maggio 2027, non un affitto ordinario a lungo termine.;gpt-6-luna
+37015752;affitto;f690a35554a5c066a4f219520d6dce6b;immobile;SI;"Loft abitativo di 45 mq offerto in locazione, con disponibilità dal 1° dicembre; non emergono indicazioni di affitto turistico o parziale.";gpt-6-luna
+36672495;affitto;35c426440a553d90559002632cb873ef;immobile;SI;Descrizione di un appartamento arredato su due livelli, affittato come intera abitazione.;gpt-6-luna
+37026165;affitto;066ac41c2a18932fc3e24b620fb1a2cb;immobile;SI;La descrizione propone un trilocale di 55 mq in affitto, apparentemente come intera unità abitativa.;gpt-6-luna
+36887092;affitto;bbb81de3ebdf038d8707417bce68e7d2;immobile;SI;Bilocale arredato affittato per intero con locazione transitoria.;gpt-6-luna
+36764449;affitto;d5a488e3a28bf5d32a67e1eff447b98a;immobile;SI;Descrizione di un bilocale arredato completo, affittato come intera abitazione con canone mensile.;gpt-6-luna
+36856743;affitto;86dbb095af1f655c0b108d52412b14f8;immobile;SI;"È proposto in locazione l’intero bilocale arredato; box e cantina sono accessori inclusi.";gpt-6-luna
+28117729;affitto;0d658b562c21fdac8f50be56955d94fc;immobile;SI;"Il prezzo riguarda l’intero bilocale arredato; il box auto è un accessorio incluso.";gpt-6-luna
+35646824;affitto;0098c6cca3ad60f9857f33228fb2bb69;immobile;SI;"Titolo e dati descrivono un trilocale di 100 mq; il prezzo appare riferito all’intero appartamento.";gpt-6-luna
+27764467;affitto;9cc42a341cc5a97e4b13ce5011c58e42;immobile;SI;Bilocale arredato descritto come intero appartamento, con canone mensile e spese condominiali separate.;gpt-6-luna
+35922359;affitto;789bf866c36a76fecdf31d99e017a726;immobile;SI;Descrizione di un bilocale arredato completo, proposto come appartamento in affitto.;gpt-6-luna
+35624043;affitto;ac188722bf5812cae4e46423b646a131;immobile;SI;Descrizione e dati indicano un bilocale intero di 54 mq, senza riferimenti a stanze o affitto turistico.;gpt-6-luna
+36968725;affitto;c223c9fbf3176d7caf4baad94e1f9ebd;immobile;SI;Canone riferito a un appartamento intero, destinato ad affitto abitativo e disponibile da novembre 2026.;gpt-6-luna
+32798478;affitto;a4d2a700c48b9f47d5fdd132eacc863c;immobile;SI;Descrive una dependance arredata ad uso abitativo, con soggiorno, angolo cottura e camera, affittata come unità intera.;gpt-6-luna
+37023112;affitto;fa1d7ba5245051aaa1a638e6ce20bd69;immobile;SI;Si affitta l’intero appartamento con contratto transitorio, per un periodo da 30 giorni a un anno.;gpt-6-luna
+32744534;affitto;00661c6ccb9b2ab80cf48fde0dfe786c;immobile;SI;È un intero bilocale affittato con contratto transitorio continuativo per più mesi.;gpt-6-luna
+37010991;affitto;4663827d00bf6e30b42b12aa369333ac;immobile;SI;La descrizione propone in affitto l’intero appartamento arredato, non una stanza o un altro oggetto.;gpt-6-luna
+36985350;affitto;bed525a3d75cf72089e874b23549f385;immobile;SI;"La descrizione propone in affitto l’intero bilocale di circa 50 mq; la locazione è riservata a studenti e specializzandi.";gpt-6-luna
+36728801;affitto;f942bb89921c76b4a63605d5c8b16984;immobile;SI;Contratto 4+4 e descrizione di un appartamento ristrutturato in locazione indicano l’intera abitazione.;gpt-6-luna
+31107734;affitto;137bdc4b039b06d1ce6efccbef5519de;immobile;SI;Annuncio riferito a un bilocale di 53 mq, senza indicazioni di stanza singola o condivisione.;gpt-6-luna
+36453692;affitto;b5182d068f6afd64aabe2176f9c31ead;immobile;SI;"La descrizione indica un appartamento arredato completo, affittato come intera abitazione; cantina e garage sono accessori.";gpt-6-luna
+17365038;affitto;d2078de3be66648a384aa1b00f76a8dc;immobile;SI;"Il prezzo riguarda l’intero bilocale abitativo; cantina e garage sono pertinenze incluse.";gpt-6-luna
+37030330;affitto;9d44b128aef9600bdd08c2102075e274;immobile;SI;"Bilocale arredato offerto in affitto come intera abitazione; il prezzo è un canone ordinario.";gpt-6-luna
+36829224;affitto;fb757b493a48036d64c75764dfea689b;immobile;SI;Bilocale arredato di 61 mq descritto come intera abitazione in affitto.;gpt-6-luna
+21347342;affitto;487f7389df7cb383a4f41a58bac52148;immobile;SI;Bilocale arredato affittato per intero, con canone mensile e spese condominiali mensili.;gpt-6-luna
+36629904;affitto;82275554136c899f24d704e346a8f05a;immobile;SI;La descrizione propone in affitto l’intero bilocale arredato, adatto a professionisti e personale sanitario.;gpt-6-luna
+36081460;affitto;658d213b39b8271c63b7adfb7e3fc65f;immobile;SI;Il prezzo riguarda l’intero bilocale arredato, descritto con soggiorno, cucina, camera, bagno e giardino privato.;gpt-6-luna
+33575780;affitto;bcc504641220582259c8db1a520896f5;immobile;SI;Descrizione riferita a un intero appartamento arredato di 57 mq, senza indicazioni di affitto turistico o stagionale.;gpt-6-luna
+30236475;affitto;4b3b3aa1cb8af6a718ca8e732a307d5b;immobile;SI;Bilocale arredato descritto come intera abitazione, con soggiorno, cucina, camera e bagno.;gpt-6-luna
+12682379;affitto;98c86d8ccff43195d847e1a3cd0bb6cf;immobile;SI;Descrizione di un bilocale arredato con soggiorno, cucina, camera e bagno, affittato come intera abitazione.;gpt-6-luna
+24579468;affitto;d078485aeeecb35a1fa2ff8d013cd9a2;affitto_stagionale_turistico;NO;La descrizione specifica che il trilocale arredato è affittato per brevi periodi.;gpt-6-luna
+36834533;affitto;53d2bf498431a17d20b754bc3f23a30a;immobile;SI;La descrizione propone in affitto l’intero appartamento di 50 mq, disponibile dal 1° dicembre.;gpt-6-luna
+35092197;affitto;27be603dd65432b199974ac12de0ec4f;affitto_stagionale_turistico;NO;La descrizione indica affitti brevi giornalieri, settimanali e mensili, non un canone ordinario a lungo termine.;gpt-6-luna
+25377638;affitto;9f98aa883c6538ccbf64803402e832c9;immobile;SI;Il prezzo riguarda un trilocale arredato di 85 mq, affittato come intera abitazione.;gpt-6-luna
+26204730;affitto;ddf404a8ca6b7e8c3c9ad0dec7119208;affitto_stagionale_turistico;NO;La descrizione specifica affitti brevi giornalieri, settimanali e mensili per il monolocale.;gpt-6-luna
+36340776;affitto;648e5e9f01731a14f8b74bca2e602aa3;immobile;SI;"La descrizione presenta un appartamento nuovo con soggiorno, cucina, due camere e bagno; il prezzo riguarda l’intera abitazione.";gpt-6-luna
+36651255;affitto;a3597efbd2bd6ed9368f069c8e67485f;immobile;SI;"Monolocale ristrutturato descritto come abitazione completa; il posto auto è incluso e non è l’oggetto dell’affitto.";gpt-6-luna
+36352865;affitto;85db53105d32ad2821769163defcd6a1;immobile;SI;La descrizione presenta un monolocale funzionale come unità abitativa, senza indicazioni di affitto turistico o condivisione.;gpt-6-luna
+33984885;affitto;d5a3a0183c90335cd48166901625a510;immobile;SI;Bilocale arredato proposto in locazione come intera abitazione.;gpt-6-luna
+36623710;affitto;18155d7eee049179837a9e23b1b62563;immobile;SI;La descrizione indica l’affitto dell’intero appartamento arredato, con salone, cucina, tre camere e due bagni.;gpt-6-luna
+37012773;affitto;a6165f43795650091af018dc7948a222;immobile;SI;La descrizione propone in affitto l’intero appartamento, con soggiorno, cucina e camera da letto.;gpt-6-luna
+36991401;affitto;b43c77f819706e879e0bb6e96717cb7d;immobile;SI;"La descrizione propone in locazione un appartamento; il prezzo si riferisce all’intera abitazione.";gpt-6-luna
+35977922;affitto;3df621ab85e4a031593feb2d2d33fe14;immobile;SI;Annuncio di un bilocale di 50 mq con canone indicato, senza segnali di stanza o affitto turistico.;gpt-6-luna
+36675130;affitto;766a1c96155f4ac4e97b2375d85ecf3d;immobile;SI;"La descrizione presenta un bilocale intero in affitto; non emergono indicazioni di locazione turistica o parziale.";gpt-6-luna
+36209947;affitto;5d49827a10f4d8d762af54bb189d73e8;immobile;SI;"Descrizione di un intero appartamento arredato di 85 mq, disponibile da settembre; canone mensile ordinario.";gpt-6-luna
+35245893;affitto;bc766d02d763d4e0d4a891ade77ac772;immobile;SI;Bilocale arredato di 61 mq locato come intero appartamento, disponibile per essere abitato.;gpt-6-luna
+36696279;affitto;43700aaf0b05542002fcf3e7fb94a338;immobile;SI;Descrizione di un appartamento intero di ampia metratura offerto in affitto, non di una stanza o di un uso turistico.;gpt-6-luna
+27782847;affitto;d68564ba2a9ad40158be854a239466d8;immobile;SI;"Il prezzo riguarda l’intero appartamento arredato, con soggiorno, cucina, camera e bagno; il posto auto è accessorio.";gpt-6-luna
+33504105;affitto;12a0be01f002ce504085ecdec0c6861b;incerto;NO;È descritto un intero monolocale, ma il testo è incompleto e non chiarisce se l’affitto sia ordinario o turistico.;gpt-6-luna
+35496020;affitto;946783dda3ec0ea8a086cdccf888a0df;immobile;SI;Descrizione di un bilocale arredato affittato per intero, con cantina e box accessori.;gpt-6-luna
+23562678;affitto;191188487e7e1317d60867dc192177cf;immobile;SI;La descrizione indica l’affitto dell’intero appartamento, per uso transitorio.;gpt-6-luna
+25483968;affitto;fc73504bdf21dae34893313835f069d9;affitto_stagionale_turistico;NO;L’annuncio specifica che il bilocale è ideale per brevi periodi, non per un affitto ordinario a lungo termine.;gpt-6-luna
+20866155;affitto;5e264873af1770020868c710e116ae3c;immobile;SI;La descrizione presenta un monolocale intero disponibile in affitto, senza indicazioni di locazione turistica o di una singola stanza.;gpt-6-luna
+26317749;affitto;8a9647a4476b1b4b0dacea97341104ab;immobile;SI;Bilocale arredato descritto come unità abitativa completa, proposta in locazione.;gpt-6-luna
+37029369;affitto;26edb73e464c5d64a16b54ba0cd5f20c;immobile;SI;La descrizione riguarda un trilocale da affittare per intero, con cucina, soggiorno, camera e bagno.;gpt-6-luna
+21828356;affitto;7629befefbc707d2f7a5d8448e723640;immobile;SI;"Descrizione riferita a un bilocale intero di circa 60 mq; non emergono indicazioni di affitto turistico o per periodi.";gpt-6-luna
+37026088;affitto;5ca8eb6322ee0b5b2f3785f6e5dab8fd;immobile;SI;Descrizione di un trilocale intero di 95 mq, affittato a persone referenziate.;gpt-6-luna
+34467709;affitto;82206bbf4746fabf7c3efbf4341d0e75;immobile;SI;Bilocale intero arredato, offerto in affitto transitorio da 1 a 18 mesi.;gpt-6-luna
+32766153;affitto;c223a8da7ddcc7cea34f67dc6dfb37d7;immobile;SI;"La descrizione propone l’intero appartamento per trasferimenti di lavoro o formazione; non indica affitto turistico o a settimane.";gpt-6-luna
+35582443;affitto;5a4a75085b1cbdfbb03a8012ea9d1ee0;immobile;SI;"Bilocale arredato e pronto da abitare, disponibile dal 1 dicembre; il prezzo riguarda l’intero appartamento.";gpt-6-luna
+36979029;affitto;a2cfad5f50d403c53457abf48c3ff99c;immobile;SI;Il prezzo si riferisce all’intero bilocale abitativo di 58 mq, descritto con zona living, camera e bagno.;gpt-6-luna
+33623078;affitto;a13d05268994e79ba6a29a2e286adcd3;immobile;SI;Intero appartamento affittato con contratto transitorio da settembre 2026 a giugno 2027.;gpt-6-luna
+35684845;affitto;84de96088e2967a4d7181a5fd46c34f8;immobile;SI;La descrizione indica un bilocale arredato di 70 mq, affittato come intera abitazione.;gpt-6-luna
+37026357;affitto;78f9352c46af8b801157b77a9e667ccc;immobile;SI;"Affitto transitorio annuale di un appartamento di 2,5 vani; non è indicata una stanza condivisa.";gpt-6-luna
+36753669;affitto;3184461584a407f459f1fbb50c060fe1;immobile;SI;È descritto un appartamento completo con cucina, tre camere e bagno, destinato a tre studentesse.;gpt-6-luna
+31292796;affitto;396e5ade2df5a23863cb4c14a7702309;affitto_stagionale_turistico;NO;La descrizione specifica affitti brevi da novembre ad aprile, per pochi mesi.;gpt-6-luna
+36999290;affitto;4f693264fc29325fa8460d3aec957d5c;immobile;SI;La descrizione propone in affitto un appartamento trilocale arredato, senza indicazioni di affitto turistico o per periodi.;gpt-6-luna
+33664098;affitto;85b43514d458af64b8338edcdcbc9d1c;immobile;SI;Bilocale arredato e ristrutturato, descritto come abitazione intera disponibile in affitto.;gpt-6-luna
+37027970;affitto;8c646f7e262c98f06b500e4060875886;immobile;SI;"La descrizione riguarda un trilocale arredato affittato come intera abitazione; il posto auto è un accessorio.";gpt-6-luna
+33928438;affitto;9d2cd81fc8cbbdfc8b14e75649b2d38e;immobile;SI;"Bilocale arredato di 50 mq affittato come intera abitazione; non emergono indicazioni di locazione turistica o per periodi brevi.";gpt-6-luna
+33489810;affitto;1e8262580b3d765f8d086eba46835c76;immobile;SI;"Bilocale nuovo di 60 mq affittato come intera abitazione; non sono indicati uso turistico o locazione a periodi.";gpt-6-luna
+33489789;affitto;23a49b15f6a0307edec9ccd74371a6ff;immobile;SI;Descrizione di un appartamento bilocale intero, di 60 mq, disponibile in affitto.;gpt-6-luna
+36532540;affitto;e1347e20c5b843377800633dc418f280;affitto_stagionale_turistico;NO;La descrizione presenta l’appartamento come affitto breve, non come locazione abitativa ordinaria.;gpt-6-luna
+36984133;affitto;6f57f6e36e9ce93e15f0b7de23384045;immobile;SI;Descrizione di un appartamento bilocale intero, con soggiorno e camera da letto, proposto in affitto.;gpt-6-luna
+36764404;affitto;8b6818d73eec8d25a008a31cb1e6d2b3;immobile;SI;La descrizione propone in affitto l’intero appartamento di due vani, adatto a lavoratori transitori o dottorandi.;gpt-6-luna
+36897447;affitto;6d30ee1f2f593df3b55ad733ba392242;immobile;SI;Descrizione riferita a un appartamento intero di 3 locali e 70 m² in affitto.;gpt-6-luna
+36950726;affitto;08dfa44049a23a317c28bd4fe6fbbefc;immobile;SI;È indicato l’affitto di un trilocale intero di 70 m², senza riferimenti a stanze o periodi turistici.;gpt-6-luna
+29276628;affitto;927c6f9481d738997138dda50354b766;immobile;SI;Il prezzo riguarda l’intero quadrilocale arredato, descritto come appartamento disponibile da novembre.;gpt-6-luna
+36669101;affitto;7051839dd05b00cc4a75a0ba0e416fac;immobile;SI;La descrizione propone l’intero appartamento in locazione a lungo termine con contratto 4+4.;gpt-6-luna
+36718206;affitto;968e337ad624f7560922f4a0cd65023f;immobile;SI;La descrizione propone in locazione l’intero appartamento di 140 mq, senza indicazioni di affitto turistico o per singole stanze.;gpt-6-luna
+5580397;affitto;e67fe4c45404defbd517d9dd1d4256c4;immobile;SI;"La descrizione riguarda l’intero bilocale indipendente; non indica affitto turistico o per periodi brevi.";gpt-6-luna
+35308705;affitto;561c95c2c97d42fcb1d7f69d7f0b64b6;immobile;SI;"La descrizione presenta un appartamento intero in zona centrale; non indica affitto turistico, stanza o altro oggetto.";gpt-6-luna
+36887776;affitto;c49e89d4329afe355035196968ec0ac4;immobile;SI;Il prezzo riguarda l’intero appartamento trilocale, descritto con soggiorno, cucina, due camere e bagno.;gpt-6-luna
+36941130;affitto;78e96c022f019677040d529d8a59f40e;immobile;SI;Il prezzo riguarda un appartamento intero di 100 m², descritto come disponibile in affitto.;gpt-6-luna
+36969432;affitto;2c729032369a5c7d75db6aed8f861158;immobile;SI;La descrizione propone in locazione l’intero quadrilocale arredato, adatto a lavoratori, specializzandi o famiglie.;gpt-6-luna
+36638044;affitto;e53750ef16f6dcd93f8f8025e7b636eb;immobile;SI;Annuncio riferito a un trilocale di 80 mq al secondo piano, apparentemente affittato come intera abitazione.;gpt-6-luna
+33935424;affitto;70d7e0c82ea7487036db88d65fd23c40;immobile;SI;Si affitta l’intero bilocale arredato e ristrutturato, con giardino esclusivo.;gpt-6-luna
+36984472;affitto;3e9926fdb5c3555a00a1baa09512a0f1;immobile;SI;"Annuncio di trilocale ristrutturato; non è indicata una locazione per stanza o per periodi turistici.";gpt-6-luna
+36691392;affitto;08bcaa7cdb4d866f1b2e9bb0d65931d1;immobile;SI;Annuncio di quadrilocale di 95 mq con canone mensile, senza indicazioni di stanze o affitto turistico.;gpt-6-luna
+25019498;affitto;fd77cf2f229098896308fb62d03399c9;immobile;SI;La descrizione propone in affitto il trilocale arredato di 76 m², senza indicare stanze o posti letto separati.;gpt-6-luna
+30316001;affitto;c74d4b889f4320ab8accda65ee32883c;immobile;SI;"Annuncio per un appartamento trilocale intero, con servizi e balconi; non emergono indicazioni di affitto per stanza o uso turistico.";gpt-6-luna
+5580418;affitto;2bafcf039f088a471e6451b013a29196;incerto;NO;Descrive un intero bilocale arredato, ma non specifica durata o modalità del canone per distinguere affitto ordinario da turistico.;gpt-6-luna
+36961796;affitto;2fc37e913bc0ef4055c759c8c5a35961;affitto_stagionale_turistico;NO;Prenotazione online, durata minima di 30 giorni e numero massimo di ospiti indicano un alloggio per soggiorni brevi.;gpt-6-luna
+34629652;affitto;8d1204fb844dfedab3aee8e53d4a0636;immobile;SI;La descrizione presenta un monolocale intero, arredato e abitabile, con ingresso e zona open space.;gpt-6-luna
+36924563;affitto;3880f45e574253867c5e88c90e110d92;immobile;SI;"Bilocale di 59 mq con disponibilità e requisiti per la locazione; il prezzo si riferisce all’intera abitazione.";gpt-6-luna
+36685652;affitto;453d958a08b7d0c052ce4514f884884f;immobile;SI;Bilocale arredato e ristrutturato offerto in locazione come intera abitazione.;gpt-6-luna
+36999772;affitto;097ab757dda8941ad138e7520ef0d37c;immobile;SI;"Descrizione di un appartamento tipo loft ristrutturato e arredato, con terrazza; non è indicata una locazione turistica o parziale.";gpt-6-luna
+36811712;affitto;77feea4baca8fce0287dbdf8859648ed;immobile;SI;La descrizione presenta un trilocale arredato di 60 mq affittato come intera abitazione.;gpt-6-luna
+36897273;affitto;bbd6e40f5df64d71a8138e6e0dc6db97;immobile;SI;Il prezzo riguarda l’intero appartamento arredato di 140 mq, destinato in locazione a tre studenti.;gpt-6-luna
+36991612;affitto;fe84708ac9be1614d4360a02d4a1f516;immobile;SI;La descrizione indica un appartamento bilocale di 65 mq in affitto, apparentemente come intera abitazione.;gpt-6-luna
+31360632;affitto;335b0a96473a394bdd03c587887f1e33;immobile;SI;Descrizione di un intero appartamento di 80 mq, disponibile da subito e adatto a un contratto transitorio.;gpt-6-luna
+37001266;affitto;83e83543e6cf55eaf3795ab4de5ae48c;incerto;NO;"La descrizione indica solo la capienza; non chiarisce durata dell’affitto né a quale periodo si riferiscano i 900 euro.";gpt-6-luna
+36749894;affitto;785284907447be7f348a8a02302046b9;immobile;SI;La descrizione specifica l’affitto dell’intero appartamento, con tre locali e uso abitativo.;gpt-6-luna
+21145473;affitto;9273876910fc1de34823347e928d0550;immobile;SI;Appartamento arredato affittato per intero con canone mensile di 900 euro.;gpt-6-luna
+33515018;affitto;79e5dbc7eda82ccb625a2ce973b2f9f2;immobile;SI;La descrizione riguarda l’intero appartamento e indica disponibilità per un periodo prolungato, con utenze incluse.;gpt-6-luna
+37028032;affitto;533f1d8e9ea15b032f6147a94ce8a67b;immobile;SI;Affittasi l’intero appartamento di 140 mq, descritto con più camere, soggiorno e servizi.;gpt-6-luna
+36806870;affitto;8ed1506ec3bb35debf77db4560a238c5;immobile;SI;"Il prezzo è il canone del monolocale intero; la permanenza minima di quattro mesi è compatibile con un affitto transitorio.";gpt-6-luna
+30671880;affitto;c32112924e0c2c4a17852a27c9ae25da;affitto_stagionale_turistico;NO;La descrizione specifica un affitto a breve termine, per periodi fino ad alcuni mesi, non un canone ordinario a lungo termine.;gpt-6-luna
+36939489;affitto;c329ebb6ef8333ee0f1adbb4388f53cf;immobile;SI;Annuncio di bilocale arredato in affitto: il prezzo si riferisce all’intera abitazione.;gpt-6-luna
+36976878;affitto;fe79215c149de3192cb6fd5a0bdd284c;affitto_stagionale_turistico;NO;La descrizione specifica che il bilocale è disponibile solo per brevi periodi.;gpt-6-luna
+36982500;affitto;5bc29ec578bceaf10f10f514188698be;immobile;SI;Il prezzo si riferisce all’intero bilocale descritto, non a una stanza o a un altro oggetto.;gpt-6-luna
+36204793;affitto;070ac8a2c54de0119757c1c01991ad70;immobile;SI;La descrizione presenta un bilocale arredato offerto in locazione come intera abitazione.;gpt-6-luna
+36838290;affitto;24af6cfa9225ccf613d80b832e025864;immobile;SI;La descrizione propone in locazione l’intero appartamento arredato di 69 mq, con giardino privato.;gpt-6-luna
+36844800;affitto;8ad63ae1a584d92ff9bd76bffddbe1b9;immobile;SI;Trilocale arredato descritto come intera abitazione, con cucina, soggiorno, due camere e bagno.;gpt-6-luna
+30606987;affitto;322e76210b5ea387adb4024b109c5b21;immobile;SI;"Bilocale intero ristrutturato, affittato con contratto transitorio; prezzo riferito all’abitazione.";gpt-6-luna
+28649701;affitto;4604a907b09c69e33c047f478e7532bd;immobile;SI;"La descrizione propone in locazione l’intero appartamento; il posto auto è un accessorio.";gpt-6-luna
+34764172;affitto;aa3e4a6b897b334ba856ae58884fd76d;immobile;SI;La descrizione presenta un bilocale in affitto, senza indicazioni di stanza condivisa o locazione turistica.;gpt-6-luna
+36961836;affitto;368094b25c8f215e75114449ac2c9fcf;affitto_stagionale_turistico;NO;Prenotazione online, durata minima di 120 giorni e limite di ospiti indicano un affitto temporaneo con spese incluse.;gpt-6-luna
+23821421;affitto;f331fe36ceb1fe13f87eb5dff389f5ea;affitto_stagionale_turistico;NO;"La descrizione propone affitti brevi, giornalieri e settimanali, oltre che mensili; non è un canone ordinario di lungo periodo.";gpt-6-luna
+34874224;affitto;d0f9eb353a4422b35977829ea3e5159e;affitto_stagionale_turistico;NO;La descrizione propone affitti brevi giornalieri, settimanali e mensili, non un canone ordinario a lungo termine.;gpt-6-luna
+32500853;affitto;aa35815c5122ce3f22539d11c0a85582;affitto_stagionale_turistico;NO;La descrizione indica affitti brevi giornalieri, settimanali o mensili, non un canone ordinario di lungo periodo.;gpt-6-luna
+30000473;affitto;69739ad265606fa0f2b67e19dbb1d595;immobile;SI;Canone riferito all’intero mini-appartamento arredato, disponibile per locazioni transitorie o ad aziende.;gpt-6-luna
+35874614;affitto;86643ebb7b6d2f6421d790fe2e922601;immobile;SI;"È descritto un appartamento arredato di 85 mq, con tre camere e contratti transitori annuali; non si indica l’affitto di singole stanze.";gpt-6-luna
+35146622;affitto;1428de0f67a353be851dd33eff33c608;immobile;SI;"Descrizione di un bilocale arredato in affitto; box e cantina sono accessori inclusi.";gpt-6-luna
+36923228;affitto;b994524a361555c5b743b59e2c4e77c2;immobile;SI;Il prezzo riguarda l’intero quadrilocale di 115 mq, descritto come abitazione in affitto.;gpt-6-luna
+34961658;affitto;3d27941d17166f5ef9d1fb0810f9be01;immobile;SI;Bilocale intero arredato, affittato ad uso transitorio fino a 18 mesi.;gpt-6-luna
+36064393;affitto;adcbfec33053765720cb546a7213f21d;affitto_stagionale_turistico;NO;La descrizione indica esplicitamente un affitto breve, non un canone ordinario a lungo termine.;gpt-6-luna
+36676382;affitto;8fd57f7939972aafc509f1acdd0b20be;immobile;SI;Canone mensile per l’intero appartamento, affittato a studenti con quattro camere e servizi.;gpt-6-luna
+7224309;affitto;703fdf352f76ff2041d3135675576820;immobile;SI;Il prezzo riguarda l’intero appartamento di 100 mq, descritto come abitazione in affitto.;gpt-6-luna
+36727829;affitto;2945d430ec7540f0a2ce572a93c4e1b9;immobile;SI;"Bilocale completo di zona giorno, cucina, bagno e camera; il prezzo riguarda l’intero appartamento.";gpt-6-luna
+36972805;affitto;ff45fd696eeef85069d78c85a07e827b;immobile;SI;La descrizione indica un appartamento restaurato e arredato, affittato come intera abitazione.;gpt-6-luna
+28289577;affitto;0684c1cc6c0d99b918e6a74a203b46b9;immobile;SI;"Appartamento intero arredato, affittato con contratto a studenti; il canone mensile è indicato separatamente dalle spese.";gpt-6-luna
+36833340;affitto;494d6000b26979ff86ee3bc9bd11a031;immobile;SI;La descrizione presenta un appartamento di 130 mq in affitto, apparentemente locato come intera abitazione.;gpt-6-luna
+36438381;affitto;b10dff1cc192a58b2ae2ed94f6371cb3;immobile;SI;Il prezzo riguarda l’intero appartamento di 115 mq, affittato a studenti e specializzandi.;gpt-6-luna
+33588416;affitto;c02e973cfcea79e5d0da5c115e73b074;immobile;SI;"Si propone l’intero quadrilocale in affitto, da condividere tra due o tre specializzandi; non è indicato il prezzo di una singola stanza.";gpt-6-luna
+32261807;affitto;97acd71b12256373cb99f03d13e405ee;immobile;SI;"Appartamento in locazione a lungo termine con contratto 4+4; il prezzo riguarda l’intera abitazione.";gpt-6-luna
+35774798;affitto;1cc594bbd06f6a376789805aa9466148;immobile;SI;"Il prezzo si riferisce all’affitto dell’intero appartamento; il posto auto è un accessorio incluso.";gpt-6-luna
+28605728;affitto;98b5b879666aa3eb42af584446dc646d;immobile;SI;"Descrizione di un appartamento intero di 120 mq; non è indicata una locazione per singole stanze.";gpt-6-luna
+36152641;affitto;87185359c30097a4870f58139a1fffe9;immobile;SI;La descrizione propone in affitto un intero appartamento di circa 120 mq, senza indicazioni di stanze o periodi brevi.;gpt-6-luna
+36978125;affitto;ebac662fd0e0509df617aa0b7366fed3;immobile;SI;La descrizione propone in affitto l’intero appartamento, composto da living, due camere, bagno e veranda.;gpt-6-luna
+36910519;affitto;7027e83a80a6d30ae73ee0913034b55f;immobile;SI;La descrizione indica un appartamento ristrutturato di 80 mq affittato, senza riferimenti a stanze singole o periodi turistici.;gpt-6-luna
+36970791;affitto;a366b4a46094d198dac1132e847fb824;affitto_stagionale_turistico;NO;Prenotazione online, durata minima di 90 giorni, limite di ospiti e spese incluse indicano un affitto temporaneo.;gpt-6-luna
+36961852;affitto;e7e100c46007a4c61103b4f18a504afd;affitto_stagionale_turistico;NO;Durata minima di 90 giorni, massimo due ospiti e prenotazione online indicano un affitto temporaneo.;gpt-6-luna
+36785274;affitto;422a2499764ec27015b8cfc05a352610;affitto_stagionale_turistico;NO;Annuncio prenotabile per un minimo di tre mesi, quindi destinato a un soggiorno temporaneo.;gpt-6-luna
+36887868;affitto;108bbaebf11342587f653ca7aac4fdc1;immobile;SI;La descrizione riguarda un appartamento arredato di 105 mq, affittato come intera abitazione.;gpt-6-luna
+36847001;affitto;069b75b414a927e6265bfb463257cb23;affitto_stagionale_turistico;NO;Disponibile solo da novembre a fine aprile, per un periodo stagionale e non come locazione ordinaria continuativa.;gpt-6-luna
+36460427;affitto;74431c0e2dfa425f7604e7683cea7b33;immobile;SI;"Il prezzo si riferisce all’intero quadrilocale abitativo; il posto macchina è disponibile separatamente su richiesta.";gpt-6-luna
+35929862;affitto;7248f841250a9556e3311dd708bf0c1e;immobile;SI;"Annuncio di un quadrilocale di 110 mq; i posti letto indicano la capienza dell’intera abitazione, senza riferimenti a stanze condivise.";gpt-6-luna
+36348427;affitto;90ad5dc631e93bfd1d482a6ec9939464;immobile;SI;"La descrizione propone in affitto un appartamento indipendente, intero e abitabile; non emergono indicazioni di locazione turistica o parziale.";gpt-6-luna
+32092597;affitto;7b28d49fbf8237e4b413f56d166cfab0;immobile;SI;Canone riferito a un intero trilocale arredato di 90 mq, proposto in affitto.;gpt-6-luna
+36272564;affitto;89c011dae158b8cf2fd6fcad3a5f2c8b;immobile;SI;Descrizione riferita a un trilocale intero, ristrutturato e arredato, proposto in locazione.;gpt-6-luna
+35532414;affitto;28f842fef4cc1e9e567c6553ae1e0a7b;immobile;SI;La descrizione propone in locazione un trilocale arredato, composto da soggiorno, angolo cottura e camera.;gpt-6-luna
+36317693;affitto;c1fee60331809fc4314ba96548072aa6;immobile;SI;Appartamento intero di 84 mq affittato con contratto transitorio di 12/18 mesi.;gpt-6-luna
+34803599;affitto;1912a4328145de2f471946331f17dd78;immobile;SI;La descrizione riguarda un bilocale/loft di 45 mq affittato come intera abitazione.;gpt-6-luna
+32431525;affitto;8a6502f332416d84cd5f6fe5b3ed48c9;affitto_stagionale_turistico;NO;È dichiarato disponibile per brevi periodi ed è arredato e accessoriato.;gpt-6-luna
+28493357;affitto;455a0deededf66fafacb274b86791d73;affitto_stagionale_turistico;NO;La descrizione specifica che il bilocale arredato è disponibile per brevi periodi.;gpt-6-luna
+26483188;affitto;0b8a9ce495e73ca5b9e10b1eceeb8d00;affitto_stagionale_turistico;NO;La descrizione specifica che il bilocale è affittato solo per brevi periodi.;gpt-6-luna
+36990620;affitto;8fb65cef5f298a12a8d40748e46edc59;immobile;SI;"La descrizione propone in affitto l’intero appartamento; non indica stanze o posti letto separati.";gpt-6-luna
+33337650;affitto;e21584804c65c6ae32d2a093ce9b4541;immobile;SI;Canone mensile per l’intero appartamento arredato, con contratto transitorio.;gpt-6-luna
+33411032;affitto;38df435c07dd8f9024d659df36eafdf6;immobile;SI;Il prezzo riguarda un appartamento quadrilocale intero, descritto con soggiorno, cucina e tre camere.;gpt-6-luna
+36434759;affitto;2e77b604725cb1681de1dab27f8a6ce1;immobile;SI;La descrizione presenta una casa di 120 m² per due persone, senza indicare affitto di una singola stanza.;gpt-6-luna
+36935287;affitto;7919692919642e10c2ce84ecfdf56e1f;immobile;SI;"La descrizione presenta un appartamento completo in affitto; non indica stanze o posti letto separati.";gpt-6-luna
+36926357;affitto;7e87909a24620ea46b1a653901d493c5;immobile;SI;Canone riferito all’alloggio intero, con tre camere da letto e doppi servizi, destinato a studenti.;gpt-6-luna
+36905087;affitto;101976b27c901ff10489e44ca8736e6c;affitto_stagionale_turistico;NO;La prenotazione online prevede soggiorno temporaneo, durata minima di 120 giorni e massimo quattro ospiti.;gpt-6-luna
+35473812;affitto;1971d1535b2b5080a143439d9faf04c7;immobile;SI;"Descrive un intero trilocale arredato di 90 mq; box e cantina sono accessori dell’abitazione.";gpt-6-luna
+35630264;affitto;3432af285e91e2be01e6826a509c078f;immobile;SI;La descrizione riguarda un bilocale ristrutturato, proposto come appartamento intero in affitto.;gpt-6-luna
+32323585;affitto;9e2d8cf5e27945ee953894f78f7d9413;immobile;SI;Il prezzo è il canone dell’intero appartamento arredato di 75 mq, con due camere, due bagni e terrazzo.;gpt-6-luna
+31246345;affitto;256c88f37a12271dbe53ae2f42257d20;immobile;SI;Descrizione riferita a un bilocale arredato affittato come intera abitazione con contratto transitorio.;gpt-6-luna
+36504997;affitto;bbd5c7a5cbe9e80210fbddfd8bd66f8f;immobile;SI;"Descrizione riferita a un trilocale intero ristrutturato, adatto a una coppia; non emergono affitto turistico o condivisione.";gpt-6-luna
+36173656;affitto;b47d146f0ac88f4acf010a3a909f20e8;immobile;SI;Descrizione di un appartamento arredato di 100 mq affittato come intera abitazione.;gpt-6-luna
+32612973;affitto;20fe9dcc3985542203d0ec39f3421b4f;immobile;SI;Abitazione completa con cucina, soggiorno e servizi, destinata a locazioni transitorie per aziende o lavoratori.;gpt-6-luna
+36153648;affitto;3e11c6594ad7a776c22897523ffcdcfa;immobile;SI;La descrizione presenta un appartamento per studenti con tre camere e quattro posti letto, non una stanza singola.;gpt-6-luna
+33000258;affitto;47be6570b922fa7f7df1e15e8dd9929d;affitto_stagionale_turistico;NO;La descrizione propone anche affitti settimanali a partire da 300 euro, indicando una locazione di breve periodo.;gpt-6-luna
+34785627;affitto;7bee22618dee5c4e553147bedc2c05c2;immobile;SI;È descritto come appartamento arredato con tre camere, cucina e due bagni, offerto in affitto per studenti.;gpt-6-luna
+36263375;affitto;65eb75f1a3f5818881e279f648f9fb05;immobile;SI;La descrizione propone in locazione l’intero appartamento su due livelli, con cucina, soggiorno, tre camere e due bagni.;gpt-6-luna
+36725519;affitto;13d1f218ddda18f0c52b1a80ef8d6a38;immobile;SI;"Descrizione di un quadrilocale ristrutturato con soggiorno, cucina, tre camere e due bagni; il posto auto è accessorio.";gpt-6-luna
+36607107;affitto;8061b8531b3ee9b57e13e564580d0633;affitto_stagionale_turistico;NO;L’appartamento è proposto in locazione per un periodo limitato, da ottobre 2026 a maggio 2027.;gpt-6-luna
+36651857;affitto;eefcb706213a33cf14f0d62a29926fb0;immobile;SI;La descrizione presenta un appartamento duplex intero di 126 m² in affitto transitorio.;gpt-6-luna
+34453728;affitto;30cfe69420774de9c5d74abb500bafcb;immobile;SI;La descrizione propone un appartamento arredato completo, con soggiorno, due camere e due bagni, senza indicare affitto di singole stanze.;gpt-6-luna
+33083262;affitto;7e181c0d5b3b52f9ad38e02f032e365a;immobile;SI;La descrizione propone in affitto l’intero appartamento ristrutturato, con soggiorno, cucina, due camere e giardino privato.;gpt-6-luna
+36888915;affitto;a737f6f15fcfb08214dc335e0909914d;immobile;SI;"Monolocale di 42 mq, senza indicazioni di stanza condivisa o affitto turistico; il prezzo si riferisce all’abitazione.";gpt-6-luna
+34704878;affitto;bf36991786b17573d632c33523050525;immobile;SI;Descrizione di un appartamento arredato di 85 mq, affittato come unità abitativa intera.;gpt-6-luna
+31164991;affitto;0df8f37815df6cf39283b7126fd13d70;immobile;SI;Mansarda intera di 70 mq disponibile con contratto transitorio fino a sei mesi.;gpt-6-luna
+36828330;affitto;9d584e12233cf8ac37c4b498625217dc;immobile;SI;La descrizione propone in locazione un appartamento quadrilocale intero di 87 mq.;gpt-6-luna
+36534343;affitto;d9f448f3979fe764ffbbbe2c0f859184;immobile;SI;La descrizione propone una villa indipendente in affitto, apparentemente per intero.;gpt-6-luna
+36065774;affitto;aa5c11cfce3317f0f012bc94e0bcdc38;immobile;SI;La descrizione propone in locazione un appartamento intero di quattro locali, con tre camere e due bagni.;gpt-6-luna
+10022091;affitto;8688634fcd46fd1f45297cbefbae74b5;stanza_o_posto_letto;NO;La descrizione specifica che si affitta una stanza a 430 euro, non l’intero appartamento.;gpt-6-luna
+36857570;affitto;ae20ac28a049caf22b3130bf408b84b2;immobile;SI;La descrizione riguarda un appartamento intero in affitto, senza indicazioni di uso turistico o condivisione.;gpt-6-luna
+28065892;affitto;8c8ac0f2719ecbef73e7ed0ff5efe287;affitto_stagionale_turistico;NO;La descrizione indica affitti brevi giornalieri, settimanali e mensili, non un normale canone abitativo a lungo termine.;gpt-6-luna
+36875796;affitto;59bf6ff2f470131189a8d23eac1e907d;immobile;SI;La descrizione presenta un appartamento intero di 115 mq, adatto a studenti o lavoratori in trasferimento temporaneo.;gpt-6-luna
+26662488;affitto;625d471fab2029ece99ed0ec971610f1;immobile;SI;"La descrizione propone in affitto l’intero appartamento di 90 mq; il canone non è riferito a singole stanze.";gpt-6-luna
+36414235;affitto;2c85aaf27e33bfa0d270c6f683e10cbd;immobile;SI;"Descrizione di un appartamento intero arredato, con più ambienti e servizi; il prezzo riguarda l’abitazione.";gpt-6-luna
+36806915;affitto;fb57961b6a06cf335cbede598461eb63;immobile;SI;Bilocale intero di 40 mq, con canone mensile e durata prenotabile da 1 a 18 mesi.;gpt-6-luna
+27981837;affitto;a281d85d5cf533675001a9f065bfd6fb;immobile;SI;Descrizione di un trilocale arredato di 90 mq, affittato come intera abitazione.;gpt-6-luna
+35506443;affitto;9b0acd5b0ba2a99002e6e485d0360fc0;stanza_o_posto_letto;NO;L’alloggio è proposto in affitto condiviso per studenti, con tre posti letto in camere condivise.;gpt-6-luna
+36786724;affitto;fc5e61d2155850f19d2ad88c9b135276;affitto_stagionale_turistico;NO;Prenotabile per periodi brevi, con minimo di due mesi e utenze indicate separatamente.;gpt-6-luna
+35778407;affitto;93473cd15bacdb514f1585e739ef87bb;immobile;SI;La descrizione propone in affitto un appartamento intero di 110 mq, coerente con il trilocale indicato.;gpt-6-luna
+36649725;affitto;35dfa7d9568f92fc57d3be3fd6d0e92b;stanza_o_posto_letto;NO;La descrizione propone l’affitto di camere singole, non chiaramente dell’intero appartamento.;gpt-6-luna
+36764127;affitto;872f1c88d1f59fcde3777863cb78e8a8;immobile;SI;"La descrizione propone in affitto un intero quadrilocale di circa 90 mq; non indica stanze separate.";gpt-6-luna
+11524987;affitto;cc96a9de600b8642763e9c36117e61d1;immobile;SI;Descrizione riferita a un appartamento arredato affittato per intero, con cucina, due bagni e due camere.;gpt-6-luna
+36786437;affitto;bb5e449688eac781792e23cbded3c37a;affitto_stagionale_turistico;NO;Disponibile per periodi da 1 a 6 mesi, quindi non è un affitto mensile ordinario a lungo termine.;gpt-6-luna
+34561561;affitto;e21b419d65efd944c30a46dc50971e34;immobile;SI;"La descrizione riguarda l’intero trilocale; non indica esplicitamente affitto turistico o tariffa per brevi periodi.";gpt-6-luna
+33007227;affitto;f0e291bb0d4eefc0b4d152c5e8a73524;immobile;SI;"La descrizione presenta un appartamento di 80 mq affittato come unità abitativa; non indica stanza o uso turistico.";gpt-6-luna
+36970281;affitto;3477fcb65f4725df5ef7888e9c32c02b;immobile;SI;La descrizione presenta un appartamento autonomo di ampia metratura, senza indicazioni di stanze condivise o affitto turistico.;gpt-6-luna
+25103310;affitto;a433b64bc954d0ef656075524fd24ba5;immobile;SI;"Il prezzo riguarda l’intero appartamento arredato di 115 mq; il garage è accessorio e l’affitto è rivolto a ditte e lavoratori.";gpt-6-luna
+32430551;affitto;7b488631d336b2c4de3f1e7e8c86b8e4;immobile;SI;Il prezzo si riferisce a un appartamento arredato di circa 120 mq, presentato come unità abitativa.;gpt-6-luna
+33311128;affitto;eceddea358095deca1fa4c1784f7a10b;immobile;SI;La descrizione propone in locazione una residenza arredata di 100 mq, apparentemente affittata come intera abitazione.;gpt-6-luna
+34649330;affitto;1d842d3260e72503171c0d33ef012494;immobile;SI;La descrizione indica un appartamento signorile di 100 m² offerto in affitto, senza riferimenti a stanze o periodi turistici.;gpt-6-luna
+35960395;affitto;a5922c921a82d4531982c4d65c07303b;immobile;SI;La descrizione propone l’intero appartamento arredato in affitto, adatto a studenti e trasfertisti.;gpt-6-luna
+36785357;affitto;c0c8bb034d095488498aa9fafd77989b;affitto_stagionale_turistico;NO;La prenotazione è disponibile per periodi brevi, con un minimo di un mese.;gpt-6-luna
+27690771;affitto;457cb2c823d1ebc55bf6510ca56162dd;immobile;SI;Descrizione di un appartamento arredato su due livelli, affittato interamente ad uso transitorio.;gpt-6-luna
+36784726;affitto;f6d6d255df2e42cb74274d6959f3d3fe;incerto;NO;Annuncio per specializzandi, ma la descrizione non chiarisce se il prezzo riguarda l’intero appartamento o una stanza.;gpt-6-luna
+37033710;affitto;cba6bda986b5586726fd462d472eba9a;affitto_stagionale_turistico;NO;Disponibile per periodi brevi, con minimo un mese, utenze e pulizie incluse.;gpt-6-luna
+36585487;affitto;b59c446de541e9490eaf1dea7e85614d;immobile;SI;Bilocale intero di 55 mq, affittabile per periodi da 2 a 12 mesi con canone mensile.;gpt-6-luna
+34355812;affitto;8c06ae0bac3393abc5213c2987be2fe1;immobile;SI;Bilocale intero di 55 mq, con canone e permanenza da 2 a 12 mesi.;gpt-6-luna
+36797539;affitto;3d2634e949d4c2b0d984dbaecd35ecc5;affitto_stagionale_turistico;NO;Disponibile per soggiorni da 1 a 4 mesi, quindi non è un affitto ordinario a lungo termine.;gpt-6-luna
+36798414;affitto;048a5f3e3cd64017107d665c4153379c;affitto_stagionale_turistico;NO;Annuncio prenotabile da 1 a 4 mesi, quindi per periodi brevi e non con canone ordinario a lungo termine.;gpt-6-luna
+36797015;affitto;0e77e2b0fe33806669a5daad7f437a43;affitto_stagionale_turistico;NO;Prenotabile per un minimo di un mese e un massimo di quattro, quindi non è un affitto ordinario a lungo termine.;gpt-6-luna
+36797013;affitto;d9806878164de4827423d0b89b2eb911;affitto_stagionale_turistico;NO;Canone per soggiorni brevi: minimo un mese e massimo quattro mesi, tramite Homiday.;gpt-6-luna
+36797012;affitto;afc771d9bc333c9e9315206684a8491b;affitto_stagionale_turistico;NO;Disponibile per periodi da uno a quattro mesi, non come locazione ordinaria a lungo termine.;gpt-6-luna
+36797007;affitto;0a40ea8fe31c0ae7d3ee6ecd1a2a98f2;affitto_stagionale_turistico;NO;Intero appartamento prenotabile da uno a quattro mesi, quindi per un periodo breve.;gpt-6-luna
+29159774;affitto;8d7fb60c8fe0a360769b7e5c3c587d43;affitto_stagionale_turistico;NO;La descrizione propone affitti brevi giornalieri, settimanali e mensili, ideali per soggiorni temporanei.;gpt-6-luna
+36350234;affitto;1bbdbee5cc5fa8df786898f482787d3d;stanza_o_posto_letto;NO;La descrizione offre una camera matrimoniale per una persona in un appartamento condiviso.;gpt-6-luna
+36998515;affitto;a1470ddb120cda6e2d223bff0f6a365d;immobile;SI;Appartamento intero, affittato con contratto transitorio di 12-18 mesi.;gpt-6-luna
+36914533;affitto;92ecf76a2a36b51cf0bc5ae383f5e947;immobile;SI;Descrizione riferita a un appartamento intero di 100 m², disponibile in affitto transitorio per 12-18 mesi.;gpt-6-luna
+36272448;affitto;129d4eed323a4be9b72afcd39c0dad49;immobile;SI;La descrizione indica l’affitto dell’intero appartamento arredato, con soggiorno, camere, servizi e terrazze.;gpt-6-luna
+30781606;affitto;728862eeb3a77f49326d31bdee8b0f6e;immobile;SI;"Descrizione riferita all’intero appartamento arredato, con soggiorno, cucina, tre camere e due bagni; non indica affitto di singole stanze.";gpt-6-luna
+32435558;affitto;0dd1ea0924f1dfe2e77677158581e848;affitto_stagionale_turistico;NO;La descrizione specifica che il bilocale arredato è affittato per brevi periodi.;gpt-6-luna
+36012433;affitto;8fdbf3dc0b6c7403001f5308f512a2cb;immobile;SI;La descrizione propone in locazione un intero appartamento di 150 mq, senza indicazioni di affitto turistico o a periodi.;gpt-6-luna
+36092785;affitto;6a6e5f4bd6b01c2c3e3e518ac3386b94;immobile;SI;Descrizione di un intero appartamento quadrilocale di 125 mq proposto in locazione.;gpt-6-luna
+36810392;affitto;f2f3303bc0b7634c2d6863e8ae4cc7be;immobile;SI;Canone riferito all’intero appartamento arredato di 80 mq, con due camere e spazi esterni.;gpt-6-luna
+36895993;affitto;b228c98fbb5acd661c0e748576475fb8;immobile;SI;Bilocale intero di 75 mq, disponibile per almeno sei mesi con canone e spese indicati.;gpt-6-luna
+28435479;affitto;c463283b674a22cb138cfaf19a5ba447;affitto_stagionale_turistico;NO;La descrizione identifica l’alloggio come casa vacanza, destinata a soggiorni turistici.;gpt-6-luna
+33817061;affitto;7c1d95307e291b7d713917084810db16;affitto_stagionale_turistico;NO;Disponibile solo da novembre a fine marzo, quindi per un periodo stagionale limitato.;gpt-6-luna
+36995188;affitto;a99776e7d65292af90d910d6bf812008;affitto_stagionale_turistico;NO;La prenotazione è per periodi brevi: il minimo indicato è un mese.;gpt-6-luna
+35262514;affitto;b8f6922aac028da5c13dc17713c3c0e0;immobile;SI;La descrizione presenta un appartamento abitativo, apparentemente affittato per intero.;gpt-6-luna
+36240598;affitto;bf76ad55d15542cf97579439ab4453fc;immobile;SI;La descrizione propone in locazione un bilocale ristrutturato, apparentemente come intera abitazione.;gpt-6-luna
+34402712;affitto;0446ebd4c842b06a05a90c2006e0bf63;immobile;SI;La descrizione presenta un bilocale ristrutturato offerto in locazione come intera abitazione.;gpt-6-luna
+21209524;affitto;a4c518c1535a7781182281a4cc3f8e52;immobile;SI;"È descritto l’intero appartamento, affittato a quattro studenti; non sono indicati prezzi per singola stanza.";gpt-6-luna
+36797006;affitto;6547cd9ff5b12356680e784e83b8b828;affitto_stagionale_turistico;NO;Disponibile per periodi da 1 a 4 mesi, quindi non è un normale affitto a lungo termine.;gpt-6-luna
+31544255;affitto;bf26144a22f5ad13380840ec3ff126cd;affitto_stagionale_turistico;NO;La descrizione propone soggiorni brevi giornalieri, settimanali o mensili, non un affitto ordinario a lungo termine.;gpt-6-luna
+36903851;affitto;9154140fd1337be859f6116737145a5f;immobile;SI;"Si affitta l’intero appartamento arredato? con soggiorno, tre camere e servizi; non sono indicate stanze separate.";gpt-6-luna
+36159224;affitto;28cceb8c33e74bb9356246b83e993553;immobile;SI;La descrizione propone in locazione un appartamento arredato di 117 mq, al quinto piano.;gpt-6-luna
+27429143;affitto;9d3a02ad61ad49823b0cbb666f8e8500;affitto_stagionale_turistico;NO;La descrizione propone una casa vacanza per soggiorni brevi, vacanze, trasferte o weekend.;gpt-6-luna
+36926604;affitto;9d2efb608e3734bb63ccf728874a6833;immobile;SI;La descrizione presenta un appartamento intero di 100 mq, adatto a un piccolo gruppo di studenti.;gpt-6-luna
+36786464;affitto;914342906833c325d313de2b243e7b38;affitto_stagionale_turistico;NO;La durata prenotabile è limitata da uno a quattro mesi, quindi si tratta di un affitto breve.;gpt-6-luna
+36786777;affitto;e310c95f7303a7b077fe701957eb6973;affitto_stagionale_turistico;NO;La durata prenotabile è limitata da uno a quattro mesi, quindi non è un affitto ordinario a lungo termine.;gpt-6-luna
+36165531;affitto;8696950ab8f85f760bd73a2f221678f6;affitto_stagionale_turistico;NO;Il prezzo è riferito alla bassa stagione, da ottobre a marzo, per una suite turistica.;gpt-6-luna
+19946926;affitto;248bfc0f1e6c230046f90bc0cde3f2d4;affitto_stagionale_turistico;NO;La descrizione indica esplicitamente un affitto transitorio/turistico, non un canone ordinario a lungo termine.;gpt-6-luna
+35347080;affitto;c0d674c3e3ee3ac3b94ac9ade14a373d;immobile;SI;Descrizione di un appartamento arredato di 110 mq, affittato come intera unità abitativa.;gpt-6-luna
+33409661;affitto;856d646e22e179ad07571db67d7f170f;immobile;SI;La descrizione presenta un attico abitativo di 240 mq in affitto, apparentemente locato per intero.;gpt-6-luna
+36748231;affitto;b7208df4a5e4be8602acf93dc609426f;immobile;SI;"Descrive un appartamento intero di 136 mq, affittato con contratto 4+4; non indica stanze a canone separato.";gpt-6-luna
+35443119;affitto;21828473c388bffd0b396244869f3a58;immobile;SI;La descrizione presenta un attico abitativo intero di 150 mq, non una stanza o un affitto turistico.;gpt-6-luna
+34844965;affitto;16b7dac6a7e56c62dbd38efbb04e144d;immobile;SI;È presentato come bilocale di 65 mq destinato a ditte, senza indicazioni di affitto per stanza o uso turistico.;gpt-6-luna
+32090965;affitto;5694f46f9bff3099bdc40dfe7ac2a13d;immobile;SI;La descrizione presenta un appartamento intero di 80 mq, senza indicazioni di affitto turistico o per periodi brevi.;gpt-6-luna
+36723752;affitto;0dd1aedba5b2d88466bfd570d5092aa0;affitto_stagionale_turistico;NO;L’annuncio specifica affitto per brevi periodi, dal 1 novembre al 28 febbraio, sebbene il canone sia mensile.;gpt-6-luna
+32718072;affitto;e0606747f14c403bc0d4b43eea2df74a;incerto;NO;Descrive un intero appartamento, ma non chiarisce durata e modalità dell’affitto.;gpt-6-luna
+36914031;affitto;a16fa7725c15175d38c9ccbb6a540633;immobile;SI;"La descrizione presenta un appartamento arredato e ristrutturato di 130 m²; non indica una locazione per stanza.";gpt-6-luna
+36968726;affitto;a348e6995babc13de58ed6bdf8884451;immobile;SI;La descrizione presenta un appartamento arredato di 130 m², senza indicare affitto per stanza o periodi turistici.;gpt-6-luna
+34043783;affitto;47f5d974f9df3c5b7ece7f170262c46d;affitto_stagionale_turistico;NO;Disponibilità per periodi brevi e date specifiche, non per un normale canone mensile a lungo termine.;gpt-6-luna
+36827506;affitto;1a7a0245d42bd9d505c1de12c5272319;immobile;SI;La descrizione propone in locazione l’intero quadrilocale, pronto da vivere.;gpt-6-luna
+37033372;affitto;fdaa9fdb6bbffe4f431052aee1d07a68;affitto_stagionale_turistico;NO;La descrizione indica soggiorni prenotabili da uno a quattro mesi, quindi non un normale affitto a lungo termine.;gpt-6-luna
+34830261;affitto;043761fcb84907cdcef9587f41423454;immobile;SI;La descrizione riguarda un appartamento intero di 120 mq in affitto, senza indicazioni di locazione turistica o per periodi brevi.;gpt-6-luna
+36795271;affitto;1d7c43957d45fbb5e4456644eec2ccac;immobile;SI;"Il prezzo riguarda l’intero appartamento, affittato mensilmente; le pulizie settimanali sono un servizio incluso.";gpt-6-luna
+36760232;affitto;c048f1e3f0c8a1ceaeaa83622703a577;immobile;SI;Appartamento arredato affittato per intero con locazione transitoria ad aziende.;gpt-6-luna
+33323598;affitto;715e8160831415b32254743adbe69ea1;immobile;SI;La descrizione riguarda un appartamento intero, composto da camere, bagni, soggiorno, cucina e terrazzo.;gpt-6-luna
+33713270;affitto;d35717c8afa9669a31a29e504ba75fba;immobile;SI;La descrizione indica un appartamento intero di 200 m² in locazione, con quattro camere da letto.;gpt-6-luna
+26581130;affitto;c266caa720b0db5f93a7766e1cdb5809;immobile;SI;Descrizione di un appartamento intero arredato, affittato ad uso transitorio.;gpt-6-luna
+32824296;affitto;d2422250f38ce7635587cd24c517b417;immobile;SI;"La descrizione presenta un appartamento di 200 mq su due piani; non specifica che il prezzo riguardi una singola stanza.";gpt-6-luna
+34997768;affitto;e6722466ae7b2dd276556b25378f0e54;immobile;SI;La descrizione indica la locazione dell’intero appartamento storico, senza riferimenti a stanze o affitto turistico.;gpt-6-luna
+36800368;affitto;4ba3f3e4338190d1d1c0b089397bac20;affitto_stagionale_turistico;NO;Disponibile per periodi brevi, da 1 a 4 mesi, con utenze indicate separatamente.;gpt-6-luna
+36787832;affitto;8fbe60730905e39beb2e8c73211ca593;affitto_stagionale_turistico;NO;Disponibile per periodi brevi: prenotazione minima di un mese e massima di quattro.;gpt-6-luna
+36998830;affitto;39b520153f50b29bb6d3425dd64be791;immobile;SI;"Monolocale arredato di 40 mq proposto in affitto; il prezzo riguarda l’intera abitazione.";gpt-6-luna
+30129256;affitto;e2f240f3bf138a803f7c2bd3f557deb2;affitto_stagionale_turistico;NO;La durata minima è di 10 giorni, quindi si tratta di un affitto breve e non di un canone mensile ordinario.;gpt-6-luna
+27214736;affitto;05a68fc282ca7fb859e0115ae14c7a35;immobile;SI;"Titolo e dati indicano un monolocale di 50 mq; non emergono riferimenti a stanza, uso turistico o altro oggetto.";gpt-6-luna
+25784925;affitto;76e0dc469f27615ac8a906dc8f871ea3;stanza_o_posto_letto;NO;L’annuncio offre due camere libere in un appartamento arredato condiviso, non l’intera abitazione.;gpt-6-luna
+35810811;affitto;626a221a2e90aed9df06aaf67631300a;immobile;SI;"Monolocale arredato con bagno affittato interamente a 480 euro mensili; la cantina è accessoria.";gpt-6-luna
+33695628;affitto;41e7118910741b8114816a8bb4038339;immobile;SI;La descrizione propone in affitto un monolocale arredato e ristrutturato, non una stanza o un affitto turistico.;gpt-6-luna
+36371854;affitto;6e1f8430ae4491e27029feb5a38a5a4a;immobile;SI;"Monolocale arredato descritto come intera abitazione; il prezzo riguarda l’affitto dell’unità.";gpt-6-luna
+36987369;affitto;54462ba95c0f1f8e25e4bdabedc0da4c;immobile;SI;Descrizione riferita a un appartamento arredato in affitto, con soggiorno, cucina, camera e balcone.;gpt-6-luna
+34956046;affitto;65d9e209db71ea777e22305196493f6c;immobile;SI;"La descrizione propone in affitto un appartamento arredato; non indica stanze o posti letto separati.";gpt-6-luna
+32729454;affitto;a8478d769c78fa9c431a4ab508a92676;immobile;SI;"Il canone riguarda il monolocale arredato, affittato per intero; garage e spese condominiali sono inclusi.";gpt-6-luna
+36997619;affitto;d96ece5f03e6cb8a2213eac211f55ed9;immobile;SI;Il prezzo riguarda l’intero trilocale abitativo di 75 mq, descritto con soggiorno, cucina e due camere.;gpt-6-luna
+29650737;affitto;d5cd580efeac714bbe8ffb23fe16f2b5;immobile;SI;"Descrive un appartamentino arredato affittato per intero; non emergono riferimenti a stanza o affitto turistico.";gpt-6-luna
+36927755;affitto;5ae6b6cafb55ac95ba81b32f45df2cd9;immobile;SI;La descrizione indica un trilocale arredato di 77 mq offerto in affitto come abitazione.;gpt-6-luna
+36857001;affitto;1747c4946b2e73f29d258b5af20f5e39;immobile;SI;La descrizione propone un appartamento arredato con ingresso, soggiorno e cucina separata, apparentemente affittato per intero.;gpt-6-luna
+36933631;affitto;66145acbefbc4e0d15cbebfdcd056527;immobile;SI;Il prezzo riguarda l’intero appartamento arredato di 70 mq, con due camere, balcone e pertinenze.;gpt-6-luna
+36753512;affitto;88f39d51b24a7ecf0b480152bef14736;immobile;SI;Bilocale ristrutturato descritto come intera abitazione in affitto, con soggiorno, camera e bagno.;gpt-6-luna
+36387560;affitto;08aeec5e5f35bf8f09d58b2fa41e90e8;incerto;NO;Il titolo indica un bilocale, ma la descrizione parla di due monolocali e non chiarisce a quale unità si riferisca il prezzo.;gpt-6-luna
+36438271;affitto;53bdc8a551514de33c4bfb23b0ea3999;immobile;SI;La descrizione propone in affitto una villetta indipendente su due livelli, quindi un’intera abitazione.;gpt-6-luna
+22890561;affitto;9d8dbc1bae1cee61df4ee66268aebb32;immobile;SI;"La descrizione indica l’affitto dell’intero appartamento arredato; il posto auto è solo una dotazione inclusa.";gpt-6-luna
+36422787;affitto;f4793b4f43a149b3d46bd8010a89406c;immobile;SI;La descrizione riguarda un appartamento arredato e ristrutturato, affittato come intera abitazione.;gpt-6-luna
+36816366;affitto;bc5ffeb7a8b1969ec33dfd60c37f1fbe;immobile;SI;Descrizione riferita all’intero appartamento, affittato a studenti o lavoratori fuori sede.;gpt-6-luna
+37037240;affitto;5995d78ddd19c2c74b60985a805ffe9b;immobile;SI;Descrizione riferita a un appartamento intero, ristrutturato e arredato, senza indicazioni di affitto turistico o a stanze.;gpt-6-luna
+36758993;affitto;a19ade5f0fc7baf73afe285513d1eee4;immobile;SI;"La descrizione propone in affitto l’intero appartamento per studenti; non indica camere o posti letto separati.";gpt-6-luna
+32830096;affitto;a715bafc964aea079388ebfd656b1e48;immobile;SI;"Si affitta l’intero appartamento arredato; garage e soffitta sono pertinenze incluse.";gpt-6-luna
+34511586;affitto;0a864fa1bd06446eb8c55b3199061e27;immobile;SI;La descrizione presenta l’intero appartamento in affitto, senza indicare una locazione per singole stanze.;gpt-6-luna
+36611698;affitto;f6a4d783c0990f27eba8c28599d4f66d;immobile;SI;"La descrizione presenta un appartamento trilocale di 90 m²; il prezzo si riferisce all’intera abitazione.";gpt-6-luna
+34778396;affitto;6938ccce05a4c76ee1d17b791d7d64c8;immobile;SI;Descrizione di un appartamento arredato al secondo piano, apparentemente affittato come intera abitazione.;gpt-6-luna
+36171542;affitto;b961322f25709e20705f74a4cbb791e1;immobile;SI;La descrizione indica l’affitto dell’intero appartamento arredato, ristrutturato e adatto all’uso abitativo.;gpt-6-luna
+36744211;affitto;efd5460bee78683181c988f4bb707a65;immobile;SI;"È in affitto l’intero appartamento arredato; il garage doppio è una pertinenza inclusa.";gpt-6-luna
+34256291;affitto;25579ca8e6c6c7d4a66f5f0e2abddf6f;immobile;SI;"Descrizione di un bilocale arredato completo; il posto auto è accessorio all’abitazione.";gpt-6-luna
+32714812;affitto;5f39fb457f17674b58ad915a13391a76;immobile;SI;Bilocale arredato affittato per intero, con comfort per una permanenza stabile.;gpt-6-luna
+33581301;affitto;9e028777e48e6c5c669829f922749909;immobile;SI;"La descrizione propone in affitto l’intero appartamento di 150 mq; non indica stanza o locazione turistica.";gpt-6-luna
+22609756;affitto;355a677786f10685e7ce5826deda9181;immobile;SI;La descrizione indica un appartamento arredato intero, con soggiorno, due camere e due bagni.;gpt-6-luna
+36650979;affitto;7c90915905feb150bf070a36b41d7552;stanza_o_posto_letto;NO;La descrizione propone una stanza matrimoniale in un appartamento condiviso, non l’intero trilocale.;gpt-6-luna
+36989785;affitto;16c525af755a5bb731a7104f4f9adb1b;immobile;SI;La descrizione propone in affitto un monolocale intero, accogliente e funzionale, adatto a uso abitativo.;gpt-6-luna
+31904832;affitto;a5e71e1b7a5395e688cf426cda4ae871;immobile;SI;"La descrizione propone un monolocale autonomo di 15 mq, disponibile subito; non indica affitto turistico o condivisione.";gpt-6-luna
+32997821;affitto;1251a603fad2e6cf085f0ee73eba50e7;immobile;SI;"Bilocale intero di 44 mq proposto con contratto transitorio; non è indicato un affitto turistico a periodi.";gpt-6-luna
+36942491;affitto;57080257b2bd7830e83463d58e35982d;immobile;SI;La descrizione propone in affitto l’intero trilocale di 60 mq, senza indicare stanze separate o affitto a posto letto.;gpt-6-luna
+33615072;affitto;e1c0c8b1a8cf41d0a422b23186e95b43;immobile;SI;La descrizione presenta un appartamento intero in affitto, destinato a una sola studentessa o lavoratrice.;gpt-6-luna
+30226374;affitto;bc379a552d9143437725098d52307d93;immobile;SI;Monolocale arredato di 35 m² offerto in affitto come intera abitazione.;gpt-6-luna
+36987454;affitto;8e186a9d6fea1f8d60f01f416d9ebc3b;immobile;SI;La descrizione propone in affitto un bilocale arredato come intera abitazione.;gpt-6-luna
+37027345;affitto;90289db843c481e1e4ac688285e063f9;immobile;SI;La descrizione propone in affitto un trilocale, quindi il prezzo riguarda l’intera abitazione.;gpt-6-luna
+30401106;affitto;c0cad21943bf834765701f41901c11ef;immobile;SI;"Il prezzo riguarda l’intero bilocale arredato; sono indicati caparra e consumi mensili.";gpt-6-luna
+37029633;affitto;b5e12227ec446bf99001b2bd5f70b1b2;immobile;SI;La descrizione indica l’affitto dell’intero trilocale arredato di 95 mq, con canone di 700 euro.;gpt-6-luna
+36914599;affitto;1de493f25ca76cc061a2d83e2484d224;immobile;SI;La descrizione propone in affitto l’intero appartamento arredato di circa 70 mq, adatto a due studenti o lavoratori.;gpt-6-luna
+37016061;affitto;b2cd632be7672470082978d0663b37a2;immobile;SI;"Bilocale arredato in affitto, descritto come appartamento intero; nessun riferimento a stanza o locazione turistica.";gpt-6-luna
+36798637;affitto;beb13a910f824074cef1406877d3336a;immobile;SI;"La descrizione propone in affitto l’intero bilocale arredato, di 46 mq; non indica uso turistico o affitto di una stanza.";gpt-6-luna
+36844744;affitto;6f21499c24eb940da22c720b2770a2a7;immobile;SI;La descrizione propone in affitto un trilocale di 60 mq, adatto a due studenti o a una coppia.;gpt-6-luna
+36815412;affitto;31a0d8df0d038aa9da1de503ac7cd1a8;immobile;SI;"La descrizione propone un appartamento arredato di 70 m² in affitto; non indica stanze o posti letto separati.";gpt-6-luna
+35948564;affitto;5264a4b45163070db299d885f6d777ef;immobile;SI;"Annuncio riferito a un trilocale di 62 mq; non emergono indicazioni di stanze singole o affitto turistico.";gpt-6-luna
+36891236;affitto;d2c394b938d6423cfb9f18ed19e0f473;immobile;SI;"Descrizione di un bilocale arredato affittato come abitazione; terrazzo, cantina e posto auto sono pertinenze.";gpt-6-luna
+36846423;affitto;bb03cbad9188d3e7329f30ea78a108d5;immobile;SI;La descrizione propone in locazione un appartamento arredato di 100 mq con soggiorno, cucina e due camere.;gpt-6-luna
+36923934;affitto;661fe6429884a4a716c2eb3d72875b89;immobile;SI;La descrizione propone in affitto un appartamento di 85 m² con tre camere, apparentemente come intera abitazione.;gpt-6-luna
+36803815;affitto;e3316f6b1f8143b5863575e2d0f9dfc5;immobile;SI;"Si affitta il trilocale ristrutturato e arredato come intera abitazione; non è indicata la locazione di singole stanze.";gpt-6-luna
+36811272;affitto;e43802884d419288f1ee4b6d474b7e0e;immobile;SI;Si affitta l’intero appartamento arredato, composto da soggiorno, cucina e due camere.;gpt-6-luna
+36992222;affitto;b53c1513bf2bfc4c7dfa040441a9905c;immobile;SI;"La descrizione propone in locazione l’intero appartamento, destinato a tre studentesse; non indica stanze affittate separatamente.";gpt-6-luna
+26981080;affitto;ca3037b00c13603f999f2a0907e500a5;affitto_stagionale_turistico;NO;La descrizione specifica soggiorni brevi, al massimo di due o tre mesi, e tre posti letto.;gpt-6-luna
+26917845;affitto;cc8f7208f37941d6ece2e6e9e54b9a84;affitto_stagionale_turistico;NO;L’appartamento è offerto esplicitamente solo per brevi periodi, non con un canone ordinario a lungo termine.;gpt-6-luna
+23448963;affitto;e74a058b82d3eb8c8617d360287dab00;immobile;SI;La descrizione riguarda un appartamento trilocale arredato di 95 mq, affittato come intera abitazione.;gpt-6-luna
+36954068;affitto;175352d5230f24735362f28affb69fde;immobile;SI;"La descrizione propone in affitto l’intero bilocale di 52 mq; l’idoneità per una persona non indica una stanza.";gpt-6-luna
+36769880;affitto;7fcc2df524e1f42f03fb75c640ed6d52;immobile;SI;La descrizione propone in locazione l’intero bilocale, composto da soggiorno, cucina e camera da letto.;gpt-6-luna
+36830372;affitto;63411a61b10fec27a2d87c80ff7ced9a;immobile;SI;La descrizione presenta un appartamento ristrutturato di 100 m² in affitto, senza indicare stanze o posti letto separati.;gpt-6-luna
+35778732;affitto;b1e3dc102c64cffa5ffc7a125879981a;immobile;SI;La descrizione presenta un intero appartamento trilocale di 100 mq in affitto.;gpt-6-luna
+34451836;vendita;965ffddef79dc700b443501ac2cd3a07;immobile;SI;Il prezzo si riferisce all’intero appartamento di 89 m², con cucina, due camere e bagno.;gpt-6-luna
+36830741;vendita;1b82f66d46c3e87fa72efbda78254b3b;immobile;SI;Il prezzo riguarda un appartamento di 89 mq con cucina, due camere e bagno, venduto all’asta.;gpt-6-luna
+35082650;vendita;5e9aa85b4f284ba1b151a79655c671b0;immobile;SI;Il prezzo riguarda l’intero monolocale abitativo, con angolo cottura, zona giorno e bagno.;gpt-6-luna
+36087136;vendita;6bb14229995d602455cc9b5643d8ae44;nuda_proprieta_o_quota;NO;La descrizione specifica che viene venduta la nuda proprietà del bilocale.;gpt-6-luna
+35578856;vendita;a0b5382ff50f603ea638a97b364e6092;altro;NO;"La descrizione specifica un negozio ristrutturato, non un’abitazione; il cambio d’uso è solo in verifica.";gpt-6-luna
+36114746;vendita;6d4eb372cb875ed67fbb62bf2d5acaa7;immobile;SI;Il prezzo riguarda un bilocale abitativo di 50 mq, descritto come unità completa in vendita.;gpt-6-luna
+35694749;vendita;2a848af96cb449ba0a8bfa32b7669455;immobile;SI;Il prezzo riguarda un mini appartamento intero, attualmente locato a reddito.;gpt-6-luna
+32402036;vendita;5c2f82b10afedc542956916d9b3716cf;immobile;SI;Descrizione di un monolocale ristrutturato venduto come intera unità abitativa, con cantina.;gpt-6-luna
+35749628;vendita;8d13f4e38802bf33957bea5fb9f683a5;immobile;SI;Il prezzo riguarda un intero appartamento ristrutturato, composto da due camere, cucinino e bagno.;gpt-6-luna
+35897912;vendita;c76d1ed9f547281248c7ac4edcab5ca9;altro;NO;La descrizione specifica che l’immobile è accatastato come ufficio, non come abitazione.;gpt-6-luna
+35299660;vendita;875db37308ce7dac793abf652be453b7;immobile;SI;La descrizione propone in vendita un bilocale completo di soggiorno, cucina, camera e bagno.;gpt-6-luna
+26893496;vendita;42af87c3663dbe14fe45cff463a9c54a;immobile;SI;La descrizione riguarda un monolocale abitativo completo, venduto come intera unità.;gpt-6-luna
+36432162;vendita;3afe0a3b2448e7fd45f692f89e46ce42;immobile;SI;La descrizione propone in vendita un bilocale al primo piano, apparentemente un’intera abitazione.;gpt-6-luna
+36814293;vendita;1994c58cb98a04c3282362a4af696efc;immobile;SI;Titolo e descrizione indicano un bilocale abitativo di 77 mq, senza segnali di vendita parziale o di altro oggetto.;gpt-6-luna
+36004738;vendita;08e0317521a78c0b004247d64fcc8ccd;immobile;SI;"È descritto un monolocale di 23 mq venduto come unità immobiliare, attualmente locata; non emergono quote o usi limitati.";gpt-6-luna
+36727089;vendita;3f7b9bca0c4b3a899fc719142851b1c1;immobile;SI;Il prezzo riguarda un appartamento intero all’asta, descritto con superficie e caratteristiche proprie.;gpt-6-luna
+37035549;vendita;5fa5d073cf951cac82bd2f37201a903d;immobile;SI;La descrizione propone in vendita un monolocale con soppalco, utilizzabile come abitazione.;gpt-6-luna
+36080897;vendita;897e405d6b2c7c3ff153f4abd63255c7;immobile;SI;La descrizione propone in vendita l’intero monolocale ristrutturato, con zona giorno/notte e cucina.;gpt-6-luna
+36244592;vendita;9d7f9b37f910064ab63e4c70e4bceb2a;immobile;SI;Il prezzo si riferisce a un appartamento bilocale in vendita, di 50 mq, al piano terra.;gpt-6-luna
+37049020;vendita;03dfa315877fa4ed5ac7e199b47905b3;immobile;SI;La descrizione propone un appartamento di 40 mq con zona giorno, camera, bagno e terrazzo.;gpt-6-luna
+37051962;vendita;23bdc0f7348ccc04af63b91ca506e7b7;immobile;SI;Il prezzo riguarda un bilocale di 52 mq, interamente ristrutturato e descritto come abitazione.;gpt-6-luna
+35831309;vendita;6e0a22de159e4c0679e7fec8c2d6ed0e;immobile;SI;Vendita di un bilocale abitabile descritto con ambienti interni e ingresso indipendente.;gpt-6-luna
+35173193;vendita;5bb182d38502d1a1680bc68ee3c1a8d7;immobile;SI;Titolo e descrizione indicano un bilocale di 53 mq in vendita, senza elementi che suggeriscano una quota o un oggetto diverso.;gpt-6-luna
+31959689;vendita;f9406ac36baab8838e05e9bbcdbf29ae;immobile;SI;"Il prezzo riguarda un bilocale intero, venduto arredato; l’attuale locazione non ne cambia la natura abitativa.";gpt-6-luna
+36209985;vendita;32c1153062a2306e802f922c3b70ca24;immobile;SI;Prezzo riferito alla vendita dell’intero appartamento, con soggiorno, cucina, camera, bagno e pertinenze.;gpt-6-luna
+36298971;vendita;e354c1389a8e574191f7a788202184f6;nuda_proprieta_o_quota;NO;La descrizione specifica che il prezzo riguarda l’acquisto della nuda proprietà del quadrilocale.;gpt-6-luna
+33645035;vendita;771a9af29e56cda673423feb1a86c606;immobile;SI;Il prezzo riguarda l’intero bilocale, attualmente locato a un inquilino.;gpt-6-luna
+36914198;vendita;5b26a2120fc5c362c3fde175a478e113;immobile;SI;La mansarda è descritta come un’intera abitazione al secondo e ultimo piano, con 125 mq e tre locali.;gpt-6-luna
+31764940;vendita;706697bf7dab3b45cfa13f7fbe86d849;immobile;SI;"Il prezzo riguarda l’intero bilocale, attualmente occupato da un inquilino; box e cantina sono accessori.";gpt-6-luna
+32525492;vendita;ac869c7b9c8b5780f3a3caab1eb6f80c;immobile;SI;Il prezzo riguarda un appartamento mansardato descritto come abitazione completa, con salone, cucina, camera e bagno.;gpt-6-luna
+36829246;vendita;8991ecf70356f022dee1740356979d5a;altro;NO;È catastalmente ad uso ufficio, non un’abitazione, anche se organizzato come loft.;gpt-6-luna
+34718235;vendita;a9211d59e3daf0ad7f8988cf5945e77e;immobile;SI;Il prezzo riguarda un bilocale di 43 mq, ristrutturato e proposto come soluzione abitativa.;gpt-6-luna
+37036379;vendita;ac5bd3031241727a3098d3f85489faf2;immobile;SI;"Il prezzo si riferisce al bilocale intero, venduto arredato; il reddito garantito indica che è attualmente a reddito.";gpt-6-luna
+36072183;vendita;084ed70cdf01dd8a607c40b9cb052456;immobile;SI;Il prezzo si riferisce a un appartamento di 58 mq, descritto come intera unità all’ultimo piano.;gpt-6-luna
+36756804;vendita;329304254b147310436c5863f77bb182;immobile;SI;Il prezzo riguarda un monolocale abitativo di 40 mq, con bagno e cantina.;gpt-6-luna
+35237001;vendita;090136b724fd013c4c378e2801f5c67f;immobile;SI;"La descrizione presenta un bilocale abitativo completo; il prezzo si riferisce all’appartamento.";gpt-6-luna
+35432069;vendita;a1a0a132e8d8a72f031bb9fff36167ba;immobile;SI;Bilocale di 55 mq descritto come abitazione completa, con soggiorno, camera e bagno.;gpt-6-luna
+37056069;vendita;9d65d53dc982ed85f03d51e6b7299f42;immobile;SI;Il prezzo si riferisce a un appartamento bilocale di circa 50 mq, descritto come abitabile subito.;gpt-6-luna
+36289262;vendita;ec2225cd85cf6680bcfda2911d4e77e2;immobile;SI;Monolocale pronto da abitare, venduto come intera abitazione e adatto come prima casa.;gpt-6-luna
+36331685;vendita;ee6215e091ff35617df1957456560799;immobile;SI;Il prezzo riguarda la vendita dell’intero bilocale abitativo di 45 mq, al quarto piano con terrazzi.;gpt-6-luna
+36725953;vendita;1b465995575173e3f4c047341f7aae28;immobile;SI;Descrizione di una mansarda abitativa recentemente recuperata, proposta come intera unità.;gpt-6-luna
+35542896;vendita;0503749c893f47e2b68ba95bdc88576e;immobile;SI;"La descrizione propone in vendita un bilocale al quinto piano; il prezzo si riferisce all’abitazione.";gpt-6-luna
+29705689;vendita;1199d4d233de20899c610e04554b7e88;immobile;SI;La descrizione indica la vendita di un bilocale arredato con soggiorno e angolo cottura.;gpt-6-luna
+30111423;vendita;f896eda91b080363500ca360a29d1b57;immobile;SI;La descrizione indica la vendita di un bilocale arredato di 60 mq, posto al primo piano.;gpt-6-luna
+35909391;vendita;c3a20b2fc78e3ae25710f39ca3344fde;immobile;SI;Il prezzo riguarda un appartamento arredato di 60 mq, venduto per intero anche se già locato.;gpt-6-luna
+36000999;vendita;dc0ce33e16c925dc3d9cbb15dc194df7;immobile;SI;Prezzo riferito a un trilocale ristrutturato, descritto come appartamento abitativo.;gpt-6-luna
+36328534;vendita;b0c75275ae96401b5bfb1334e43831ab;immobile;SI;Descrizione riferita a un appartamento bilocale di 51 mq, proposto come intera abitazione.;gpt-6-luna
+36331543;vendita;5fb5a84f42fc3c09a9954925584a38c9;immobile;SI;Il prezzo riguarda l’intero bilocale abitativo, descritto con soggiorno, camera, bagno e terrazzo.;gpt-6-luna
+32016531;vendita;f68dce01b325e5323995ec91d095e683;immobile;SI;La descrizione propone in vendita l’intero appartamento bilocale, già abitabile, con soggiorno, camera, bagno e balcone.;gpt-6-luna
+36317827;vendita;55b987496614beb206b661e095793b54;immobile;SI;"La descrizione indica la vendita di un appartamento ristrutturato e arredato; il prezzo si riferisce all’intera abitazione.";gpt-6-luna
+32145083;vendita;a7017940139515baf29f986a549d8ffe;immobile;SI;Il prezzo riguarda un bilocale arredato completo, con soggiorno, camera e bagno, venduto come abitazione.;gpt-6-luna
+36066128;vendita;03ee3b20d8f588260578f2313f1a2c6d;immobile;SI;Il prezzo riguarda un bilocale di 53 mq, descritto come abitazione completa in vendita.;gpt-6-luna
+35758663;vendita;d5abf34da2b5325d6ac5fdc4f3b6652c;immobile;SI;La descrizione propone in vendita un bilocale abitativo, con zona giorno e camera da letto.;gpt-6-luna
+35858968;vendita;a9274b3dd02f3da775bc792aa05d4164;immobile;SI;La descrizione propone esplicitamente in vendita un appartamento al piano terra, composto da tre locali.;gpt-6-luna
+36748572;vendita;62d7052117dd11b152b8362a032fdefa;immobile;SI;Il prezzo riguarda un bilocale arredato descritto come abitazione completa, con soggiorno, camera, bagno e cantina.;gpt-6-luna
+35433576;vendita;a1c39ba035a351a3994363974d2f8839;immobile;SI;Il prezzo riguarda un appartamento in vendita, descritto come abitazione con soggiorno, camera, bagno e balcone.;gpt-6-luna
+36367759;vendita;4fce43c3b5cf579ca10fe166db37e6c7;immobile;SI;Il prezzo riguarda l’intero appartamento open space di 55 mq, in ottime condizioni e dotato di bagno.;gpt-6-luna
+29534708;vendita;2fc5d597dbd61febbc0f08224af0a10f;immobile;SI;Il prezzo riguarda l’intero appartamento di 75 mq, arredato e composto da soggiorno, cucina, camera e servizi.;gpt-6-luna
+30858249;vendita;774becb75d5d06df13d0ca79e8bc5c82;immobile;SI;La descrizione indica la vendita di un bilocale di 58 mq al quinto piano.;gpt-6-luna
+28680291;vendita;a363ccbb56424c11c9a1968103f27861;immobile;SI;È descritto come un bilocale venduto per intero, attualmente affittato.;gpt-6-luna
+36846094;vendita;3159afdbe1b5ce2f9f5c7ddf22c16ba2;immobile;SI;La descrizione propone in vendita un bilocale al piano terra, arredato e di 50 mq.;gpt-6-luna
+36417209;vendita;7284997a15023f2ebcb1605afd3da859;immobile;SI;Prezzo riferito a un bilocale di 55 mq descritto come appartamento, venduto come intera unità abitativa.;gpt-6-luna
+36262572;vendita;f261ec537a9c6dcf2563a2635c0b5533;immobile;SI;Il prezzo si riferisce a un bilocale abitativo, descritto con dotazioni e impianti dell’appartamento.;gpt-6-luna
+36143132;vendita;33a02c72d04e66937532db873ef764a7;immobile;SI;Monolocale abitabile proposto in vendita come intera unità residenziale.;gpt-6-luna
+35243943;vendita;ca9849fc149e1ff54aa2913c03bbe9c0;immobile;SI;"La descrizione propone in vendita l’intero bilocale come abitazione; il box è un elemento accessorio.";gpt-6-luna
+36389628;vendita;e170b7fe5b8fa3619fb6923a2b643e6b;immobile;SI;"Il prezzo riguarda un mini appartamento intero, già locato; l’occupazione non ne modifica la natura abitativa.";gpt-6-luna
+36746877;vendita;c6c75acbf508a775139e732748d7c7c3;immobile;SI;Il prezzo riguarda un monolocale abitativo venduto per intero, con cantina pertinenziale.;gpt-6-luna
+36746861;vendita;ceadbb0e7302901bcc866ef178d355b2;immobile;SI;"Il prezzo riguarda un monolocale abitativo venduto per intero; la cantina è pertinenziale e l’immobile è attualmente locato.";gpt-6-luna
+36311377;vendita;8885d48ef253c7ca366ead393ea48cd1;immobile;SI;Il prezzo riguarda la vendita dell’intero monolocale abitativo, con cantina pertinenziale.;gpt-6-luna
+36306073;vendita;e79e0ea03f309f3a18efdd8aac71c80d;immobile;SI;Vendita dell’intero monolocale abitativo, attualmente locato, con cantina.;gpt-6-luna
+33643208;vendita;b66a04519a8caf7f6c641e0562125de9;immobile;SI;"Annuncio riferito alla vendita dell’intero loft ristrutturato, presentato come appartamento; non emergono indicazioni di vendita a uso commerciale.";gpt-6-luna
+34675651;vendita;e54ecae19e7d268151dc65791778b16c;immobile;SI;La descrizione riguarda una villetta con appartamento, garage e resedi esclusivi, venduta come intera abitazione.;gpt-6-luna
+35119298;vendita;a8863245a82c85b00171b39fe2abb251;immobile;SI;Monolocale descritto come abitazione autonoma, libero subito e adatto a single o coppia.;gpt-6-luna
+33500001;vendita;7b71c7f7d8ce21d32dd78fbf425a1f55;immobile;SI;Il prezzo riguarda l’intero bilocale di 65 mq, anche se attualmente affittato.;gpt-6-luna
+36986541;vendita;d0aa80996921be2ae4a5467c480be6c9;immobile;SI;La descrizione propone in vendita un bilocale ristrutturato e arredato di circa 50 mq.;gpt-6-luna
+36114961;vendita;362aa273f6db08ee47a1d9326c487955;immobile;SI;Il prezzo riguarda un monolocale di 30 mq descritto come intera abitazione, con bagno, cucinotto e balcone.;gpt-6-luna
+36688589;vendita;caf817b0d438fdeb1fb89e4ff226fc92;immobile;SI;La descrizione propone in vendita l’intero monolocale abitativo di circa 33 mq.;gpt-6-luna
+36746808;vendita;5d87c430e64a49eb75bb33888f7853de;immobile;SI;"Il prezzo riguarda un monolocale intero, con portico e corte esclusiva; è attualmente locato.";gpt-6-luna
+37036227;vendita;78a766f1c3c37d82e5974361ca7653cf;immobile;SI;Il prezzo si riferisce a un trilocale abitativo di 65 mq, con due camere, soggiorno e cucina.;gpt-6-luna
+36857588;vendita;768aa172080f0831f435e1b955cf6eed;immobile;SI;Il prezzo riguarda un appartamento di 74 mq su due livelli, pronto per essere abitato.;gpt-6-luna
+36210605;vendita;de3fd3d9f9daec40d05475364d439d46;immobile;SI;La vendita riguarda un bilocale abitativo con autorimessa, proposto come investimento o prima abitazione.;gpt-6-luna
+36317492;vendita;1a6aef087185e93bc30a024ce28e918d;nuda_proprieta_o_quota;NO;La descrizione specifica che il quadrilocale è venduto in nuda proprietà.;gpt-6-luna
+36206101;vendita;45e88380e9b15c6e8c01620c9d9bb690;immobile;SI;Il prezzo riguarda un bilocale descritto come abitazione completa, con soggiorno, angolo cottura e camera matrimoniale.;gpt-6-luna
+35407994;vendita;e3661ce928f4ee0026a92e1966fd81b1;immobile;SI;La descrizione propone in vendita un monolocale al settimo piano, riferendosi all’intera unità abitativa.;gpt-6-luna
+36818300;vendita;b2f77fc4b4a132cefa2dd6f84a923f74;immobile;SI;Il prezzo riguarda un mini appartamento di 44 mq venduto con terrazzo e garage.;gpt-6-luna
+36067810;vendita;35d1846bd5bbeda0b8f571d54880a44c;immobile;SI;Descrizione di un mini appartamento completo, con soggiorno, camera e bagno, venduto come unità abitativa.;gpt-6-luna
+36665959;vendita;003aa52dbc41d01c3b7cf8ff12f0ba83;immobile;SI;Il prezzo riguarda il mini appartamento completo, già locato, con terrazzo e garage.;gpt-6-luna
+31020439;vendita;8c7da3e1b3911490525147a8d1d1c760;immobile;SI;"Il prezzo riguarda un monolocale abitativo in ristrutturazione; il solaio è indicato come aggiunta separata.";gpt-6-luna
+36711827;vendita;6742f03c8ab595c618790bb72fa773b8;immobile;SI;La descrizione presenta un appartamento appena ultimato con ingresso indipendente, venduto come intera abitazione.;gpt-6-luna
+36710894;vendita;a5dddbcb347481d8621e7d554a083a01;immobile;SI;"Il prezzo riguarda un monolocale appena ultimato, descritto come abitazione completa; il posto auto è incluso.";gpt-6-luna
+36351011;vendita;d710f7df23b10f8fdbf99ed8ba8ee179;immobile;SI;"Il prezzo riguarda un appartamento trilocale ristrutturato; il box è un elemento accessorio incluso.";gpt-6-luna
+37044443;vendita;be64ba210b2f51a5b114d9f49df6f3ba;immobile;SI;La descrizione propone in vendita un bilocale abitativo al primo piano, con zona giorno e angolo cottura.;gpt-6-luna
+34394892;vendita;cd8d4975bfe69095a75786016aee8c4a;immobile;SI;Il prezzo riguarda un monolocale di civile abitazione, descritto come unità residenziale completa.;gpt-6-luna
+36982208;vendita;17446d2019936e5256b3989027f859e5;immobile;SI;Il prezzo riguarda un monolocale abitativo completo, con cucinotto e bagno, venduto come unità intera.;gpt-6-luna
+32231786;vendita;26c723270bf6d9121e29a00a9a727adc;immobile;SI;"È proposta come soluzione abitativa intera; l’uso attuale come studio professionale non cambia la destinazione descritta.";gpt-6-luna
+35944054;vendita;6a06307ba519bdbd433fa226d5251b9c;immobile;SI;Il prezzo riguarda un monolocale arredato di 40 mq, venduto come intera abitazione.;gpt-6-luna
+36928665;vendita;37dd7c502fafdd1ab40723e5fef7eaef;immobile;SI;"La descrizione propone in vendita un bilocale abitativo al primo piano; il prezzo riguarda l’intera unità.";gpt-6-luna
+36985385;vendita;8401bdd4f4817c0d1a2571dc31d56ff5;immobile;SI;È proposta in vendita un’intera unità abitativa, un monolocale già locato.;gpt-6-luna
+36286875;vendita;7eadd208fec8fa1c882fa5942944c602;immobile;SI;Il prezzo riguarda un appartamento di 56 mq descritto come unità abitativa con camere, bagno e cucina.;gpt-6-luna
+33623099;vendita;02e4cc14d1b30d51eb54bd1a7228c1d0;immobile;SI;"Monolocale ristrutturato di 40 mq, venduto come intera abitazione; è attualmente locato con contratto regolarmente registrato.";gpt-6-luna
+36805581;vendita;c99317803b20df90f634a337dfa51251;immobile;SI;Monolocale di 40 mq con bagno e poggiolo: il prezzo riguarda l’intera abitazione.;gpt-6-luna
+32479173;vendita;269c4d939e6a2244109fc9f33055d634;immobile;SI;Prezzo riferito all’intero appartamento mansardato, descritto come abitazione composta da zona giorno, camera e bagno.;gpt-6-luna
+34640230;vendita;e738bcccb3e152fbe703f6af7f5aa730;immobile;SI;Il prezzo si riferisce a un bilocale abitativo di 56 mq, descritto come unità completa con camera, bagno e terrazzo.;gpt-6-luna
+36708489;vendita;693f30564245a39846b944a61feaa6f2;immobile;SI;Il prezzo riguarda un bilocale di 51 mq al terzo piano, descritto come abitazione completa.;gpt-6-luna
+35847711;vendita;80bc5a56d7e5602ba8e402477add039a;incerto;NO;La descrizione è troncata e non conferma che il prezzo riguardi l’intera abitazione.;gpt-6-luna
+36080620;vendita;d11cec4ea12af4fed66e1f04b0c697d0;nuda_proprieta_o_quota;NO;La descrizione specifica che il trilocale è venduto in nuda proprietà.;gpt-6-luna
+33720678;vendita;df8a9b6ef6f11dae6126f3506b629b3c;immobile;SI;"Il prezzo riguarda la vendita dell’intero bilocale; cantina e posto auto condominiale sono inclusi.";gpt-6-luna
+36420991;vendita;627188b58bda124442b73096ac48538d;immobile;SI;Il prezzo riguarda un monolocale abitativo di 35 mq, descritto come unità completa con balcone.;gpt-6-luna
+37049439;vendita;6f39c72995e372302c2f032c2ddb8668;immobile;SI;Il prezzo si riferisce al monolocale abitativo, con terrazza e garage doppio inclusi.;gpt-6-luna
+32036933;vendita;91f53b5df065885d50b30f855c22c4c5;immobile;SI;Il prezzo riguarda un miniappartamento restaurato di 60 mq, descritto come intera unità abitativa con ingresso indipendente.;gpt-6-luna
+34945232;vendita;f531f4b0bcf2886b6c650fbb0fe68dca;immobile;SI;La descrizione riguarda un appartamento di 69 mq venduto come intera unità abitativa.;gpt-6-luna
+36194473;vendita;f89c6094b7c9116735bf1194c883498a;immobile;SI;"Il prezzo riguarda una mansarda abitativa intera, con soggiorno, cucina, due camere e bagno; il garage è accessorio.";gpt-6-luna
+37051692;vendita;c61ef1a47ff4ea21f6eb4db9dff6dca1;immobile;SI;Il prezzo riguarda la vendita dell’intero monolocale abitativo di 35 mq.;gpt-6-luna
+35470324;vendita;b2b4c42948ae432072e0c583df9b2d4c;immobile;SI;Il prezzo riguarda un appartamento libero, descritto con soggiorno, cucina, camera, bagno e balcone.;gpt-6-luna
+36970838;vendita;894d5619197a966d048c88f0b0dd63a8;immobile;SI;Il prezzo riguarda un intero appartamento abitabile, con cantina e garage inclusi.;gpt-6-luna
+36661254;vendita;262c59a28ba4826fe260e79ebb96f079;immobile;SI;Il prezzo riguarda l’intero monolocale abitativo, venduto arredato? No: affittato fino al 2030, ma venduto come unità intera.;gpt-6-luna
+32349904;vendita;28121e7512795cd9fb41d2314e6af77b;immobile;SI;Il prezzo riguarda un bilocale di 50 mq, descritto come appartamento pronto per essere abitato.;gpt-6-luna
+36705573;vendita;b7d22a2d0e8e301b062866a6f81577e1;immobile;SI;"Prezzo riferito alla vendita di un monolocale di 44 mq, recentemente ristrutturato; gli altri appartamenti sono solo una possibilità aggiuntiva.";gpt-6-luna
+34912116;vendita;9c1efa123f4a9fc1ca180a45d160b93e;altro;NO;È accatastato C/3, categoria di laboratorio, quindi non è un’intera unità abitativa.;gpt-6-luna
+35989746;vendita;ad5f2c969ddfe460cca8d3524d9d081c;immobile;SI;"La descrizione propone in vendita un bilocale ristrutturato di 60 mq; la discrepanza riguarda solo il prezzo.";gpt-6-luna
+36197046;vendita;e20beedfc8f6ee4ff562225cdb3b6902;immobile;SI;Prezzo riferito alla vendita dell’intero appartamento bilocale, descritto con superficie, piano e distribuzione interna.;gpt-6-luna
+35100085;vendita;d14873f31bfc1daadc547a3e9ea7da20;immobile;SI;Annuncio di vendita di un monolocale di 22 mq, descritto come abitazione.;gpt-6-luna
+35322909;vendita;3046e15f6cb055a7d8cb051b5f532d16;immobile;SI;Annuncio riferito a un monolocale di 28 mq, libero e descritto come abitazione in vendita.;gpt-6-luna
+35632695;vendita;4f472ac7678cba7510f05773ddff4bc3;immobile;SI;Il prezzo riguarda un monolocale intero, in fase di ristrutturazione completa.;gpt-6-luna
+36921956;vendita;67947d85b6240cc7c212117087386127;immobile;SI;Il prezzo si riferisce a un appartamento trilocale di 60 mq, posto al secondo piano.;gpt-6-luna
+35235601;vendita;d8d7c03373ce12c96ccadb2a48a44f4d;immobile;SI;Il prezzo riguarda un intero appartamento di 75 mq, descritto con soggiorno, cucina, camera e bagno.;gpt-6-luna
+32182015;vendita;acd57c50893b0ada70ccdb578440cb97;immobile;SI;Il prezzo riguarda un monolocale abitativo al secondo piano, descritto come appartamento in vendita.;gpt-6-luna
+36711842;vendita;1546952cd4020b87c479c1e5008e2f23;immobile;SI;"La descrizione propone un monolocale di 36 mq come investimento; non indica quote o usi limitati.";gpt-6-luna
+36920441;vendita;ec4aa777478ac8a739b3ad2c3dc58df3;immobile;SI;La descrizione indica la vendita dell’intero bilocale abitativo di circa 59 mq.;gpt-6-luna
+36660370;vendita;cd5f595abecbf756f6bc389eb8d6e29d;immobile;SI;Il prezzo riguarda un bilocale ristrutturato, descritto come unità abitativa in vendita.;gpt-6-luna
+36117634;vendita;5f0a950fac0eca0e2b14346494e6b667;immobile;SI;La descrizione propone in vendita un ampio bilocale, apparentemente un’intera abitazione.;gpt-6-luna
+34088095;vendita;c5671af29fdffb00fbf8af525bbeae64;nuda_proprieta_o_quota;NO;"La proprietà è venduta come nuda proprietà; l’usufruttuaria continuerà ad abitare l’immobile.";gpt-6-luna
+37011117;vendita;6a3c612836483f50c103acd890fec789;immobile;SI;Il prezzo riguarda l’intero appartamento ristrutturato, con soggiorno, cucina, camera, bagno, balconi e cantina.;gpt-6-luna
+36204271;vendita;955aa8e2d97e51eaedd1394f3a566442;immobile;SI;"L’annuncio propone un bilocale ristrutturato con terrazzo; il garage è un accessorio dell’abitazione.";gpt-6-luna
+37029151;vendita;402a4ef2caeb9bff046e52e387df8b9b;immobile;SI;Il prezzo riguarda un appartamento intero, in fase di ristrutturazione, descritto come unità abitativa.;gpt-6-luna
+36662652;vendita;643cd19669914a1288ed7f503eaea867;immobile;SI;Il prezzo si riferisce a un appartamento ristrutturato, descritto con soggiorno, cucina, camera e bagno.;gpt-6-luna
+35769194;vendita;140c8869c134ec98cce1ad6851a03091;immobile;SI;Monolocale ristrutturato venduto come intera abitazione, con loggia e cantina.;gpt-6-luna
+36273268;vendita;49d1bf0e1ec5751cd545ea765a77cb7c;immobile;SI;Il prezzo riguarda un bilocale di circa 50 mq, ristrutturato e arredato, venduto come intera abitazione.;gpt-6-luna
+33968281;vendita;fbe1ee8c67e034de64efaa386708a3ea;immobile;SI;La descrizione propone un appartamento spazioso per investimento o uso familiare, con 91 mq e tre locali.;gpt-6-luna
+36710738;vendita;53432110cbac531a8fb224c6c6d0fb66;immobile;SI;La descrizione propone in vendita un bilocale residenziale intero, con zona giorno e angolo cottura.;gpt-6-luna
+36320529;vendita;02703d4787904cd73b1c66cc6c095b76;immobile;SI;La descrizione propone in vendita un bilocale di 50 mq, pronto per essere abitato.;gpt-6-luna
+36349198;vendita;4c0ada6dec0771c4ed0daae2e0dad24b;immobile;SI;È proposto come intero monolocale a reddito e futuro pied-à-terre, non come stanza o pertinenza.;gpt-6-luna
+36148833;vendita;b927ffa5321133d45058dc7cca0f60e1;immobile;SI;Il prezzo riguarda un monolocale intero, arredato, con bagno e terrazzino, proposto come appartamento.;gpt-6-luna
+26027694;vendita;5d104e8b820f9e410ffbaeac6f91256d;immobile;SI;Titolo e dati indicano un trilocale di 74 mq al primo piano, senza segnali di vendita parziale o di altro oggetto.;gpt-6-luna
+35154707;vendita;a7ec82683aa55f086d2cec8456a141fc;immobile;SI;La descrizione presenta un bilocale abitativo di 62 mq in vendita, senza indicazioni di quote o uso limitato.;gpt-6-luna
+36397675;vendita;6967bdbed621942069a4c3ed3af01073;immobile;SI;La descrizione propone in vendita un appartamento con loggia, corrispondente al bilocale indicato.;gpt-6-luna
+36711837;vendita;d983140bf3ad8c4abdfc44b031a1a7d2;immobile;SI;Il prezzo riguarda un monolocale completo, con ingresso indipendente, soggiorno con angolo cottura e bagno.;gpt-6-luna
+37011120;vendita;845aa6b07cbff44512ba03b7dfdcfc88;immobile;SI;Il prezzo riguarda un intero appartamento bilocale abitativo, anche se attualmente affittato.;gpt-6-luna
+35901394;vendita;804779f0669d4dbc846eaa65d830fdec;immobile;SI;Il prezzo riguarda l’intero appartamento trilocale descritto, con soggiorno, cucina, due camere e bagno.;gpt-6-luna
+36842678;vendita;194f12a5c7ed0cc0822a27ea506b21a1;immobile;SI;"Prezzo riferito all’intero mini appartamento, completo di cantina e garage; è locato con contratto 3+2.";gpt-6-luna
+37016694;affitto;102d0303c6647484d027fc0038e8fe01;stanza_o_posto_letto;NO;La descrizione specifica che il prezzo riguarda un posto letto in un appartamento.;gpt-6-luna
+37036242;affitto;1c07d3e9dd530e0c8f02bd07b36208f7;immobile;SI;Monolocale arredato con bagno e angolo cottura, proposto come abitazione intera per una persona.;gpt-6-luna
+35293470;affitto;75ab5ad0e25711a9d87536cd0b3e5a09;immobile;SI;"Annuncio di un monolocale di 30 mq; non ci sono indicazioni di stanza condivisa o affitto turistico.";gpt-6-luna
+37048334;affitto;5af1df6f18a63ed5007ef37e6052259b;stanza_o_posto_letto;NO;Il prezzo di 400 euro è indicato per ciascuna stanza singola, non per l’intero appartamento.;gpt-6-luna
+37055374;affitto;9a9279f688687fe7c403b6491d19206d;immobile;SI;La descrizione indica un appartamento monolocale di 30 mq disponibile in affitto, non una stanza o un uso turistico.;gpt-6-luna
+34513622;affitto;2374dea7be90858c41f8b1f849ed4728;immobile;SI;"Monolocale intero arredato, affittato a studenti con contratto agevolato; il prezzo riguarda l’abitazione.";gpt-6-luna
+37018868;affitto;a8c7271af7a1f8805b424695f677d3a9;immobile;SI;La descrizione presenta un appartamento bilocale autonomo, senza indicazioni di stanza condivisa o affitto turistico.;gpt-6-luna
+36668553;affitto;b733e8c6d6103537a0070930a4d62e1c;immobile;SI;Monolocale arredato descritto come unità abitativa autonoma, con ingresso indipendente, cucina e bagno.;gpt-6-luna
+34504252;affitto;38401e60bddda83fa26c6bfd46429893;immobile;SI;"Monolocale autonomo di 35 mq affittato come abitazione per studenti; il prezzo riguarda l’intera unità.";gpt-6-luna
+17398471;affitto;00ff6640fafd9685b947579d7286c060;incerto;NO;Non è chiaro se i 500 euro siano il canone dell’intero appartamento o una quota per persona.;gpt-6-luna
+36826879;affitto;175480f46f7de4019ce3e81bb44731ec;immobile;SI;"Bilocale autonomo descritto come intera abitazione, affittato agli studenti; non è indicata la locazione di una stanza.";gpt-6-luna
+9257762;affitto;bf86c990f369db53ccf30a496113d863;immobile;SI;La descrizione indica un appartamento arredato e ristrutturato, affittato come intera abitazione.;gpt-6-luna
+37057420;affitto;9184f17332d3b7973aae4b69f577ea3d;immobile;SI;"Monolocale autonomo di 30 mq con soggiorno, cucinotto e bagno; il prezzo si riferisce all’intera abitazione.";gpt-6-luna
+35564977;affitto;ce7e641e0cdb8d0f5dce5997fe7431a2;immobile;SI;Descrizione di un appartamento arredato di 62 mq affittato come intera abitazione.;gpt-6-luna
+37024762;affitto;59499360dbf13e1f89d0b9c5c49b4178;immobile;SI;Si affitta un appartamento arredato composto da ingresso, camera, tinello, cucinino e bagno.;gpt-6-luna
+37050050;affitto;174620e7cb1703427058ba68a8cbc8e8;immobile;SI;Bilocale arredato descritto come intera abitazione, con soggiorno, angolo cottura e balcone.;gpt-6-luna
+37002126;affitto;5aa7b3b648aaca8da881027cda1cf2d6;immobile;SI;La descrizione propone in affitto un monolocale di 30 mq, apparentemente come intera unità abitativa.;gpt-6-luna
+37038890;affitto;3fcc87a922a26fa870c45320adb3f1ec;immobile;SI;"Monolocale arredato e ristrutturato, affittato come intera abitazione; non sono indicati uso turistico o condivisione.";gpt-6-luna
+36843997;affitto;2084b1bcec015bee8dcd5a03f743328e;immobile;SI;"Monolocale completo di angolo cottura, zona giorno/notte, bagno e poggiolo; il prezzo riguarda l’intera abitazione.";gpt-6-luna
+33312350;affitto;756d3066e0e999c5068e76f895a4fa5a;immobile;SI;Monolocale arredato di 42 m² affittato con contratto transitorio di un anno.;gpt-6-luna
+36855219;affitto;b92b7abba40e6e8094da62c559d1bbe8;immobile;SI;"Canone per l’intero bilocale arredato; il garage è incluso tra le pertinenze.";gpt-6-luna
+34513735;affitto;4ee69420401b3ffc87bc8cd82dd7cd99;stanza_o_posto_letto;NO;La descrizione propone stanze in affitto per studenti, non l’intero bilocale.;gpt-6-luna
+35544477;affitto;b38c7a9fdf516fa82fc966bb35b9a4d5;stanza_o_posto_letto;NO;La descrizione specifica che si affittano camere singole a studenti universitari, non l’intero appartamento.;gpt-6-luna
+36710061;affitto;b6a46dc1f9a394bb10f8f0cafa19bf7e;immobile;SI;"Il prezzo riguarda l’intero bilocale arredato; è proposto in affitto transitorio, con spese condominiali mensili.";gpt-6-luna
+36846053;affitto;813a7a4010ac75e9e4bc143a26dbb0c5;immobile;SI;"La descrizione propone in affitto un appartamento ristrutturato al primo piano; il prezzo riguarda l’intera abitazione.";gpt-6-luna
+37048777;affitto;989e1e00de7936401603cabb12a55536;immobile;SI;"La descrizione propone l’intero appartamento arredato in affitto; la cantina è accessoria.";gpt-6-luna
+36996349;affitto;084de4b35d1509f045289230e4b23dc6;immobile;SI;"Monolocale intero arredato, con bagno e angolo cottura; il canone è riferito all’abitazione.";gpt-6-luna
+32892167;affitto;ee6493736e40996809ae298f480fff75;immobile;SI;Monolocale arredato di 30 mq affittato come intera abitazione.;gpt-6-luna
+23810099;affitto;e325e659d04d6ef60810e7d58de9c5ee;immobile;SI;Bilocale di 45 mq descritto come unità abitativa completa in affitto, non stanza né locazione turistica.;gpt-6-luna
+25012798;affitto;df3af8a1e0325604571a470aae5a9b1c;immobile;SI;Monolocale arredato affittato per intero a 650 euro al mese, con spese condominiali separate.;gpt-6-luna
+36156850;affitto;29f434d44f3036807ab6cdf920e40931;immobile;SI;"Monolocale arredato descritto come intera abitazione in affitto; non sono indicati periodi turistici o condivisioni.";gpt-6-luna
+27014056;affitto;48c8575b8d22c692951b0ae00d54b08b;immobile;SI;"Monolocale arredato offerto in affitto a studenti o lavoratori; il prezzo riguarda l’intera abitazione.";gpt-6-luna
+36998905;affitto;3071dbaca3f930e970352737e2e775d6;immobile;SI;"Monolocale arredato di 42 mq, descritto come appartamento intero; il prezzo riguarda l’abitazione.";gpt-6-luna
+37061112;affitto;92adb9795d3d129c1bb4c6c9677517c3;immobile;SI;"Monolocale arredato ristrutturato, descritto come appartamento disponibile da subito; il prezzo riguarda l’intera abitazione.";gpt-6-luna
+30844384;affitto;7198692480aa0591ab7e1664c0af1721;immobile;SI;Il prezzo riguarda un monolocale arredato e ristrutturato, affittato come unità abitativa completa.;gpt-6-luna
+36812948;affitto;64983b1bfcf52e0675e53c951a30d10d;immobile;SI;Bilocale arredato di 50 mq descritto come unità intera, adatto anche a due studenti.;gpt-6-luna
+36200243;affitto;cd8e74136efad2e4b29da7b998b679c6;immobile;SI;Canone riferito alla locazione dell’intero monolocale, descritto con cucina, camera, bagno e balcone.;gpt-6-luna
+37052238;affitto;13e9a76ae7fc505395db2663976cc384;immobile;SI;"Monolocale ristrutturato descritto come soluzione pronta da abitare; il prezzo riguarda l’intera abitazione.";gpt-6-luna
+36447302;affitto;216d75238f9ad1b9c08a6028782b44be;immobile;SI;"Il prezzo si riferisce all’affitto dell’intero bilocale arredato; box e cantina sono solo pertinenze.";gpt-6-luna
+34268153;affitto;3548dc9314978f2c4ac57342bdb9abde;immobile;SI;Il prezzo riguarda un monolocale intero in affitto, descritto come abitazione con ambiente unico, balcone e bagno.;gpt-6-luna
+30769048;affitto;31f917e8fc687bced2bd6809e226279f;immobile;SI;La descrizione presenta un monolocale abitativo completo, apparentemente affittato come intera unità.;gpt-6-luna
+37028272;affitto;96a49bd1be311f3b9b38fcfffd329ade;immobile;SI;Il prezzo riguarda l’intero monolocale di 30 mq, descritto come abitazione in locazione.;gpt-6-luna
+35516042;affitto;98547b4853422a40147740a796b58bef;immobile;SI;"Annuncio di monolocale in affitto, descritto come appartamento abitativo; il canone riguarda l’intera unità.";gpt-6-luna
+35563258;affitto;cd1bfd0672729ca9938f8b6eb3a5c6cb;immobile;SI;La descrizione propone in affitto l’intero monolocale ristrutturato, pronto da abitare.;gpt-6-luna
+25553093;affitto;cff3f9791899c69f9fb13c2f76bf1f08;immobile;SI;Bilocale completo di soggiorno, camera e bagno, affittato a 700 euro mensili con contratto di 12 mesi.;gpt-6-luna
+36401218;affitto;80e55af2d8c0d29746f8ffc3fa2e0f54;immobile;SI;"La descrizione presenta un monolocale di 55 mq come abitazione autonoma; non indica affitto turistico o condivisione.";gpt-6-luna
+33086869;affitto;c05a552e44ac857780b61458e96410c7;immobile;SI;Monolocale arredato affittato per intero con canone mensile e contratto transitorio fino a 12 mesi.;gpt-6-luna
+36378387;affitto;ddb04de5127c537c03518e8130f63cf9;immobile;SI;"Annuncio di un bilocale di 55 mq in affitto; non indica stanza condivisa né locazione turistica.";gpt-6-luna
+37051348;affitto;97c2986468f1be767e38d36c67474090;immobile;SI;Il prezzo riguarda l’intero bilocale abitabile, composto da cucina, camera, bagno e balconi.;gpt-6-luna
+36888933;affitto;3fe37a880397b618073753ce95db32a2;immobile;SI;Monolocale arredato di 34 mq, descritto come intera abitazione in locazione.;gpt-6-luna
+36880586;affitto;b17cd58af3c8e21b88ac40edbd5b394a;immobile;SI;"Annuncio di appartamento arredato in affitto transitorio; l’affitto per stanze è indicato come alternativa.";gpt-6-luna
+36663817;affitto;051e536f7c1127aa57aa73c1de627c7c;immobile;SI;La descrizione propone in locazione l’intero trilocale, con canone ordinario e capienza massima di due persone.;gpt-6-luna
+32178722;affitto;4ff9ec90e12bb3c9850e18ed3f422033;immobile;SI;"Il prezzo riguarda l’affitto dell’intero bilocale arredato; cantina e posto auto sono pertinenze.";gpt-6-luna
+36909265;affitto;1bbf9277508fd21d7dd144ab8f68f5e2;immobile;SI;"La descrizione presenta un appartamento ristrutturato in affitto; non indica condivisioni o periodi turistici.";gpt-6-luna
+37061503;affitto;b776fc4296c4da8f7a06c79141cd0e92;immobile;SI;"Monolocale arredato di 35 mq proposto in affitto; il prezzo riguarda l’intera abitazione.";gpt-6-luna
+36941003;affitto;4e8f91dd090c1399cc6c4d6cf6adf541;immobile;SI;La descrizione propone in locazione l’intero bilocale ristrutturato, non una stanza o un periodo turistico.;gpt-6-luna
+37060527;affitto;87c1c6ed78b8fb3ff7218a8bcb1282c5;immobile;SI;Monolocale arredato e ristrutturato offerto in locazione come intera abitazione.;gpt-6-luna
+36613239;affitto;53a4bb8d3e75ffc0c2355801284fb03b;immobile;SI;Descrizione di un trilocale arredato di 70 mq, affittato come intera abitazione.;gpt-6-luna
+37044046;affitto;362827d84cb76bde28ee343f76f25ead;immobile;SI;"Canone mensile per l’intero appartamento arredato; il contratto è riservato a studenti universitari.";gpt-6-luna
+36915721;affitto;32f4ddd13d7427165fa294db4907eff9;immobile;SI;Descrizione di un appartamento arredato in affitto, apparentemente locato come intera abitazione.;gpt-6-luna
+36880099;affitto;3f006bd2e2343eb06864e8da3fabe824;immobile;SI;"Bilocale arredato affittato con contratto transitorio; non è indicata una locazione di stanza o posto letto.";gpt-6-luna
+35765096;affitto;a126a69d16b1f104d14fa48cca9bc6df;immobile;SI;La descrizione riguarda l’affitto dell’intero appartamento, composto da più locali e accessori.;gpt-6-luna
+29764268;affitto;4422cb713be3fb15b7b13203e37e24c0;immobile;SI;"Descrive un bilocale intero su due livelli, offerto in affitto; cantina e posto auto sono accessori.";gpt-6-luna
+19134494;affitto;90ad817dc8172f7c74914a70fe276cf8;immobile;SI;"Bilocale arredato di 55 mq proposto in locazione; il prezzo si riferisce all’intera abitazione.";gpt-6-luna
+33212643;affitto;3b819a4377275ecb4b92d7c513277368;immobile;SI;La descrizione presenta un trilocale ristrutturato e arredato, apparentemente affittato come intera abitazione.;gpt-6-luna
+16768597;affitto;ac46aaeb72ba59f030c74a35157f8502;immobile;SI;"Bilocale arredato di 65 mq affittato come intera abitazione; il prezzo è un canone ordinario.";gpt-6-luna
+36245493;affitto;d14132cd96f3ffb42cb6e6a0c4654471;immobile;SI;Il prezzo riguarda un monolocale arredato, descritto come appartamento in affitto al quinto piano.;gpt-6-luna
+36759620;affitto;5c57a9ff0ef87520110b52184798294f;immobile;SI;Bilocale di 50 mq affittato come intera abitazione con canone mensile di 780 euro.;gpt-6-luna
+17237047;affitto;12a51fc8d43dfcd0ade3b7abfa099a64;immobile;SI;La descrizione propone in locazione l’intero appartamento monolocale di 32 mq.;gpt-6-luna
+30421373;affitto;b4f8871f20e27083937a72c3765a53a7;immobile;SI;Descrizione di un alloggio arredato di 96 mq proposto in locazione, senza indicazioni di affitto turistico o condiviso.;gpt-6-luna
+37057674;affitto;8c659e271d6669e79d495403a060b4ff;immobile;SI;La descrizione indica l’affitto dell’intero monolocale come soluzione abitativa.;gpt-6-luna
+37042538;affitto;de385306619e03728f2de67c9087aaae;immobile;SI;La descrizione propone in locazione l’intero bilocale arredato di 50 mq, pronto da abitare.;gpt-6-luna
+36839050;affitto;fae78f95caf58c7ee7a32cd53f5a002b;immobile;SI;Monolocale arredato e ristrutturato di 25 mq, proposto come unità abitativa intera.;gpt-6-luna
+37049637;affitto;6f5e620be2dbecfad2acff5ae748d4a3;immobile;SI;Descrizione riferita a un appartamento loft intero, ristrutturato e offerto in affitto a referenziati.;gpt-6-luna
+36851977;affitto;8994ea51e116a2a280dafc3f06ab4e09;immobile;SI;"La descrizione indica l’affitto dell’intero trilocale abitabile; il posto auto è un accessorio.";gpt-6-luna
+35020963;affitto;47e3b64553533f33a3ad02c8b25e6da5;affitto_stagionale_turistico;NO;La descrizione indica contratti di affitto per brevi periodi, non un normale canone abitativo a lungo termine.;gpt-6-luna
+37028577;affitto;65e55ebf51c07567daf8ad03b0c5fe8b;immobile;SI;Il prezzo si riferisce a un monolocale arredato e attrezzato affittato come intera abitazione.;gpt-6-luna
+36916210;affitto;ec276579bce6d5ff0f6f55d1dbb0c0e9;immobile;SI;La descrizione propone in locazione l’intero appartamento trilocale di 97 mq.;gpt-6-luna
+27441288;affitto;3d32b9bbe14609e15c9d0a8d15d0cf2e;stanza_o_posto_letto;NO;La descrizione propone due camere singole in un appartamento condiviso, non l’intera abitazione.;gpt-6-luna
+36788817;affitto;3a8bbfc8cedc8cc09b1c3a560071a2e1;immobile;SI;Descrizione di un appartamento arredato offerto con contratto transitorio, senza indicazioni di stanze affittate separatamente.;gpt-6-luna
+36313014;affitto;0764f74327a0a9437b2cf9904a270465;immobile;SI;La descrizione indica un appartamento intero di 90 mq, con camere, salone, cucina e due bagni.;gpt-6-luna
+28164895;affitto;2c4ec004b3a3e221af6178a568844de7;immobile;SI;"Descrizione di un appartamento bilocale completo, affittato come intera abitazione; il posto auto è accessorio.";gpt-6-luna
+36651652;affitto;ce98906d9a4dec04442961e30332be29;immobile;SI;"Descrizione di un appartamento arredato di 100 mq, con soggiorno, cucina e due camere; il prezzo riguarda l’intera abitazione.";gpt-6-luna
+35814342;affitto;4d5f2ceacd1d234918c813afffba60f1;immobile;SI;La descrizione indica un bilocale arredato di 55 mq proposto in locazione come intera abitazione.;gpt-6-luna
+33211740;affitto;eda31bdc67668e2fc731be936fada3ae;immobile;SI;Descrizione di un appartamento mansardato arredato, con terrazzo privato, offerto in affitto.;gpt-6-luna
+36914033;affitto;336ca9a8a9eab7c78ff626dccead2e50;immobile;SI;"Descrizione di un appartamento intero di 120 mq proposto in locazione; non emergono usi turistici o condivisioni.";gpt-6-luna
+36799680;affitto;02e53b7a732531f1e0877d95580db83b;immobile;SI;La descrizione propone in affitto un bilocale di 45 mq su due livelli, quindi un’intera abitazione.;gpt-6-luna
+36757234;affitto;92830a6533e849be2e67d66a6c909c7e;immobile;SI;Descrizione di un monolocale arredato con cucinotto e balcone, affittato come intera abitazione.;gpt-6-luna
+33501347;affitto;04813fc8fd43b2a66e6467952d153d0c;immobile;SI;Bilocale arredato di 56 mq descritto come intero appartamento in locazione.;gpt-6-luna
+37060710;affitto;5c5b83f50ad6d044b4f7d56b6ba07669;immobile;SI;La descrizione presenta un monolocale intero di 42 mq, con zona giorno/notte, cucina e bagno.;gpt-6-luna
+36988673;affitto;78d1d4a3209247734333154ca1a84096;immobile;SI;La descrizione propone in affitto l’intero monolocale ristrutturato di 47 mq.;gpt-6-luna
+25705005;affitto;2a489e65403ae441237388500e3f5617;immobile;SI;Locazione di un loft abitativo di 48 mq, descritto come unità completa con soggiorno, cucina, camera e bagno.;gpt-6-luna
+33549009;affitto;a5e8a12c9b3d5e2590da193445f0997a;immobile;SI;La descrizione presenta un loft abitativo intero in affitto, senza indicazioni di locazione turistica o per periodi brevi.;gpt-6-luna
+15453238;affitto;25a514a1769b711e523723df890d703a;immobile;SI;"Monolocale intero in affitto, adatto a una o due persone; canone mensile indicato con spese.";gpt-6-luna
+37053764;affitto;717b26d4945809f71beb97c0f724edde;immobile;SI;La descrizione propone in affitto l’intero appartamento bilocale arredato di 74 mq.;gpt-6-luna
+36396270;affitto;bb02d9e56727ef8c423eaf0da84de93e;immobile;SI;Descrizione di un bilocale arredato offerto come appartamento intero, senza indicazioni di affitto turistico o stanza.;gpt-6-luna
+36829902;affitto;c749c1698b746d05835328a22b1ce8f8;immobile;SI;La descrizione propone in affitto l’intero monolocale di 36 mq, pronto da abitare.;gpt-6-luna
+36151356;affitto;f2b09c66ac4d74cae81b4bf8b5496217;immobile;SI;"La descrizione propone in locazione l’intero trilocale di 91 mq; non indica affitto turistico o condivisione.";gpt-6-luna
+36756330;affitto;7c3db581267581b46ff6a275540e0949;immobile;SI;La descrizione propone un trilocale intero di 77 mq, con canone di affitto ordinario.;gpt-6-luna
+36452823;affitto;f952cb538bdc6e0b2dcc7b2c842c59aa;immobile;SI;La descrizione indica un appartamento ammobiliato di 135 mq affittato nel suo intero.;gpt-6-luna
+33577818;affitto;0718b20473f44497e4be89c509799969;immobile;SI;La descrizione propone in affitto l’intero bilocale, con soggiorno, cucina, bagno e camera.;gpt-6-luna
+33671639;affitto;498920b8c387ca0cfbc120c141981400;immobile;SI;"Descrizione di un appartamento intero di 43 mq, con camera, bagno e cucina; indicato come affittasi.";gpt-6-luna
+35431288;affitto;601b4d62bc7b20245a0c3c4f87b80a44;immobile;SI;La descrizione propone in affitto l’intero bilocale di 54 mq, senza indicazioni di locazione turistica o a periodi.;gpt-6-luna
+37050641;affitto;6f82fb51e12a2c54ca58cc3a94cf9d06;immobile;SI;La descrizione propone in affitto l’intero bilocale arredato di circa 40 mq.;gpt-6-luna
+36969130;affitto;0e7db2185f0a9b7edf196d1caf5edf58;immobile;SI;Il prezzo riguarda un monolocale ristrutturato, descritto come intera soluzione abitativa in locazione.;gpt-6-luna
+36301758;affitto;e8615a9fb3684f6c03ce6e3a48dcb542;immobile;SI;Bilocale arredato di 46 mq proposto in locazione come intera abitazione.;gpt-6-luna
+37045219;affitto;ba54df8bacde5b6b2ca59bf0af06e844;immobile;SI;"Descrive un bilocale arredato di 48 mq offerto in affitto; il prezzo riguarda l'intera abitazione.";gpt-6-luna
+36885906;affitto;1787211225eccad6a701f69ff1e1778a;immobile;SI;"La descrizione indica la locazione di un appartamento ristrutturato; non emergono riferimenti a stanze o affitto turistico.";gpt-6-luna
+36732340;affitto;a1210c6123b2baf0a879aa8c212e7a9d;immobile;SI;"Bilocale arredato e ristrutturato, descritto come abitazione intera; non emergono indicazioni di affitto turistico o a periodi.";gpt-6-luna
+36732382;affitto;fd7354fbc5b8a77372766984343a8d0b;immobile;SI;La descrizione propone in affitto un bilocale intero, arredato e ristrutturato.;gpt-6-luna
+36827468;affitto;325d0259496774fa8f44457a50ed84ed;immobile;SI;"Annuncio riferito a un trilocale di 85 mq, descritto come appartamento; non emergono indicazioni di affitto turistico o parziale.";gpt-6-luna
+36912991;affitto;9720612023f36e9c9d8483d377ba6838;immobile;SI;Canone per l’intero bilocale, descritto come abitazione e offerto con contratto transitorio.;gpt-6-luna
+36590452;affitto;f495a75ae7f7dab9f912fe2a200a861f;immobile;SI;"Il prezzo si riferisce all’intero appartamento arredato di 90 mq; non è indicato un affitto per singole stanze.";gpt-6-luna
+16004713;affitto;881a2343e2c0592749e619e123352bef;immobile;SI;"La descrizione presenta un appartamento arredato di 140 mq; non indica affitto di singole stanze o periodi turistici.";gpt-6-luna
+32579919;affitto;62864f232b63bb3e2988fd03163f76af;immobile;SI;La descrizione indica un appartamento intero in affitto a 900 euro mensili, con spese condominiali incluse.;gpt-6-luna
+37049428;affitto;3daaf73a7084996afcaa0b3e1075a4ee;immobile;SI;La descrizione presenta un appartamento arredato di 130 mq in affitto, senza indicare locazione per stanza o per brevi periodi.;gpt-6-luna
+37052753;affitto;ccccbb1ef56570dcbc7a1290a7a43d89;immobile;SI;Descrizione di un monolocale arredato su due livelli, con soggiorno, angolo cottura e camera matrimoniale, affittato come intera abitazione.;gpt-6-luna
+36792029;affitto;fee5c1aa575b0d45c75a649d55daf145;immobile;SI;La descrizione indica l’affitto dell’intero appartamento arredato, con soggiorno, camere, cucina e servizi.;gpt-6-luna
+37049176;affitto;87d7ff15c2059bf66204ecf7a0d4454b;immobile;SI;"Annuncio di bilocale ristrutturato in locazione; il prezzo riguarda l’intera abitazione.";gpt-6-luna
+36646716;affitto;43393f9203a47ceea45e36dc3d0b738a;immobile;SI;"Monolocale di 45 mq descritto come unità abitativa; il prezzo riguarda l'intero appartamento.";gpt-6-luna
+27640878;affitto;edc622312103dbc510ab23cde29249f4;immobile;SI;È descritto un monolocale arredato di 30 mq, senza indicazioni di condivisione o affitto turistico.;gpt-6-luna
+36242155;affitto;b5a364ecc3fd66a625959cd4a736861d;immobile;SI;Bilocale arredato su due livelli, descritto come abitazione intera in affitto.;gpt-6-luna
+37016622;affitto;d941166fcaa7c72efcc07ddccd90af4d;immobile;SI;"Trilocale arredato di 75 mq affittato per intero; sono esclusi gli affitti transitori.";gpt-6-luna
+36919854;affitto;6127c95f22fc7657255dbcd6dab15c69;immobile;SI;La descrizione propone in affitto un bilocale arredato di 55 mq, apparentemente come intera abitazione.;gpt-6-luna
+29963158;affitto;c03d6fc47cd9348f6116d16c9b3bc587;immobile;SI;Trilocale arredato descritto come intera abitazione in affitto, con soggiorno, cucina, terrazzo e due bagni.;gpt-6-luna
+36980830;affitto;20677419afe7ec8ca7823ca5d0d3fb5e;immobile;SI;Il prezzo riguarda l’intero appartamento di 115 mq, con soggiorno, cucina, tre camere e bagno.;gpt-6-luna
+30828823;affitto;faa808fc286f0a40ee7ccac0b2798c62;immobile;SI;"L’annuncio descrive un appartamento intero di 100 mq; non specifica che il prezzo sia per stanza o posto letto.";gpt-6-luna
+36118953;affitto;b1568f07993fefabdd334287d10ecfe1;immobile;SI;Bilocale di 50 mq con ingresso indipendente, proposto in locazione con canone mensile.;gpt-6-luna
+37061211;affitto;202e2897d3d5feb65f4f5759a5d4c1f1;immobile;SI;La descrizione propone in locazione l’intero bilocale di 75 mq, senza indicazioni di affitto per stanza o brevi periodi.;gpt-6-luna
+21864253;affitto;097ddcfa78737ae26bc3563fc82a0f40;immobile;SI;Descrizione di un appartamento intero di 90 mq, con soggiorno, cucina e due camere da letto.;gpt-6-luna
+33290139;affitto;3c3cc11c5fb02f629c13d1973dc41a06;immobile;SI;"Descrizione di un bilocale arredato completo, proposto come appartamento; il prezzo si riferisce all’intera abitazione.";gpt-6-luna
+34098223;affitto;630cd459b693ba01e17467cdfc2b8b94;immobile;SI;Bilocale arredato di 50 mq proposto in locazione come intera abitazione.;gpt-6-luna
+12100761;affitto;c077091bc2a6ca9c51d05274bb669d58;immobile;SI;Bilocale arredato di 55 mq descritto come intero appartamento, senza indicazioni di affitto turistico o per periodi.;gpt-6-luna
+36753226;affitto;66097d8321311e3ef0c78b40487784ec;immobile;SI;Canone mensile per l’intero appartamento di 5 vani, indicato come disponibile in locazione.;gpt-6-luna
+36084937;affitto;d29ffd5510a68386bbff450c8935ccda;immobile;SI;"Bilocale arredato affittato per intero; la descrizione indica un appartamento abitabile, senza riferimenti a uso turistico o a periodi brevi.";gpt-6-luna
+36977424;affitto;f523dc1baaaaf5cd1b5882ddf0b21d99;immobile;SI;La descrizione riguarda un appartamento su due livelli con cucina, bagno e soppalco, affittato come intera abitazione.;gpt-6-luna
+36756384;affitto;a926ff5afc03399056a63c0505d85a28;immobile;SI;"Il prezzo riguarda un trilocale di 95 mq proposto in affitto; il posto auto è una dotazione accessoria.";gpt-6-luna
+36765966;affitto;d8e6dcf8bb2227798bdc5ae28a7d458c;immobile;SI;La descrizione indica un trilocale completo, con due camere e cucina, offerto in affitto come intera abitazione.;gpt-6-luna
+36297323;affitto;7a523eee579e55afd15cd237369c8d81;immobile;SI;Annuncio per un quadrilocale arredato affittato per intero, con canone ordinario e libero da luglio 2026.;gpt-6-luna
+33496807;affitto;d9e985c51aeb88e92e247444c0fbcfc8;immobile;SI;"Appartamento trilocale arredato, descritto come unità abitativa intera; il prezzo è riferito alla locazione dell’immobile.";gpt-6-luna
+32531180;affitto;72b101cc922ebce597975c1547e0ad22;immobile;SI;Descrizione di un bilocale arredato di 48 m², affittato come intera abitazione.;gpt-6-luna
+37057537;affitto;2c878c5024e0f2f41a53ca9e77cec1ee;immobile;SI;"La descrizione propone un appartamento di 140 mq in affitto, adatto a viverci; non indica una stanza o un uso turistico.";gpt-6-luna
+36776079;affitto;f1e51dfada3a21bd2e9b8dbeb3deebd9;immobile;SI;La descrizione riguarda un intero appartamento di 130 mq con tre camere, due bagni e cucina.;gpt-6-luna
+35709243;affitto;ba4c987a58ebf74fafdf274763e87e64;immobile;SI;Il prezzo riguarda l’intero appartamento arredato, composto da soggiorno, tre camere, bagno e balconi.;gpt-6-luna
+27729154;affitto;48ce1f2d82a23949530524325ebd8854;immobile;SI;"Bilocale intero arredato, affittato per uso transitorio; il posto auto è solo una pertinenza.";gpt-6-luna
+37044987;affitto;ae22ed09040c65817265d9d25e9371e6;immobile;SI;È proposto in locazione l’intero quadrilocale, composto da tre camere e cucina abitabile.;gpt-6-luna
+36854181;affitto;8ac2ca49d2bb235356a63c3bd765104c;immobile;SI;La descrizione indica l’affitto di un appartamento ristrutturato, senza riferimenti a stanze o posti letto.;gpt-6-luna
+36852467;affitto;999d27fcfae552fa17e91bbbcdc9ac7f;immobile;SI;"Bilocale di 86 mq, disponibile con contratto libero; il prezzo riguarda chiaramente l’intera abitazione.";gpt-6-luna
+36247169;affitto;af90280c9bf06cefb28442ceaea51ad2;immobile;SI;"Annuncio riferito a un bilocale di 52 mq, libero da subito; il prezzo riguarda l’intera abitazione.";gpt-6-luna
+35758472;affitto;3ae68da9790c56e6c46b671870ca5ad8;immobile;SI;La descrizione propone in locazione l’intero trilocale arredato di 98 mq.;gpt-6-luna
+36807034;affitto;f523d7a4b7991ff4a6623e7a59acfba7;immobile;SI;La descrizione presenta un appartamento arredato intero, destinato a un massimo di tre studenti.;gpt-6-luna
+37051021;affitto;a17ead1f07adce0d62be07fccc2263a1;immobile;SI;"Monolocale intero, con locazione minima di 120 giorni; il prezzo appare riferito all’abitazione.";gpt-6-luna
+36098629;affitto;722608dcba4e78e3f04c7351d9db8725;immobile;SI;La descrizione propone in locazione l’intero appartamento bilocale ristrutturato.;gpt-6-luna
+36922254;affitto;b110f69e06a55c9408d223592187c85c;immobile;SI;Annuncio di un bilocale ristrutturato di 65 mq proposto in locazione come intera abitazione.;gpt-6-luna
+36073868;affitto;2b9a09fdf5e4fdaa7de65fa2be3e189a;immobile;SI;Descrizione di un bilocale ristrutturato e arredato, affittato come intera abitazione.;gpt-6-luna
+32306639;affitto;dcc89ec54b8dcf650674825dce2eec6d;immobile;SI;"La descrizione propone un trilocale arredato come unità abitativa intera; il canone è indicato mensilmente.";gpt-6-luna
+36692496;affitto;a5069d34b4a2b8d99dbbdb8418b6d147;immobile;SI;"Il prezzo riguarda l’affitto dell’intero trilocale; il doppio box è una pertinenza inclusa.";gpt-6-luna
+28175384;affitto;9085a0d7a91856f6b5db0b900b360c81;immobile;SI;La descrizione affitta l’intero appartamento di 145 mq, con tre camere, due bagni e terrazza.;gpt-6-luna
+37051031;affitto;277afe467471c34db6be51fddb2483b1;affitto_stagionale_turistico;NO;Prenotazione online, massimo ospiti e soggiorno minimo di 120 giorni indicano una locazione temporanea.;gpt-6-luna
+37051019;affitto;49c3abfc313b6ad6b868977b0e04565c;affitto_stagionale_turistico;NO;Prenotazione online, durata minima di 30 giorni e numero massimo di ospiti indicano un affitto temporaneo.;gpt-6-luna
+36924527;affitto;e858d19834bdaf5338b16191e3fda24e;immobile;SI;Il prezzo riguarda l’intero bilocale ristrutturato, proposto in locazione.;gpt-6-luna
+37021982;affitto;6c193b4046ba82d71275c086810bf3be;affitto_stagionale_turistico;NO;Prenotabile da uno a sei mesi: si tratta di un affitto di breve periodo.;gpt-6-luna
+35703094;affitto;6bcbc993bbea7843576607b7cddab67e;immobile;SI;Descrizione riferita a un appartamento quadrilocale intero, arredato parzialmente e destinato a uso abitativo.;gpt-6-luna
+35759961;affitto;5c5721291f1fdc463fc630b1b28da52e;immobile;SI;La descrizione indica l’affitto di un intero quadrilocale di circa 90 mq, non di una stanza o di un periodo turistico.;gpt-6-luna
+36313878;affitto;b8b68799975daecbe6c2035d732f98e0;immobile;SI;"La descrizione presenta un appartamento bilocale di 60 mq; il prezzo si riferisce all’intera abitazione.";gpt-6-luna
+35691860;affitto;bf68d9b34cf2f2cd005cecca5cb9f98d;immobile;SI;La descrizione propone in affitto l’intero quadrilocale, con zona giorno e cucina abitabile.;gpt-6-luna
+36926988;affitto;c68bb63ce11c999597708e6295dcef63;incerto;NO;La descrizione propone l’affitto dell’intero appartamento oppure a camere, ma non chiarisce a quale opzione si riferiscano i 1.200 euro.;gpt-6-luna
+36979413;affitto;1f13999371a9c44f7f241cc36f87973a;immobile;SI;Descrizione riferita a un appartamento arredato di 91 mq, affittato come intera abitazione.;gpt-6-luna
+34696893;affitto;6c99f7caca0eed300a197bedfa46d5d7;affitto_stagionale_turistico;NO;La descrizione propone un affitto settimanale e mensile, con spese incluse, indicando una locazione breve.;gpt-6-luna
+35731475;affitto;df8922160bece2fcdae7359b0410e461;immobile;SI;Il prezzo si riferisce a un trilocale di 95 m² descritto come abitazione in zona residenziale.;gpt-6-luna
+36398636;affitto;fd3e1e669061793a2bd3ce9f4e7f32e2;immobile;SI;Il prezzo riguarda l’intero bilocale, proposto per esigenze temporanee di studio o personali.;gpt-6-luna
+36966757;affitto;8616780a88132a149132b82a6309e8cf;immobile;SI;Il prezzo riguarda l’intero appartamento, affittato arredato per 9-12 mesi.;gpt-6-luna
+33481505;affitto;49afd32dda6258bf9bea2733e03c0799;affitto_stagionale_turistico;NO;La descrizione specifica affitti brevi di 9/12 mesi, non una locazione ordinaria a lungo termine.;gpt-6-luna
+35678820;affitto;34377e0f38192979373b4717ef6b9049;immobile;SI;"Il prezzo riguarda l’intero appartamento arredato, affittato per uso transitorio; il posto auto è accessorio.";gpt-6-luna
+34451695;affitto;566495c49c2a91ed46e50c835cdca6d0;immobile;SI;Il prezzo si riferisce all’intero appartamento arredato di 98 mq, descritto come disponibile in affitto.;gpt-6-luna
+21630347;affitto;9e3542c9b14ad702fb3536bfe05229f1;immobile;SI;"Locazione dell’intero appartamento per almeno 15 mesi; l’indicazione degli studenti descrive i possibili inquilini.";gpt-6-luna
+36737413;affitto;db144a15bf3e684848c8019296ac107b;immobile;SI;La descrizione indica un appartamento trilocale intero di 120 mq, con terrazzino e cantina.;gpt-6-luna
+33158850;affitto;3963d3bdfe31d655b5ae199e6a2ba5cc;immobile;SI;"Trilocale di 70 mq proposto in affitto; non risultano riferimenti a stanze o usi diversi dall’abitazione.";gpt-6-luna
+36271125;affitto;88288667511a9df72cdba0692d0357ba;immobile;SI;La descrizione indica un appartamento arredato di 62 mq proposto in locazione.;gpt-6-luna
+19346132;affitto;d57201c234795ca16d56e5c2d918d5fc;immobile;SI;Il prezzo riguarda l’intero appartamento trilocale, con canone e spese condominiali mensili.;gpt-6-luna
+35901855;affitto;b3af085b7e3bb850c8d6e16b17fb2d29;immobile;SI;"Canone riferito all’intero appartamento, descritto con soggiorno, cucina, due camere e bagno; ospita al massimo tre studenti.";gpt-6-luna
+34453069;affitto;bdc44af9c8e69069628f86b10797bb6a;immobile;SI;"Annuncio riferito a un bilocale intero; le categorie indicate suggeriscono una locazione abitativa transitoria, non turistica.";gpt-6-luna
+36904631;affitto;a7f03fdb3792dbdb113e626fd8793232;immobile;SI;È un trilocale intero affittato per esigenze abitative con contratto transitorio.;gpt-6-luna
+31107241;affitto;d8cc8e2b4a3bbfe4f0706842d8bd17c9;immobile;SI;Il canone mensile all-inclusive si riferisce a un appartamento intero bilocale in locazione.;gpt-6-luna
+33041093;affitto;c950159710a1d0da12a894c57686879d;immobile;SI;"La descrizione indica l’affitto dell’intero appartamento; non emergono riferimenti a stanze, uso turistico o altri oggetti.";gpt-6-luna
+37026075;affitto;4a2bee9cdad7ef015bcb854c2cf21226;immobile;SI;"Il prezzo si riferisce all’intero appartamento; l’annuncio non indica affitto di singole stanze.";gpt-6-luna
+36995321;affitto;a77d11ea808381e3ec26f7fe105b1f2f;affitto_stagionale_turistico;NO;La prenotazione è per periodi da 1 a 12 mesi, quindi non è un canone ordinario di lungo termine.;gpt-6-luna
+12349587;affitto;132bfb01f259a9e27678264f8f3fae36;immobile;SI;Bilocale arredato di 65 mq proposto in locazione come intera abitazione.;gpt-6-luna
+36344124;affitto;a410d0967049d69fe4b5fb010b7f0c60;immobile;SI;La descrizione propone un mini appartamento in locazione a 1.350 euro al mese.;gpt-6-luna
+36171458;affitto;713851831ac1125aa366df0c26716476;immobile;SI;Descrizione di un appartamento ristrutturato in affitto, con ambienti e caratteristiche dell’intera abitazione.;gpt-6-luna
+36370273;affitto;ae7654dfbe91b8d32fc5f3f995e7a28b;immobile;SI;Il prezzo riguarda l’intero appartamento arredato, composto da tre camere, cucina e due bagni.;gpt-6-luna
+36232769;affitto;b1f128d568d279451f1c6000c0781f60;immobile;SI;La descrizione indica un appartamento bilocale arredato e ristrutturato, affittato come intera abitazione.;gpt-6-luna
+36414414;affitto;e329ea6740029190437ce5965c22db8e;affitto_stagionale_turistico;NO;L’annuncio propone un appartamento arredato per un soggiorno temporaneo, non un affitto ordinario di lungo periodo.;gpt-6-luna
+36913693;affitto;dc6395a34e31bd310576b2b351a1a1ac;immobile;SI;Il prezzo si riferisce all’intero appartamento arredato, con soggiorno, cucina, quattro camere e servizi.;gpt-6-luna
+36272296;affitto;ed88416b47644eec77a0cb3c1c54389d;immobile;SI;Il prezzo si riferisce all’affitto dell’intero bilocale di 65 mq, non a una stanza o a un altro oggetto.;gpt-6-luna
+36857008;affitto;fc82c5797fe669094fe58b996476f5f5;immobile;SI;"Affitto di un trilocale arredato, descritto come unità abitativa completa; non emergono indicazioni di locazione per stanza o periodi brevi.";gpt-6-luna
+36895484;affitto;c86f061aa6000053ffb5558af61f7b6e;immobile;SI;"Monolocale intero; il canone è mensile e la prenotazione è prevista da uno a dodici mesi.";gpt-6-luna
+34894931;affitto;d5794da34775d97b972a336269b4dc83;immobile;SI;Descrizione riferita a un appartamento arredato di 180 mq affittato come intera abitazione.;gpt-6-luna
+37054564;affitto;120e03f68319aab19280e0b6a774cfb1;affitto_stagionale_turistico;NO;Disponibile da una data specifica, con soggiorno minimo di un mese e pulizie incluse: affitto per periodi brevi.;gpt-6-luna
+37054305;affitto;65603b6fa93f7dcb887f7d0342a4f0a5;affitto_stagionale_turistico;NO;Prenotabile da uno a dodici mesi, con utenze indicate separatamente: si tratta di un affitto breve o temporaneo.;gpt-6-luna
+37043038;affitto;428024abd871825e57d3eca99bad9659;immobile;SI;La descrizione riguarda un appartamento di 100 mq, affittato come intera abitazione.;gpt-6-luna
+37014165;affitto;79b47fcf8d95d81996f44b21921cfa61;immobile;SI;Annuncio di trilocale intero di 70 mq, proposto in affitto con canone ordinario.;gpt-6-luna
+37060247;affitto;9e90a5cebf186d7b119bb3cac841e0fb;immobile;SI;La descrizione propone in locazione un’intera soluzione abitativa loft su due livelli, di 102 mq e quattro locali.;gpt-6-luna
+37055494;affitto;c8f69643e14d7819293ac53c533807fb;immobile;SI;Annuncio di un bilocale intero di 65 mq, proposto in affitto con canone di 1.500 euro.;gpt-6-luna
+35173222;affitto;ce2987a2b88a543ea1d76e3717a18ba0;immobile;SI;Annuncio di locazione di un monolocale ristrutturato di 36 mq, apparentemente affittato per intero.;gpt-6-luna
+35225258;affitto;a34e76e9d27c4c7e3abe75d400824b95;immobile;SI;La descrizione propone in locazione un appartamento arredato, con soggiorno, cucina e camera.;gpt-6-luna
+32829777;affitto;541bb12df33dd2a7ae47a25e5c72d35a;immobile;SI;"Canone riferito all’intero trilocale arredato di 110 mq; non sono indicati affitti a breve termine.";gpt-6-luna
+36347466;affitto;27df33afa509770baa8a4c272e8fe56e;immobile;SI;La descrizione riguarda un appartamento bilocale intero, ristrutturato e destinato a uso abitativo.;gpt-6-luna
+25517391;affitto;7d16f9b1efdad403f719ab28f5b6a060;immobile;SI;La descrizione riguarda un appartamento signorile di 120 mq affittato come intera abitazione.;gpt-6-luna
+31390479;affitto;cce4ba65c2c4ef4b8d4552b81635b618;immobile;SI;"Titolo e descrizione indicano un appartamento in affitto; non emergono riferimenti a stanze, periodi turistici o altri oggetti.";gpt-6-luna
+32547380;affitto;78b7a49bb17cd520a5cbd56edd80ce62;immobile;SI;La descrizione indica l’affitto dell’intero appartamento su due piani, con camere, bagni, soggiorno e cucina.;gpt-6-luna
+16751504;affitto;c97ab2121397a6b7d7b24b2b0b0b718e;affitto_stagionale_turistico;NO;È affittato esclusivamente per brevi periodi, da giorni a settimane o uno/due mesi.;gpt-6-luna
+35540129;affitto;c31f0bf12aa38431ad6a54fbf25d43ae;immobile;SI;"Annuncio di affitto dell’intero appartamento di 180 mq; non sono indicati uso turistico o locazione per periodi brevi.";gpt-6-luna
+35966165;affitto;de7248f7bc466833cbd7a659ffeae2ab;immobile;SI;Annuncio riferito a un quadrilocale di 118 mq, senza indicazioni di stanze affittate separatamente o uso turistico.;gpt-6-luna
+35494221;affitto;2f53dfd3a72980bc737159193c9dfdd1;immobile;SI;"Descrizione di un appartamento completo con soggiorno, cucina, camere, bagni e balconi; il prezzo riguarda l’intera abitazione.";gpt-6-luna
+36907451;affitto;294eec4676930ca432f76793faf0396a;affitto_stagionale_turistico;NO;Prenotabile da uno a dodici mesi, con canone e utenze indicati separatamente: affitto temporaneo.;gpt-6-luna
+22303305;affitto;656f7d266beabebd73ae89c68a4c7eeb;immobile;SI;Il prezzo si riferisce all’intero appartamento di circa 120 mq, disponibile per tre studenti o colleghi.;gpt-6-luna
+36311390;affitto;aeba91db4ca94382726ef789cc43517f;immobile;SI;"È descritto un appartamento intero di 140 mq; la condivisione è prevista tra coinquilini, senza indicazione di un prezzo per stanza.";gpt-6-luna
+37056916;affitto;fc1b320ff100eaba4b3eff8ce3210b45;immobile;SI;La descrizione propone in locazione l’intero appartamento, con soggiorno, cucina, due camere e doppi servizi.;gpt-6-luna
+16602839;affitto;36809ac31da419740a9afe982ffce4d2;immobile;SI;La descrizione propone in locazione un intero pentalocale di circa 160 mq, non una stanza o un uso turistico.;gpt-6-luna
+36565502;affitto;ce1126b8ecdf23b96681aed15d215d12;affitto_stagionale_turistico;NO;Prenotabile da 1 a 6 mesi, quindi destinato a soggiorni brevi e non a un affitto ordinario di lungo periodo.;gpt-6-luna
+35613356;affitto;b78f642d623af9277eecf5d92e769dd7;immobile;SI;La descrizione presenta un bilocale intero, ristrutturato e arredato, offerto in affitto.;gpt-6-luna
+36349418;affitto;ea5aa6128b3881a57e6886e41e15d7da;immobile;SI;La descrizione propone in affitto l’intera casetta indipendente di circa 100 mq.;gpt-6-luna
+36735320;affitto;52e8213674498d17d3e101c6106f286b;immobile;SI;La descrizione indica la locazione transitoria di un intero appartamento mansardato di 88 mq.;gpt-6-luna
+33534254;affitto;0639ba260de2b04cee38613410c2653e;immobile;SI;"Descrizione di un attico intero con cucina, soggiorno, quattro camere, bagni e terrazzi; il canone riguarda l’abitazione.";gpt-6-luna
+36949437;affitto;84b678abd1869f7582785ab4524d5b32;immobile;SI;La descrizione indica l’affitto dell’intero appartamento ristrutturato e arredato, disposto su due piani.;gpt-6-luna
+36756372;affitto;13aa4eefa091e5f752b83ad21117d5eb;immobile;SI;"Annuncio di casa indipendente in affitto; non è indicata la locazione di singole stanze o di periodi turistici.";gpt-6-luna
+35329081;affitto;c11167d54de1620d3dae5bd1edac7bb3;immobile;SI;La descrizione presenta un appartamento trilocale intero con giardino esclusivo e doppia autorimessa.;gpt-6-luna
+30403489;affitto;82edac3dc07780ad624ab20b6804d553;immobile;SI;"La descrizione propone in locazione un appartamento ristrutturato; il prezzo si riferisce all’intera abitazione.";gpt-6-luna
+35962198;affitto;e1a03df4191b11be92ac5157f6006c89;immobile;SI;La descrizione presenta un appartamento di 130 mq e 6 locali, senza indicazioni di affitto per stanza o uso turistico.;gpt-6-luna
+36326738;affitto;27735f396f6561845e8e71f9fa0941f7;immobile;SI;"Il prezzo riguarda l’intero appartamento, affittato con contratto solidale; non sono indicati stanze o periodi turistici.";gpt-6-luna
+36347276;affitto;dba6f555b3bcce4fcf4804a28a23d7a4;immobile;SI;Il prezzo si riferisce a un appartamento trilocale di 130 mq, ristrutturato e affittato come intera abitazione.;gpt-6-luna
+36908600;affitto;4f29e147c3f13945eb51d3e319226d20;immobile;SI;La descrizione presenta un appartamento trilocale intero, con canone indicato e caratteristiche abitative dettagliate.;gpt-6-luna
+16751551;affitto;4086f868534da66513bf5c2d87127c83;immobile;SI;"Il prezzo si riferisce al bilocale intero; utenze e spese sono incluse, senza indicazioni esplicite di affitto turistico o a periodi.";gpt-6-luna
+35439551;affitto;954380a09621a8ae3b8fb6633caa4cd8;immobile;SI;La descrizione presenta un appartamento di 230 mq con cinque camere, affittato come intera abitazione.;gpt-6-luna
+37054576;affitto;77eedb6fbfd5f793d3fd5a80dd3f2c43;immobile;SI;Il prezzo è il canone mensile per l’intero bilocale, prenotabile per periodi transitori da 1 a 18 mesi.;gpt-6-luna
+36836864;affitto;1744f5a2a5dd5a67cb3122f315828f2d;affitto_stagionale_turistico;NO;Disponibile per soggiorni brevi, da 1 a 4 mesi, con canone non indicato come locazione ordinaria.;gpt-6-luna
+36733438;affitto;3419bb4c4974e89050321f0a8817ed66;immobile;SI;La descrizione presenta un appartamento completo di 125 mq, con più ambienti e terrazza, affittato come intera abitazione.;gpt-6-luna
+36918666;affitto;de52f6262107d77d7ec1f24645579ac9;affitto_stagionale_turistico;NO;La locazione prevede soggiorni temporanei, da un minimo di un mese a un massimo di dodici.;gpt-6-luna
+37008449;affitto;46745ddb668a875d50dc0a984a8764a7;immobile;SI;Bilocale intero con canone mensile e soggiorno prenotabile da 1 a 12 mesi.;gpt-6-luna
+36995270;affitto;ad7c3d92b1ea80e7d854f7eeeea1e9d3;affitto_stagionale_turistico;NO;Prenotabile per periodi da 1 a 12 mesi, con utenze indicate separatamente: formula di affitto breve.;gpt-6-luna
+36821515;affitto;d7d80a2917876436e5a403135eae1b90;affitto_stagionale_turistico;NO;Prenotabile per periodi da 1 a 12 mesi, quindi non è un ordinario affitto a lungo termine.;gpt-6-luna
+36963439;affitto;f98a7a41b5e9d3d9fa0eb6b900ee41a4;affitto_stagionale_turistico;NO;Prenotabile da 1 a 12 mesi, con utenze indicate separatamente: si tratta di un affitto temporaneo.;gpt-6-luna
+36980305;affitto;95136b053a8b1cc88160dfe9b83c5aa1;affitto_stagionale_turistico;NO;Prenotabile da 1 a 12 mesi, con utenze indicate separatamente: si tratta di un affitto per periodi brevi.;gpt-6-luna
+36762179;affitto;d6305fb631ff7bcdb90434fe3b046b12;affitto_stagionale_turistico;NO;Prenotabile per periodi brevi: minimo un mese, massimo dodici.;gpt-6-luna
+32349212;affitto;2bdcae6b2eb002b4aab831ded2ebf7df;immobile;SI;"La descrizione riguarda un attico intero, ristrutturato e arredato; non indica affitto turistico o per periodi brevi.";gpt-6-luna
+36071989;affitto;3852d2d003a300b1f02eec48c2da3885;immobile;SI;La descrizione propone in affitto l’intero appartamento ristrutturato, senza indicazioni di locazione turistica o parziale.;gpt-6-luna
+34438872;affitto;356498ac60797ac67b5d65fae1fffd26;immobile;SI;Il prezzo riguarda l’intero attico di 220 mq, descritto come abitazione completa disponibile da ottobre.;gpt-6-luna
+37009855;affitto;ef92dfc83b3e7cc5407775dfac1afe2c;immobile;SI;La descrizione propone in affitto l’intera villa, con ampi spazi, piscina, terrazzo e posti auto.;gpt-6-luna
+36301406;affitto;e2180e03a467995d097446368af243bc;immobile;SI;"La descrizione propone in locazione l’intero appartamento arredato di circa 170 mq; non indica affitto turistico o per stanza.";gpt-6-luna
+36806904;affitto;a1e44fdac54265abec9f8d3b3b89f268;affitto_stagionale_turistico;NO;Soggiorno temporaneo prenotabile da 1 a 6 mesi, non un ordinario affitto a lungo termine.;gpt-6-luna
+36834529;affitto;b06a2bc12c68e78be9cc370aa1540701;immobile;SI;Attico arredato descritto come appartamento intero in affitto, senza indicazioni di uso turistico o temporaneo.;gpt-6-luna

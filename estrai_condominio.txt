@@ -1,0 +1,97 @@
+import os
+import random
+import time
+from playwright.sync_api import sync_playwright
+
+# --- CONFIGURAZIONE PERCORSI ---
+file_link = r"C:\Users\giuli\Desktop\GDC Immobiliare\link_schede.txt"
+cartella_destinazione = r"C:\Users\giuli\Desktop\GDC Immobiliare\dati\pagine\pagina_ID"
+
+if not os.path.exists(cartella_destinazione):
+    os.makedirs(cartella_destinazione)
+
+with open(file_link, "r", encoding="utf-8") as file_urls:
+    links = [linea.strip() for linea in file_urls if linea.strip()]
+
+print(f"🔗 Trovati {len(links)} link totali da elaborare.")
+print("⚡ Avvio scaricamento diretto con simulazione di scrolling casuale ed umano...\n")
+
+with sync_playwright() as p:
+    try:
+        # Avvia Chrome ereditando il proxy configurato a livello di sistema Windows
+        browser = p.chromium.launch(headless=False, slow_mo=1000)
+        context = browser.new_context(
+            viewport={"width": 1366, "height": 768},
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+        )
+        page = context.new_page()
+
+        # Rimuove le proprietà di tracciamento bot
+        page.add_init_script("""
+            Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+        """)
+
+        percorso_eseguito = 0
+
+        for url in links:
+            percorso_eseguito += 1
+            id_immobile = url.rstrip("/").split("/")[-1]
+            
+            if not id_immobile.isdigit():
+                continue
+                
+            nome_file = f"{id_immobile}.html"
+            percorso_completo = os.path.join(cartella_destinazione, nome_file)
+
+            # 1️⃣ SALTA I FILE GIÀ PRESENTI VELOCEMENTE
+            if os.path.exists(percorso_completo):
+                print(f"⏭️  [{percorso_eseguito}/{len(links)}] ID {id_immobile} già scaricato. Salto...")
+                continue
+
+            print(f"⏳ [{percorso_eseguito}/{len(links)}] Caricamento scheda ID {id_immobile}...")
+
+            # 2️⃣ DOWNLOAD REALE E DIRETTO DELLA SCHEDA DI IDEALISTA
+            try:
+                page.goto(url, wait_until="domcontentloaded", timeout=60000)
+                time.sleep(3) # Lascia inizializzare l'HTML della pagina
+                
+                contenuto_html = page.content()
+                
+                if "temporaneamente limitato" not in contenuto_html:
+                    
+                    # 🟢 SCROLL CASUALE SIMULATO (Comportamento Umano)
+                    # Decide casualmente quante volte scorrere (es. tra 2 e 4 piccoli scroll)
+                    passi_scroll = random.randint(2, 4)
+                    print(f"🖱️  [Simulazione] Eseguo {passi_scroll} movimenti di lettura sulla pagina...")
+                    
+                    for i in range(passi_scroll):
+                        # Genera una distanza casuale in pixel per ogni movimento (es. tra 300 e 600 pixel)
+                        distanza_pixel = random.randint(300, 600)
+                        page.evaluate(f"window.scrollBy(0, {distanza_pixel});")
+                        
+                        # Piccola sosta casuale tra uno scroll e l'altro per imitare la lettura (es. tra 0.4 e 1.2 secondi)
+                        time.sleep(random.uniform(0.4, 1.2))
+                    
+                    # Salva l'HTML comprensivo degli elementi caricati durante lo scroll
+                    with open(percorso_completo, "w", encoding="utf-8") as file_html:
+                        file_html.write(page.content())
+                    print(f"💾 Salvato con successo: {nome_file}")
+                else:
+                    print(f"❌ ID {id_immobile} bloccato temporaneamente dal portale (Accesso limitato).")
+
+                # Pausa mimetica finale prima del link successivo
+                pausa = random.uniform(8.0, 13.0)
+                print(f"⏱️  Prossimo link tra {pausa:.2f} secondi...\n")
+                time.sleep(pausa)
+
+            except Exception as e:
+                print(f"❌ Errore durante il caricamento del link {url}: {e}")
+                time.sleep(4)
+
+        context.close()
+        browser.close()
+
+    except Exception as e:
+        print(f"❌ Errore generale del motore: {e}")
+
+print("\n🏁 Processo completato!")

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+_to_delete/
+dati/
+analisi_modelli/out_*/
+annunci_*.csv
+link_schede.txt
+stanze_intero_cache.csv
